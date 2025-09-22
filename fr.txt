@@ -1,0 +1,104 @@
+1:"$Sreact.fragment"
+3:I[6892,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"default"]
+4:I[97268,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"default"]
+6:I[12802,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"OutletBoundary"]
+8:I[24952,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"AsyncMetadataOutlet"]
+a:I[12802,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"ViewportBoundary"]
+c:I[12802,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[37495,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"default"]
+:HL["/_next/static/chunks/7fee4cf52fcbbfbb.css","style"]
+:HL["/_next/static/media/0c89a48fa5027cee-s.p.4564287c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"_4A6WGCBxGeMdXOq2sYEc","p":"","c":["","fr"],"i":false,"f":[[["",{"children":[["locale","fr","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7fee4cf52fcbbfbb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/25f589797a17b3ca.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/75b30de8498ae4ee.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["locale","fr","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/3aeac099b766b24b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/846435c5ebed0225.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7fee4cf52fcbbfbb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[80566,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"ThemeProvider"]
+11:I[3020,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js","/_next/static/chunks/3aeac099b766b24b.js","/_next/static/chunks/846435c5ebed0225.js"],"SiteHeader"]
+12:I[28081,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js","/_next/static/chunks/3aeac099b766b24b.js","/_next/static/chunks/846435c5ebed0225.js"],"ClientSearch"]
+2:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"space_grotesk_4e7b6542-module__IWK99G__variable jetbrains_mono_f8223cee-module__0kZ6aq__variable antialiased","children":["$","$L10",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]
+13:Tc1b,
+<ThemeImage
+  lightSrc="/images/2025/decibelpeak.webp"
+  darkSrc="/images/2025/decibelpeak.webp"
+  alt="Capture d’écran de l’application Decibel Peak"
+  width={800}
+  height={600}
+/>
+
+# Aperçu
+
+Decibel Peak est une application de sonomètre de précision conçue pour iOS, offrant des mesures fiables du niveau sonore pour les passionnés et les utilisateurs qui ont besoin d’un suivi précis du bruit. Que vous surveilliez les niveaux sonores de votre environnement, que vous suiviez leur évolution dans le temps ou que vous soyez simplement curieux de l’environnement acoustique qui vous entoure, Decibel Peak fournit des capacités de mesure pratiques et faciles à utiliser.
+
+## Fonctionnalités clés
+
+### 🎯 Mesure de précision
+- Surveillance en temps réel des niveaux sonores avec mesure de précision  
+- Détection sonore précise grâce au microphone de l’appareil  
+- Retour visuel fluide et réactif avec courbes dynamiques  
+- Mesures cohérentes pour un suivi fiable des tendances  
+
+### 📱 Optimisé pour iOS
+- Application native iOS  
+- Interface SwiftUI optimisée pour des performances fluides  
+- Design réactif qui s’adapte à différentes tailles d’écran  
+- Expérience utilisateur moderne et intuitive  
+
+### 📊 Excellence visuelle
+- Visualisation en temps réel élégante des niveaux sonores  
+- Courbes dégradées fluides réagissant à l’entrée audio  
+- Interface au design minimaliste et épuré  
+- Affichages de mesures clairs et faciles à lire  
+
+### ⚡ Performances optimisées
+- Application légère avec impact minimal sur la batterie  
+- Algorithmes de traitement audio efficaces  
+- Démarrage instantané et contrôles réactifs  
+- Optimisée pour iPhone et iPad  
+
+## Cas d’utilisation
+
+**Applications de référence :**  
+- Sensibilisation au bruit environnemental  
+- Surveillance du niveau sonore en milieu professionnel  
+- Comparaison d’équipements audio  
+- Expériences éducatives sur le son  
+
+**Utilisation personnelle :**  
+- Surveillance du bruit domestique  
+- Vérification du niveau sonore lors d’événements  
+- Expériences sonores éducatives  
+- Curiosité générale sur le bruit ambiant  
+
+## Spécifications techniques
+
+- **Plateforme :** iOS 17.0+  
+- **Framework :** Développée avec SwiftUI pour des performances natives  
+- **Traitement audio :** Analyse en temps réel du niveau sonore  
+- **Interface :** Interface moderne et adaptative  
+- **Performance :** Optimisée pour l’efficacité énergétique  
+
+## Confidentialité & Sécurité
+
+Decibel Peak respecte votre vie privée :  
+- Aucune capture ni enregistrement audio  
+- Traitement en temps réel uniquement  
+- Aucune transmission de données vers des serveurs externes  
+- Toutes les mesures sont traitées localement sur votre appareil  
+
+## Téléchargement
+
+Disponible sur l’App Store pour iOS.  
+
+---
+
+## Support & Contact
+**Développeur :** André Frélicot  
+**Support :** support@andrefrelicot.dev  
+
+Transformez votre expérience de suivi sonore avec Decibel Peak – là où la précision rencontre la simplicité.
+5:["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L11",null,{"locale":"fr","navLinks":[{"href":"/fr","label":"Devlogs"},{"href":"/fr?tag=apps","label":"Apps"},{"href":"/fr/2025/09/a-propos","label":"À propos"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Solopreneur"}]]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$d",null,{"fallback":null,"children":["$","$L12",null,{"locale":"fr","copy":{"placeholder":"Rechercher un contenu par titre ou corps...","allLabel":"Tous","empty":"Aucun contenu correspondant pour le moment.","showTags":"Afficher les étiquettes & la recherche","hideTags":"Masquer les étiquettes & la recherche","loadMore":"Charger plus de résultats"},"initialDocs":[{"slug":"decibelpeak","title":"Decibel Peak 1.0 - Mesure de niveau sonore de précision","description":"Decibel Peak est une application de sonomètre de précision conçue pour iOS, offrant des mesures fiables du niveau sonore pour les passionnés et les utilisateurs ayant besoin d’un suivi précis du bruit.","tags":["apps"],"content":"$13","image":"/images/2025/decibelpeak.webp","date":"2025-09-22"},{"slug":"a-propos","title":"À propos","description":"Un aperçu rapide de qui je suis, de la façon dont ce site est construit et de ce que vous trouverez dans les prochains devlogs.","tags":["about"],"content":"\n<ThreeCube />\n\n### À propos de moi\nhello@andrefrelicot.dev\n\n","image":"/images/2025/about.webp","date":"2025-09-22"},{"slug":"hello-world","title":"Hello World !","description":"Hello world description FR","tags":["devlog"],"content":"\n\n### Hello World !\n\n\n","image":"/images/2025/hello-world.webp","date":"2025-09-21"}],"pathsBySlug":{"decibelpeak":"/fr/2025/09/decibelpeak","a-propos":"/fr/2025/09/a-propos","hello-world":"/fr/2025/09/hello-world"}}]}]}],"$L14"]}]
+15:I[79927,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js","/_next/static/chunks/3aeac099b766b24b.js","/_next/static/chunks/846435c5ebed0225.js"],"default"]
+14:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2025," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L15","LinkedIn",{"href":"https://www.linkedin.com/in/andr%C3%A9-fr%C3%A9licot-44aa2336/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L15","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L15","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"André Frélicot - TechLead & Solopreneur"}],["$","meta","1",{"name":"description","content":"Une sélection de mes écrits et projets."}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","href":"https://andrefrelicot.dev/feed.xml"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

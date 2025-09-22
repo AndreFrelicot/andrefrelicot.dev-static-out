@@ -5,7 +5,15 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Solopreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 20:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 20:23:54 GMT</lastBuildDate>
+    <item>
+      <title>Hello World !</title>
+      <link>https://andrefrelicot.dev/en/2025/09/hello-world</link>
+      <guid>https://andrefrelicot.dev/en/2025/09/hello-world</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Hello world description</description>
+      <category>devlog</category>
+    </item>
     <item>
       <title>Decibel Peak 1.0 - Precision sound level measurement</title>
       <link>https://andrefrelicot.dev/en/2025/09/decibelpeak</link>
@@ -15,18 +23,10 @@
       <category>apps</category>
     </item>
     <item>
-      <title>Hello World !</title>
-      <link>https://andrefrelicot.dev/en/2025/09/hello-world</link>
-      <guid>https://andrefrelicot.dev/en/2025/09/hello-world</guid>
-      <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
-      <description>Hello world description</description>
-      <category>devlog</category>
-    </item>
-    <item>
       <title>About</title>
-      <link>https://andrefrelicot.dev/en/2025/02/about</link>
-      <guid>https://andrefrelicot.dev/en/2025/02/about</guid>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+      <link>https://andrefrelicot.dev/en/2025/09/about</link>
+      <guid>https://andrefrelicot.dev/en/2025/09/about</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
       <description>A quick primer on who I am, how this site is built, and what to expect from upcoming devlogs.</description>
       <category>about</category>
     </item>

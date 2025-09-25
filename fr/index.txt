@@ -10,12 +10,12 @@ f:I[37495,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b3
 :HL["/_next/static/chunks/2fcd75b495f17f01.css","style"]
 :HL["/_next/static/media/0c89a48fa5027cee-s.p.4564287c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"b":"2gAez3RwStGzlMgJvh_1Z","p":"","c":["","fr",""],"i":false,"f":[[["",{"children":[["locale","fr","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fcd75b495f17f01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/25f589797a17b3ca.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/75b30de8498ae4ee.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["locale","fr","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/7f88c737dae8d738.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/75948afb03bd371d.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fcd75b495f17f01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+0:{"P":null,"b":"KQZKUxjHanWr2sYR2T42C","p":"","c":["","fr",""],"i":false,"f":[[["",{"children":[["locale","fr","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fcd75b495f17f01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/25f589797a17b3ca.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/75b30de8498ae4ee.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["locale","fr","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/7f88c737dae8d738.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/75948afb03bd371d.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fcd75b495f17f01.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
 10:I[80566,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js"],"ThemeProvider"]
 11:I[3020,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js","/_next/static/chunks/7f88c737dae8d738.js","/_next/static/chunks/75948afb03bd371d.js"],"SiteHeader"]
 12:I[28081,["/_next/static/chunks/25f589797a17b3ca.js","/_next/static/chunks/75b30de8498ae4ee.js","/_next/static/chunks/7f88c737dae8d738.js","/_next/static/chunks/75948afb03bd371d.js"],"ClientSearch"]
 2:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"space_grotesk_4e7b6542-module__IWK99G__variable jetbrains_mono_f8223cee-module__0kZ6aq__variable antialiased","children":["$","$L10",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]
-13:T445,
+13:T46c,
 
 # Bienvenue sur mon Devlog !  
 
@@ -31,6 +31,8 @@ Mes centres d’intérêt sont principalement :
 - la **VR/XR** (Oculus Quest, Apple Vision)  
 - la **cybersphère** en général (réseaux sociaux, viralité, IoT, etc.)  
 - l’**IA générative**  
+- **Web 3.0** (blockchain, cryptos). 
+
 
 La création de **mini-jeux vidéo** m’intéresse également, qu’il s’agisse d’idées originales ou d’adaptations.  
 
@@ -122,13 +124,13 @@ Disponible sur l’App Store pour iOS.
 **Support :** support@andrefrelicot.dev  
 
 Transformez votre expérience de suivi sonore avec Decibel Peak – là où la précision rencontre la simplicité.
-15:T7d6,
+15:T7fb,
 <ThreeCube />
 
 
 # À propos  
 
-Je suis développeur de logiciels depuis plus de 25 ans, en entreprise, en startup et en tant que freelance.  
+Je suis développeur de logiciels (CTO, Architect, Tech Lead) depuis plus de 25 ans, en entreprise, en startup et en tant que freelance.  
 J’ai travaillé sur des projets variés : logiciels de gestion, applications mobiles intégrant du machine learning et du flux vidéo, applications médicales nécessitant des systèmes de visualisation avancés (rendu volumique distribué, clusters GPU dans le cloud), ou encore applications mobiles utilisant la communication Bluetooth LE en temps réel (y compris le développement de firmware pour périphériques BLE).  
 
 En 2025, je démarre un nouveau chapitre : explorer les opportunités offertes par l’IA (LLM, deep learning) pour créer de nouveaux types de produits. Tout en restant profondément ancré dans la technique, je m’intéresse aussi aux nouveaux modes de consommation du logiciel : viralité, acquisition client via les réseaux sociaux (UGC), et stratégies marketing. Là où le logiciel fusionne avec le contenu.  
@@ -144,7 +146,7 @@ Mon rôle évolue ainsi vers celui de **Digital Strategist**, pour imaginer, dis
 ✨ **J’aide les entreprises à transformer leurs idées en applications mobiles et web performantes.**  
 
 Je reste disponible pour des missions ponctuelles en freelance.  
-Je privilégie le développement d’applications mobiles iOS (**SwiftUI**) et cross-platform (**React Native, Ionic**), ainsi que d’applications web modernes (**React / Next.js**), déployées sur des solutions cloud performantes (**Vercel, Supabase, Firebase, Neo**).  
+Je privilégie le développement d’applications mobiles iOS (**SwiftUI**) et cross-platform (**React Native, Ionic**), ainsi que d’applications web modernes (**React / Next.js**), déployées sur des solutions cloud performantes (**Vercel, Supabase, Firebase, Neon, Convex**).  
 
 🔥 Pour la première mission, j’applique une remise de 50%.  
 Mon taux horaire est de **80€/h** (soit **640€/jour**).  

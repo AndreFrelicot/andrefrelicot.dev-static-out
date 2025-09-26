@@ -5,7 +5,15 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Solopreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Sep 2025 11:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 21:43:48 GMT</lastBuildDate>
+    <item>
+      <title>DecibelPeak 1.0 - Precision sound level measurement</title>
+      <link>https://andrefrelicot.dev/en/2025/09/decibelpeak</link>
+      <guid>https://andrefrelicot.dev/en/2025/09/decibelpeak</guid>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <description>DecibelPeak is a precision decibel meter application designed for iOS, providing reliable sound level measurements for enthusiasts and users who need accurate noise monitoring.</description>
+      <category>apps</category>
+    </item>
     <item>
       <title>Hello World!</title>
       <link>https://andrefrelicot.dev/en/2025/09/hello-world</link>
@@ -13,14 +21,6 @@
       <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
       <description>Welcome to my Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music &amp; audio</description>
       <category>devlog</category>
-    </item>
-    <item>
-      <title>DecibelPeak 1.0 - Precision sound level measurement</title>
-      <link>https://andrefrelicot.dev/en/2025/09/decibelpeak</link>
-      <guid>https://andrefrelicot.dev/en/2025/09/decibelpeak</guid>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <description>DecibelPeak is a precision decibel meter application designed for iOS, providing reliable sound level measurements for enthusiasts and users who need accurate noise monitoring.</description>
-      <category>apps</category>
     </item>
     <item>
       <title>About</title>

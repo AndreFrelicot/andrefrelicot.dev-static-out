@@ -5,7 +5,15 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Solopreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Sep 2025 17:30:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 15:15:52 GMT</lastBuildDate>
+    <item>
+      <title>BLE UScope 1.0</title>
+      <link>https://andrefrelicot.dev/en/2025/10/ble-uscope</link>
+      <guid>https://andrefrelicot.dev/en/2025/10/ble-uscope</guid>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <description>Advanced Bluetooth Low Energy Scanner and Analyzer for iOS/iPadOS and macOS (catalyst).</description>
+      <category>apps</category><category>bluetooth</category><category>ble</category><category>iOS</category><category>macOS</category><category>iPadOS</category>
+    </item>
     <item>
       <title>DecibelPeak 1.0 - Precision sound level measurement</title>
       <link>https://andrefrelicot.dev/en/2025/09/decibelpeak</link>

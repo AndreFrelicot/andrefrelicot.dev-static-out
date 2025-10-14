@@ -5,14 +5,14 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Solopreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Oct 2025 21:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 11:48:24 GMT</lastBuildDate>
     <item>
       <title>LLMVoice 1.0</title>
       <link>https://andrefrelicot.dev/en/2025/10/llmvoice</link>
       <guid>https://andrefrelicot.dev/en/2025/10/llmvoice</guid>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-      <description></description>
-      <category>_apps</category>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+      <description>Technical demo designed to evaluate the new speech recognition APIs of iOS 26 (SpeechAnalyzer / SpeechTranscriber) and the execution of open-weight LLM models (quantized in 4 bits) locally on an iPhone supporting the MLX framework.</description>
+      <category>apps</category><category>llm</category><category>mlx</category><category>apple_intelligence</category><category>ios26</category><category>speechanalyzer</category><category>speechtranscriber</category><category>audio</category><category>voice</category><category>local</category><category>on_device</category><category>source_code</category>
     </item>
     <item>
       <title>BLE UScope 1.0</title>

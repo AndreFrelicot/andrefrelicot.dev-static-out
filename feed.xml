@@ -5,7 +5,7 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 01:30:08 GMT</lastBuildDate>
     <item>
       <title>AppExpress – Offer Pre-Launch</title>
       <link>https://andrefrelicot.dev/en/2026/01/appexpress-pre-launch</link>
@@ -28,7 +28,7 @@
       <guid>https://andrefrelicot.dev/en/2025/10/ble-uscope</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
       <description>Advanced Bluetooth Low Energy Scanner and Analyzer for iOS/iPadOS and macOS (catalyst).</description>
-      <category>apps</category><category>bluetooth</category><category>ble</category><category>iOS</category><category>macOS</category><category>iPadOS</category>
+      <category>apps</category><category>bluetooth</category><category>ble</category><category>ios</category><category>macos</category><category>ipados</category>
     </item>
     <item>
       <title>DecibelPeak 1.0</title>
@@ -36,7 +36,7 @@
       <guid>https://andrefrelicot.dev/en/2025/09/decibelpeak</guid>
       <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
       <description>DecibelPeak is a precision decibel meter application designed for iOS, providing reliable sound level measurements for enthusiasts and users who need accurate noise monitoring.</description>
-      <category>apps</category><category>iOS</category><category>audio</category>
+      <category>apps</category><category>ios</category><category>audio</category>
     </item>
     <item>
       <title>Hello World!</title>

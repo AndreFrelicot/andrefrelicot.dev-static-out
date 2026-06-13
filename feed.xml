@@ -5,7 +5,7 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 20:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:45:58 GMT</lastBuildDate>
     <item>
       <title>AppExpress – Offer Pre-Launch</title>
       <link>https://andrefrelicot.dev/en/2026/01/appexpress-pre-launch</link>
@@ -31,12 +31,12 @@
       <category>apps</category><category>bluetooth</category><category>ble</category><category>ios</category><category>macos</category><category>ipados</category>
     </item>
     <item>
-      <title>DecibelPeak 1.0</title>
+      <title>DecibelPeak</title>
       <link>https://andrefrelicot.dev/en/2025/09/decibelpeak</link>
       <guid>https://andrefrelicot.dev/en/2025/09/decibelpeak</guid>
       <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-      <description>DecibelPeak is a precision decibel meter application designed for iOS, providing reliable sound level measurements for enthusiasts and users who need accurate noise monitoring.</description>
-      <category>apps</category><category>ios</category><category>audio</category>
+      <description>DecibelPeak is a mobile sound level meter for iOS and Android with real-time decibel readings, audio visualizations, history, dB peak tracking, and local calibration.</description>
+      <category>apps</category><category>ios</category><category>android</category><category>audio</category>
     </item>
     <item>
       <title>Hello World!</title>

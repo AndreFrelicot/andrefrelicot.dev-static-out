@@ -118,11 +118,11 @@ GPU Metal com recursos específicos: **air.simd_sum**, suporte ao kernel **rmsfl
 ---
 ## 🛟 Suporte
 Precisa de ajuda ou quer enviar feedback? Escreva para [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-7:T139e,
+7:T15cd,
 <ThemeImage
   lightSrc="/images/2025/ble-uscope.webp"
   darkSrc="/images/2025/ble-uscope.webp"
-  alt="BLE UScope App Screenshot"
+  alt="BLE UScope no iPhone"
   width={800}
   height={600}
   priority={true}
@@ -130,131 +130,95 @@ Precisa de ajuda ou quer enviar feedback? Escreva para [support@andrefrelicot.de
 
 # **BLE UScope – Scanner e Analisador Avançado de Bluetooth Low Energy**
 
-**BLE UScope** é uma ferramenta de análise profissional de Bluetooth Low Energy projetada para desenvolvedores, engenheiros, profissionais de IoT e entusiastas de tecnologia que precisam de uma visão completa dos dispositivos BLE.
+BLE UScope é uma ferramenta de análise Bluetooth Low Energy para iOS, iPadOS, Android e macOS Catalyst. O app permite escanear periféricos próximos, ler seus dados de anúncio, acompanhar o RSSI e conectar-se para explorar sua estrutura GATT.
 
+O objetivo é tornar mais diretas as operações comuns em torno do BLE: inspecionar serviços e características, ler ou escrever valores, ativar notificações, acompanhar eventos de conexão, registrar sessões de monitoramento e exportar traces utilizáveis.
 
-## ⚙️ Recursos Principais
+## Demonstrações
 
-### **Descoberta e Varredura de Dispositivos**
-Escaneie e descubra dispositivos Bluetooth Low Energy próximos em tempo real.  
-Exiba informações detalhadas, incluindo:
-- Nomes dos dispositivos  
-- Intensidade do sinal (RSSI)  
-- Dados do fabricante  
-- Serviços anunciados  
-- Status da conexão  
+<YouTubeEmbed
+  videoId="n_EJOZfy4vo"
+  title="Demonstração do BLE UScope"
+  caption="Demonstração não listada do BLE UScope durante o escaneamento e a exploração de dispositivos."
+/>
 
-Opções avançadas de filtragem ajudam você a encontrar rapidamente dispositivos específicos.
+<YouTubeEmbed
+  videoId="XsccrDK7ITg"
+  title="Demonstração complementar do BLE UScope"
+  caption="Segunda demonstração não listada do BLE UScope, focada na análise de um dispositivo conectado."
+/>
 
+## Do escaneamento ao GATT
 
-### **Explorador de Serviços GATT**
-Aprofunde-se na arquitetura do dispositivo com uma exploração completa do GATT.  
-- Navegue por serviços, características e descritores em uma visualização hierárquica clara  
-- Leia, escreva e monitore valores de características (hex, UTF-8, decimal)  
-- Ative notificações para receber atualizações em tempo real dos seus dispositivos  
+A primeira tela serve para observar o ambiente BLE em tempo real. O BLE UScope mostra os dispositivos detectados com RSSI, dados de anúncio, serviços anunciados quando disponíveis e uma categoria estimada a partir dos UUIDs, dos dados do fabricante ou do nome do dispositivo.
 
+Depois da conexão, o app passa para uma visualização de detalhe mais voltada ao diagnóstico. É possível navegar por serviços, características e descritores, filtrar características legíveis, graváveis ou notificáveis, e inspecionar valores em hexadecimal, UTF-8 ou decimal conforme o caso. As propriedades GATT permanecem visíveis, evitando adivinhar se uma característica suporta `read`, `write`, `notify` ou `indicate`.
 
-### **Categorização Inteligente de Dispositivos**
-Identifica e categoriza automaticamente dispositivos como:
-- Pulseiras fitness  
-- Monitores de frequência cardíaca  
-- Smartwatches  
-- Fones de ouvido  
-- Teclados  
-- Controles de jogo  
+Essa parte fica propositalmente próxima do vocabulário BLE. Ao inspecionar um periférico, é importante ver UUIDs, valores brutos, descritores e estado de notificação sem que a interface esconda demais a realidade do protocolo.
 
-Categorias com cores e ícones personalizados tornam a identificação intuitiva.
+## Capturas
 
+<ScreenshotGallery
+  images={[
+    {
+      src: "/images/2025/ble-uscope/ble-uscope-ios.webp",
+      alt: "BLE UScope no iPhone com detalhe de um dispositivo BLE",
+      width: 720,
+      height: 1485,
+    },
+    {
+      src: "/images/2025/ble-uscope/ble-uscope-android.webp",
+      alt: "BLE UScope no Android escaneando dispositivos BLE",
+      width: 720,
+      height: 1516,
+    },
+    {
+      src: "/images/2025/ble-uscope/ble-uscope-ipad.webp",
+      alt: "BLE UScope no iPad com navegação em múltiplas colunas",
+      width: 1400,
+      height: 1011,
+    },
+    {
+      src: "/images/2025/ble-uscope/ble-uscope-macos.webp",
+      alt: "BLE UScope no macOS Catalyst",
+      width: 1400,
+      height: 925,
+    },
+  ]}
+  caption="Capturas do BLE UScope 1.0.1 no iPhone, Android, iPad e macOS Catalyst."
+/>
 
-### **Gerenciamento de Conexões**
-- Conecte-se a vários dispositivos simultaneamente  
-- Monitore a qualidade da conexão em tempo real  
-- Veja duração da conexão, tendências de sinal e métricas de estabilidade  
-- Reconecte-se automaticamente aos dispositivos favoritos quando desconectados  
+## Monitoramento, diagnósticos e exportações
 
+O escaneamento é apenas uma parte do fluxo. O BLE UScope também permite acompanhar uma conexão ao longo do tempo: qualidade do sinal, duração da conexão, histórico de RSSI, eventos de conexão e notificações recebidas.
 
-### **Análises Avançadas**
-Acompanhe e visualize métricas como:
-- RSSI ao longo do tempo  
-- Indicadores de qualidade da conexão  
-- Cálculo estimado de distância  
-- Níveis de potência TX  
+As notificações BLE podem ser registradas em sessões de monitoramento. Isso é útil quando uma característica emite regularmente uma medida, um estado ou um evento de domínio. O app mantém os valores com timestamp, dispositivo, serviço, característica e RSSI quando essa informação está disponível.
 
-Logs detalhados ajudam você a monitorar padrões de descoberta e eventos de conexão.
+Os diagnósticos ajudam a validar um periférico conectado: descoberta de serviços, estabilidade da conexão, leitura de características e verificações simples de resposta ou throughput. As exportações permitem guardar o que foi observado: perfil do dispositivo, estrutura GATT, valores de características, logs ou sessões de notificações.
 
+## Implementação
 
-### **Ferramentas de Diagnóstico**
-Execute testes completos nos dispositivos conectados:
-- Estabilidade da conexão  
-- Medições de throughput  
-- Validação de características  
+A versão Apple é desenvolvida em SwiftUI com CoreBluetooth. Ela suporta iOS, iPadOS e macOS via Catalyst, com layouts adaptados ao tamanho da tela. A camada BLE gerencia escaneamento, múltiplas conexões, restauração do CoreBluetooth, reconexões, exploração GATT e monitoramento de notificações.
 
-Exporte os resultados de diagnóstico para análise ou documentação.
+A versão Android é desenvolvida em Kotlin com Jetpack Compose. Ela usa `BluetoothGatt`, uma fila sequencial de operações para evitar colisões BLE, fluxos de estado para sincronizar a interface, Room para os dados locais e telas dedicadas a logs, favoritos, histórico e diagnósticos.
 
+As duas versões seguem a mesma intenção de produto, mas respeitam as restrições de cada plataforma. No Android, isso significa lidar com permissões Bluetooth modernas, limites de frequência de scan e comportamentos variáveis das stacks BLE conforme o aparelho. No iOS, CoreBluetooth impõe seu próprio modelo de restauração, autorização e ciclo de vida.
 
-### **Gerenciamento de Dados**
-- Salve dispositivos favoritos para acesso rápido  
-- Exporte perfis de dispositivos, estruturas GATT e dados de características  
-- Copie valores, UUIDs e outros dados com um único toque  
+## Dados e privacidade
 
-Perfeito para integração fluida no seu fluxo de desenvolvimento.
+BLE UScope funciona localmente. Não há conta, não há analytics e nenhum dado BLE é enviado para um servidor. Favoritos, nomes personalizados, históricos, logs e exportações permanecem no dispositivo, salvo ação explícita de compartilhamento ou exportação.
 
+## Download
 
-### **Recursos para Desenvolvedores**
-- Visualização completa da hierarquia GATT  
-- Inspeção de propriedades de características *(read, write, notify, indicate)*  
-- Exploração e análise de descritores  
-- Análise e exibição de dados de anúncio  
-- Busca de UUIDs com nomes padrão do Bluetooth SIG  
-- Decodificação de dados do fabricante  
-- Monitoramento e registro de valores em tempo real  
-
-
-## 🔒 Privacidade e Segurança
-Sua privacidade é prioridade.  
-**BLE UScope opera totalmente no seu dispositivo** — sem coleta de dados.  
-- Nenhuma conexão com a internet necessária  
-- Sem análises  
-- Sem rastreamento  
-
-Toda a varredura, análise e armazenamento acontecem localmente no seu dispositivo iOS.
-
-
-## 👩‍💻 Ideal Para
-- Desenvolvedores iOS que criam aplicativos com BLE  
-- Engenheiros de hardware testando periféricos BLE  
-- Profissionais de IoT depurando dispositivos conectados  
-- Pesquisadores de segurança analisando implementações BLE  
-- Estudantes aprendendo sobre Bluetooth Low Energy  
-- Entusiastas de tecnologia explorando o mundo sem fio  
-
-
-## 🧠 Especificações Técnicas
-- Compatível com todos os perfis padrão de Bluetooth Low Energy  
-- Compatível com dispositivos Bluetooth 4.0 → 5.3  
-- Leitura e escrita em todas as características acessíveis  
-- Suporte a notificações e indicações  
-- Suporte a múltiplas conexões simultâneas  
-- Descoberta automática de serviços  
-- Tradução de UUIDs para serviços e características padrão  
-
-
-## 🎨 Experiência do Usuário
-Interface limpa e moderna projetada para iOS — com suporte total a **modo claro e escuro**.  
-Navegação intuitiva com arquitetura baseada em abas.  
-Ações contextuais e dicas úteis guiam você em cada operação.
-
-
-### **Baixe o BLE UScope hoje mesmo**
-Obtenha uma **visão profissional** dos dispositivos Bluetooth Low Energy ao seu redor.
-
-<br />
+Disponível na App Store e no Google Play.
 
 <AppStoreLink href="https://apps.apple.com/us/app/ble-uscope/id6753627148" />
 <PlayStoreLink href="https://play.google.com/store/apps/details?id=dev.andrefrelicot.bleuscope" />
 
 ---
-## 🛟 Suporte
+
+## Suporte
+
 Precisa de ajuda ou quer enviar feedback? Escreva para [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
 8:Tcb0,
 <ThemeImage
@@ -403,7 +367,7 @@ SIRET: 939 948 865 00018<br />
 TVA/VAT: FR56 939948865
 
 <OsibitsLogo />
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L2",null,{"locale":"pt","navLinks":[{"href":"/pt","label":"Devlogs"},{"href":"/pt?tag=apps","label":"Apps"},{"href":"/pt/2025/09/sobre","label":"Sobre"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Entrepreneur"}]]}]}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$3",null,{"fallback":null,"children":["$","$L4",null,{"locale":"pt","copy":{"placeholder":"Busque conteúdo pelo título ou corpo...","allLabel":"Todos","empty":"Nenhum conteúdo correspondente ainda.","showTags":"Mostrar tags e busca","hideTags":"Ocultar tags e busca","loadMore":"Carregar mais resultados"},"initialDocs":[{"slug":"appexpress-pre-lancamento","title":"AppExpress – Pré-lançamento da oferta","description":"Seus aplicativos, chave na mão, sob medida.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$5","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice 1.0","description":"Demonstração técnica que permite avaliar as novas APIs de reconhecimento de voz do iOS 26 (SpeechAnalyzer / SpeechTranscriber) e a execução de modelos LLM de código aberto (quantizados em 4 bits) localmente em um iPhone compatível com o framework MLX.","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","source_code"],"content":"$6","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope  1.0","description":"Scanner e analisador avançado de Bluetooth Low Energy para iOS/iPadOS e macOS (Catalyst).","tags":["apps","bluetooth","ble","ios","macos","ipados"],"content":"$7","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak é um sonômetro móvel para iOS e Android com medição em tempo real, visualizações de áudio, histórico, pico dB e calibração local.","tags":["apps","ios","android","audio"],"content":"$8","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"Hello World !","description":"Bem-vindo ao meu Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$9","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"sobre","title":"Sobre","description":"André Frélicot - TechLead, Entrepreneur, Digital Strategist. Tech - Product - Business.","tags":["about","devlog"],"content":"$a","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"appexpress-pre-lancamento":"/pt/2026/01/appexpress-pre-lancamento","llmvoice":"/pt/2025/10/llmvoice","ble-uscope":"/pt/2025/10/ble-uscope","decibelpeak":"/pt/2025/09/decibelpeak","hello-world":"/pt/2025/09/hello-world","sobre":"/pt/2025/09/sobre"}}]}]}],"$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CjtzseFgCfeeDzXcBQPUE"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L2",null,{"locale":"pt","navLinks":[{"href":"/pt","label":"Devlogs"},{"href":"/pt?tag=apps","label":"Apps"},{"href":"/pt/2025/09/sobre","label":"Sobre"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Entrepreneur"}]]}]}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$3",null,{"fallback":null,"children":["$","$L4",null,{"locale":"pt","copy":{"placeholder":"Busque conteúdo pelo título ou corpo...","allLabel":"Todos","empty":"Nenhum conteúdo correspondente ainda.","showTags":"Mostrar tags e busca","hideTags":"Ocultar tags e busca","loadMore":"Carregar mais resultados"},"initialDocs":[{"slug":"appexpress-pre-lancamento","title":"AppExpress – Pré-lançamento da oferta","description":"Seus aplicativos, chave na mão, sob medida.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$5","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice 1.0","description":"Demonstração técnica que permite avaliar as novas APIs de reconhecimento de voz do iOS 26 (SpeechAnalyzer / SpeechTranscriber) e a execução de modelos LLM de código aberto (quantizados em 4 bits) localmente em um iPhone compatível com o framework MLX.","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","source_code"],"content":"$6","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Scanner e analisador avançado de Bluetooth Low Energy para iOS, iPadOS, Android e macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$7","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak é um sonômetro móvel para iOS e Android com medição em tempo real, visualizações de áudio, histórico, pico dB e calibração local.","tags":["apps","ios","android","audio"],"content":"$8","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"Hello World !","description":"Bem-vindo ao meu Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$9","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"sobre","title":"Sobre","description":"André Frélicot - TechLead, Entrepreneur, Digital Strategist. Tech - Product - Business.","tags":["about","devlog"],"content":"$a","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"appexpress-pre-lancamento":"/pt/2026/01/appexpress-pre-lancamento","llmvoice":"/pt/2025/10/llmvoice","ble-uscope":"/pt/2025/10/ble-uscope","decibelpeak":"/pt/2025/09/decibelpeak","hello-world":"/pt/2025/09/hello-world","sobre":"/pt/2025/09/sobre"}}]}]}],"$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"j9G3zGP0NNjVe-7yy3g1m"}
 b:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$Le","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$Le","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$Le","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}],["$","$Le","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":"$Lf"}]}],"$L10"]}]]}]}]
 c:["$","script","script-0",{"src":"/_next/static/chunks/0nbq95xew0zoy.js","async":true}]
 d:["$","$L11",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]

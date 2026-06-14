@@ -4,10 +4,10 @@
 5:I[3020,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],"SiteHeader"]
 6:I[44024,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],""]
 d:I[85243,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"default",1]
-:HL["/_next/static/chunks/3hwzne_9vnh8s.css","style"]
+:HL["/_next/static/chunks/12_c5ld1a5o3a.css","style"]
 :HL["/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/70bc3e132a0a741e-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","en",""],"q":"","i":false,"f":[[["",{"children":[["locale","en","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3hwzne_9vnh8s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/06dmft4ydq25f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30v7ty5alg1y1.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Page Not Found"}]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","div",null,{"className":"flex flex-col items-center justify-center py-12 text-center","children":[["$","div",null,{"className":"mb-8 text-8xl font-bold opacity-20","children":"404"}],["$","p",null,{"className":"mb-8 max-w-md text-lg opacity-70","children":"The page you're looking for doesn't exist or has been moved."}],["$","$L6",null,{"href":"/en","className":"inline-flex items-center gap-2 rounded-lg border border-foreground/20 bg-foreground/5 px-6 py-3 font-semibold transition-all hover:border-foreground/40 hover:bg-foreground/10","children":"Back to Home"}]]}]}],["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":"$L7"}],"$L8","$L9"]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"j9G3zGP0NNjVe-7yy3g1m"}
+0:{"P":null,"c":["","en",""],"q":"","i":false,"f":[[["",{"children":[["locale","en","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/12_c5ld1a5o3a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/06dmft4ydq25f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30v7ty5alg1y1.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Page Not Found"}]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","div",null,{"className":"flex flex-col items-center justify-center py-12 text-center","children":[["$","div",null,{"className":"mb-8 text-8xl font-bold opacity-20","children":"404"}],["$","p",null,{"className":"mb-8 max-w-md text-lg opacity-70","children":"The page you're looking for doesn't exist or has been moved."}],["$","$L6",null,{"href":"/en","className":"inline-flex items-center gap-2 rounded-lg border border-foreground/20 bg-foreground/5 px-6 py-3 font-semibold transition-all hover:border-foreground/40 hover:bg-foreground/10","children":"Back to Home"}]]}]}],["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":"$L7"}],"$L8","$L9"]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"rnSlETLhLQCA7rk_iteED"}
 11:I[92690,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
 15:I[92690,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"ViewportBoundary"]
@@ -19,14 +19,1025 @@ a:["$","$1","c",{"children":["$L10",[["$","script","script-0",{"src":"/_next/sta
 14:[]
 b:"$W14"
 c:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3hwzne_9vnh8s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/12_c5ld1a5o3a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 19:I[11114,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"ThemeProvider"]
 2:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"defer":true,"src":"https://cloud.umami.is/script.js","data-website-id":"682271ce-8738-436c-a03d-0b285b3e8341"}]}],["$","body",null,{"className":"space_grotesk_4e7b6542-module__IWK99G__variable jetbrains_mono_f8223cee-module__0kZ6aq__variable antialiased","children":["$","$L19",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Page Not Found"}]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","div",null,{"className":"flex flex-col items-center justify-center py-12 text-center","children":[["$","div",null,{"className":"mb-8 text-8xl font-bold opacity-20","children":"404"}],["$","p",null,{"className":"mb-8 max-w-md text-lg opacity-70","children":"The page you're looking for doesn't exist or has been moved."}],["$","$L6",null,{"href":"/en","className":"inline-flex items-center gap-2 rounded-lg border border-foreground/20 bg-foreground/5 px-6 py-3 font-semibold transition-all hover:border-foreground/40 hover:bg-foreground/10","children":"Back to Home"}]]}]}],["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":"$L1a"}],"$L1b","$L1c"]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]
 1e:I[28081,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],"ClientSearch"]
 1a:["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]
 1d:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z1b:["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"fillRule":"nonzero","d":"$1d"}]}]}]
 1c:["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
-1f:T80e,
+1f:T324b,
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp"
+  darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp"
+  alt="Mobile app and technology choice"
+  width={1600}
+  height={893}
+  priority={true}
+/>
+
+<AppExpressSourceBanner
+  href="https://appexpress.fr/blog/quelle-technologie-mobile-choisir"
+  linkLabel="Read the original article"
+>
+  This article originally comes from AppExpress.fr.
+</AppExpressSourceBanner>
+
+You have decided to build a mobile app. It is often a major growth lever. But very quickly, one question appears: **which technology should you use?**
+
+Capacitor. React Native. Flutter. Native. Four names that come up in every proposal, every discussion with a developer, every technical article. And yet most decision-makers have no concrete idea what these terms mean, or what they imply for budget, timeline and final product quality.
+
+This article is here for that. No unnecessary jargon, no framework wars between developers. Just the **real trade-offs**, explained clearly.
+
+## A choice that is both technical and strategic
+
+Before talking about frameworks, ask the right questions. The technology choice will determine four critical variables for your company:
+
+- **Your time-to-market**: how long before you are live on the stores?
+- **Your total budget**: at launch, but also every year for maintenance.
+- **Perceived quality**: smoothness, animations, respect for iOS and Android conventions. This often determines whether a user keeps the app or deletes it after 30 seconds.
+- **Your ability to adapt**: will you be able to integrate new AI features, future sensors and tomorrow's system APIs?
+
+The answers to these questions guide the choice far better than any performance benchmark. But make no mistake: it is also a technical choice. The selected technology has direct consequences on what you will, and will not, be able to do with your application.
+
+## The four approaches, explained simply
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/architectures.webp"
+  darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/architectures.webp"
+  alt="The four mobile architectures compared"
+  width={1600}
+  height={893}
+/>
+
+### Capacitor (Ionic): the web inside a native shell
+
+Capacitor uses **web technologies** (HTML, CSS, JavaScript) to build the mobile interface, displayed inside an embedded browser within the app. That does not mean putting a website inside an app. You build a dedicated mobile interface, with its own components and UX conventions, using Ionic or other mobile UI frameworks. When you need access to a phone feature, such as the camera, notifications or GPS, a plugin system bridges the web layer and the device hardware.
+
+**Advantages:**
+
+- Very fast development: web developers (JavaScript, React, Vue, Angular) are productive immediately.
+- One codebase for iOS, Android and the web.
+- Access to a full ecosystem of mobile UI components (Ionic, Konsta UI) that respect iOS and Android conventions.
+- Ideal for content apps, internal tools and dashboards.
+
+**Limits:**
+
+- The interface remains "mobile web": it can lack the smoothness and animations that iPhone or Android users expect from a native app.
+- Complex interactions, such as drag-and-drop, fluid animations and transitions, are harder to polish.
+- If you need advanced hardware features, you will need to write native plugins, which requires additional skills.
+
+**In one sentence:** the most accessible option for a web team, with a real mobile rendering, but limited when you aim for a premium experience.
+
+### React Native: the popular compromise
+
+React Native works differently: your code is written in JavaScript, the language of the web, but the interface displayed on screen uses the phone's **real native components**. A React Native button is a real iOS or Android button, not a web imitation.
+
+In 2026, React Native has completed a major overhaul of its internal architecture. Communication between your code and the phone has become much faster and smoother. The micro-stutters that could be seen a few years ago have largely disappeared.
+
+**Advantages:**
+
+- One codebase for iOS and Android, with a truly native rendering.
+- The largest pool of available developers, especially in France.
+- The Meta ecosystem, Facebook, Instagram and WhatsApp, uses it in production, which supports its long-term viability.
+- Ability to integrate React Native screens into an existing native app.
+
+**Limits:**
+
+- The toolchain is complex and evolves quickly: you need a developer who follows the ecosystem.
+- Third-party libraries must be compatible with the new architecture. The transition period is still ongoing.
+- For very complex animations or games, it is not the best tool.
+
+**In one sentence:** the most pragmatic choice for most consumer applications.
+
+### Flutter: the autonomous rendering engine
+
+Flutter takes a radically different approach. Instead of using the phone's native components or a web browser, it **draws every pixel itself** through its own graphics engine, Impeller. Flutter brings its own paintbrush instead of borrowing the system's.
+
+The result: a Flutter app looks exactly the same on an iPhone 16 and on an entry-level Android smartphone. Visual consistency is total.
+
+In 2026, Impeller is the only rendering engine on iOS and the default engine on Android. Flutter compiles directly to machine code. It is not interpreted; it is compiled like a native application.
+
+**Advantages:**
+
+- The smoothest graphical rendering among cross-platform solutions: 90 to 120 frames per second.
+- Identical interface across platforms: one design to maintain.
+- Excellent developer experience, with instant reload while keeping app state.
+- Compiled to machine code, with performance close to native.
+
+**Limits:**
+
+- The language, Dart, is less common than JavaScript. Hiring can be harder.
+- The interface does not automatically "feel" like iOS or Android. You need to implement that explicitly.
+- The package ecosystem is smaller than React Native's, although it is growing quickly.
+
+**In one sentence:** the best choice when visual identity and smoothness are business priorities.
+
+### Native (Swift/Kotlin): premium custom work
+
+Native development means creating two separate applications: one in Swift for iOS and one in Kotlin for Android. Each uses the tools and interfaces provided directly by Apple and Google.
+
+Both platforms have offered declarative frameworks for several years, SwiftUI since 2019 and Jetpack Compose since 2021, and these tools have now reached maturity. In 2026, they have become the de facto standard, making native development far more productive than older approaches.
+
+**Advantages:**
+
+- Immediate access to all new OS features, from the day they are released.
+- Optimal performance: the fastest startup time and the lowest battery consumption.
+- Deep ecosystem integration: Apple Watch, widgets, local AI, Siri, Google Assistant.
+- The best option for apps that rely on on-device AI.
+
+**Limits:**
+
+- Two codebases to maintain: double effort, double budget.
+- Senior Swift and Kotlin developers are rare and expensive.
+- The time-to-market is the longest of the four approaches.
+
+**In one sentence:** the gold standard when quality and long-term durability matter more than budget.
+
+## Local AI: the criterion nobody saw coming
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/on-device-ai.webp"
+  darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/on-device-ai.webp"
+  alt="On-device AI"
+  width={1600}
+  height={893}
+/>
+
+In 2026, a new criterion has entered the equation: **on-device artificial intelligence**. Apple Intelligence and Gemini Nano on Android mean smartphones now run AI models directly on their neural processors, without going through the cloud.
+
+In practice, this enables:
+
+- Automatic document summaries, offline.
+- Real-time image recognition, without server latency.
+- Smart input assistance, personalized and private.
+- Instant conversation translation.
+
+**This is where the chosen technology matters.** Native applications can access these features with latency below 100 ms. Cross-platform frameworks, React Native and Flutter, offer bridges to these models, but with an extra abstraction layer that can affect performance and energy consumption.
+
+If local AI is central to your product, for example in healthcare, real-time analysis or a voice assistant, native remains the only choice that guarantees optimal efficiency today. For secondary use cases, such as a chatbot or suggestions, all technologies can do the job.
+
+## The comparison table
+
+| Criterion | Capacitor | React Native | Flutter | Native |
+|---|---|---|---|---|
+| **Time-to-market** | 🟢 3-4 weeks | 🟡 5-6 weeks | 🟡 6-8 weeks | 🔴 8-12 weeks |
+| **UI rendering** | Web (browser) | Native components | Own engine | 100% native |
+| **Smoothness** | 🟡 60 FPS | 🟢 60-90 FPS | 🟢 90-120 FPS | 🟢 120 FPS |
+| **New API access** | 🔴 3-6 months | 🟡 1-3 months | 🟡 Fast | 🟢 Day one |
+| **On-device AI** | 🔴 Limited | 🟡 Via modules | 🟢 Very good | 🟢 Optimal |
+| **Hiring (France)** | 🟢 Very easy | 🟢 Largest pool | 🟡 Moderate | 🔴 Difficult |
+| **Development cost** | 🟢 € | 🟡 €€ | 🟡 €€ | 🔴 €€€€ |
+| **Annual maintenance** | 🟢 € | 🟡 €€ | 🟡 €€ | 🔴 €€€ |
+
+## How should you choose? The decision tree
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/decision-tree.webp"
+  darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/decision-tree.webp"
+  alt="Decision tree: which mobile technology should you choose?"
+  width={1600}
+  height={893}
+/>
+
+Rather than comparing technical specs, ask yourself these questions in order:
+
+**1. Does your team master web technologies (JavaScript, React, Vue)?**
+→ Yes → **Capacitor**: build on existing skills without sacrificing mobile UX.
+→ No, or not only → move to question 2.
+
+**2. Is the app's visual identity a differentiating factor?**
+→ Yes, design and animations are essential to our brand → **Flutter**.
+→ No, functionality matters more → move to question 3.
+
+**3. Do you need advanced phone features (local AI, sensors, Bluetooth LE)?**
+→ Yes, they are core to the product → **Native**.
+→ No, standard features are enough → move to question 4.
+
+**4. Are budget and time-to-market your priorities?**
+→ Yes → **React Native**: the best cost/quality/speed compromise.
+→ No, I want the best possible result → **Flutter** or **Native**, depending on your need.
+
+## Which profile are you?
+
+**You are launching an MVP or an internal tool**
+
+Move fast, validate the idea, iterate. **Ionic/Capacitor** lets you launch in a few weeks by using web skills. The mobile interface is built with dedicated components, not by copying a website. If the app succeeds, migrating to React Native or Flutter remains possible.
+
+**You are building a consumer app**
+
+You need a responsive interface, sustainable maintenance and a pool of developers to evolve the product. **React Native** is the most pragmatic choice. It is the most recruited technology in France.
+
+**Your app IS your product**
+
+The interface is a lever of differentiation. Your brand depends on smoothness, animations and custom design. **Flutter** gives you total control over every pixel, with an identical rendering on every device.
+
+**You are building an advanced technology product**
+
+On-device AI, augmented reality, deep integration with sensors or wearables. **Native** is the only path that will not impose any technical compromise.
+
+## The trend to watch: Kotlin Multiplatform
+
+A fifth player is emerging: **Kotlin Multiplatform (KMP)**. The principle is to share all business logic in Kotlin while keeping 100% native interfaces, SwiftUI on iOS and Compose on Android.
+
+Companies such as Netflix and Cash App already use it in production. It is an attractive hybrid approach for ambitious projects that want the best of both worlds: the productivity of shared code and the interface quality of pure native.
+
+It is still an early-adopter technology, but it may redefine the compromise in the coming years.
+
+## What matters is the strategy
+
+The classic trap is focusing on technology instead of product strategy. **The right choice is not the one that will be perfect forever, but the one that lets you ship now while keeping the ability to evolve your product.**
+
+That is exactly the AppExpress approach: we do not sell a framework. We build a **delivery strategy** adapted to your context, budget and ambitions.
+
+---
+
+*Unsure which technology fits your project? [Book a call](https://cal.com/appexpress) to discuss it. We help you make the right choice, with no commitment.*
+20:T840d,
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp"
+  alt="RAG and business knowledge base"
+  width={1600}
+  height={893}
+  priority={true}
+/>
+
+<AppExpressSourceBanner
+  href="https://appexpress.fr/blog/quel-systeme-rag-choisir"
+  linkLabel="Read the original article"
+>
+  This article originally comes from AppExpress.fr.
+</AppExpressSourceBanner>
+
+## Introduction: RAG as the backbone of applied AI
+
+You have a product catalog with 50,000 references. An employee types a question into your internal chatbot: *"Which connector is compatible with the X400 series in a humid environment?"* A standard LLM, even GPT-4o or Claude, does not know your catalog. It will produce an answer that sounds plausible, but is wrong.
+
+**RAG** (Retrieval-Augmented Generation) solves that problem. The principle is simple: before letting the LLM answer, the system **retrieves the relevant documents** from your data, then injects them into the model context. The LLM generates its answer from your real data, not from its training memory.
+
+In 2026, RAG has become hard to ignore because the use cases have multiplied:
+
+- **Customer support chatbots**: answers based on your documentation, FAQ and resolved tickets;
+- **Internal document search**: a legal team searches for a precedent across 10,000 contracts;
+- **HR assistant**: employees ask questions about leave policies, benefits and collective agreements;
+- **Product knowledge base**: field technicians search for maintenance procedures;
+- **Regulatory analysis**: GDPR compliance, ISO standards, legal texts.
+
+The common point is clear: you own proprietary data, and you want an LLM to use it intelligently. You do not need to fine-tune a model every time a document changes. RAG works on live data.
+
+But between Pinecone, pgvector, Qdrant, LangChain, Vertex AI and many other options, the choice has become confusing. This guide is here to make the trade-offs clearer.
+
+## Before choosing a stack: the forgotten data audit
+
+Before comparing vector databases or choosing a framework, there is a step that most RAG projects skip. It is also the first reason they fail.
+
+As Jonas Roman, a RAG practitioner who has shipped more than 60 production projects, points out: **70 to 80% of the work in a RAG project is data preparation**, not prompts, models or architecture. It is the classic *garbage in, garbage out* problem. No vector database, no matter how powerful, can compensate for poorly prepared data.
+
+Before writing code, audit your data across four dimensions:
+
+1. **Quality**: are the documents readable? Are scanned PDFs usable? For complex documents such as diagrams or tables, advanced OCR tools like Mistral OCR provide better results than basic extractors.
+2. **Structure**: is the data homogeneous? Three-line emails mixed with 200-page reports, inconsistent formats and contradictory information all need to be mapped upfront.
+3. **Completeness**: do you actually have all the required data? A common issue is that business teams believe everything is available, but nobody has checked. Halfway through the project, a large portion turns out to be unusable.
+4. **Accessibility**: where does the data live? Unstructured documents, SQL databases, ERP, CRM? This map determines the target architecture.
+
+> **Practical advice**: a few hours of scoping with business experts can save weeks of development in the wrong direction. Invest that time before writing the first line of code.
+
+## When RAG is not the answer
+
+The reflex "internal data means vector RAG" has become automatic. But classic RAG, meaning embeddings plus semantic search, is not always the right tool. Before jumping into implementation, ask these questions.
+
+**Does the answer already exist in structured data?**
+
+If the question is *"What was revenue by region in 2023?"* and the data lives in an ERP or SQL database, you do not need RAG. A direct SQL query will be more reliable, faster and cheaper. RAG retrieves text passages; it does not aggregate, calculate or guarantee numerical accuracy.
+
+**Do you need to read the whole corpus?**
+
+*"What are the main lessons from our 30 audit reports for 2024?"* RAG is designed to find the most relevant passages, not to read an entire shelf. For this kind of global analysis, use **map-reduce** approaches, where each document is summarized first and the summaries are then synthesized, or use a multipass process.
+
+**Do you need exhaustiveness?**
+
+*"Give me every contract containing a non-compete clause."* Across 200 contracts, a vector RAG system might find 40 out of 47. The remaining 7 are missed. In legal or regulatory contexts, that gap is unacceptable. For these cases, you need **Knowledge Graphs** or reinforced hybrid search.
+
+**Are calculations required?**
+
+RAG does not calculate. If the answer requires arithmetic operations over data, create dedicated **tools**, such as calculation functions or API calls, that the LLM can trigger outside the RAG pipeline.
+
+> **Good systems are almost always hybrid.** An upstream LLM classifier analyzes the user's intent and routes the request to the right tool: vector RAG for semantic understanding, SQL for structured data, tools for calculations, map-reduce for global synthesis. That router can simply be an LLM that classifies the question in a few seconds. You do not need complex infrastructure to start.
+
+## The building blocks of RAG
+
+A RAG system is not a single tool. It is a pipeline made of five distinct steps, each with its own technology choices.
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/rag-pipeline-en.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/rag-pipeline-en.webp"
+  alt="Five-step RAG pipeline"
+  width={1600}
+  height={893}
+/>
+
+### 1. Ingestion
+
+Raw documents, whether PDFs, web pages, emails, Word files or SQL data, must be transformed into usable pieces. This is the **parsing** and **chunking** step.
+
+- **Parsing**: extract text from a scanned PDF, interpret an HTML table, clean Markdown;
+- **Chunking**: split a 200-page document into segments of 500 to 1,500 tokens, with or without overlap.
+
+Chunking is more critical than it looks. Chunks that are too large dilute relevance. Chunks that are too small lose context. There is no universal size. It depends on your documents and your queries.
+
+> **The 5 most expensive chunking mistakes**
+>
+> 1. **Cutting through a table**: a table split in two produces two unusable chunks. Detect tables and keep them together.
+> 2. **Too much overlap**: 50% overlap doubles your index size without improving quality. Aim for 10 to 15%.
+> 3. **Losing metadata**: chapter title, document name, date. These often disappear during chunking. Attach them systematically as chunk metadata.
+> 4. **Ignoring document structure**: chunking a legal document by token count ignores articles and sections. Use the logical structure as delimiters.
+> 5. **Using one format for every document**: a three-line email and a 200-page report should not be chunked the same way.
+
+**Contextual embedding: enriching each chunk**
+
+An emerging technique improves retrieval quality significantly: **contextual embedding**. Before vectorizing a chunk, ask an LLM to generate a short sentence that places the chunk in the broader document context. That sentence is added before embedding.
+
+The result: each chunk "knows" where it comes from. A paragraph about the X400 pump specifications is no longer an orphaned fragment. It carries context such as "excerpt from the X400 pump maintenance manual, sealing chapter". The semantic surface area increases, and retrieval becomes much more precise.
+
+### 2. Embedding
+
+Each chunk is transformed into a **vector**, a list of numbers, typically 256 to 3,072 dimensions, encoding the semantic meaning of the text. Two sentences that mean the same thing will have close vectors, even if the words differ.
+
+Common embedding models in 2026:
+
+| Model | Dimensions | Vendor | Note |
+|-------|------------|--------|------|
+| `text-embedding-3-small` | 1,536 | OpenAI | Good price/quality ratio, widely used |
+| `text-embedding-3-large` | 3,072 | OpenAI | More accurate, more expensive |
+| `embed-v4` | 1,024 | Cohere | Strong multilingual performance |
+| `voyage-3-large` | 1,024 | Voyage AI | Strong on code and technical documents |
+| `voyage-multimodal-3` | 1,024 | Voyage AI | Text + image embeddings |
+| `gemini-embedding-2` | 3,072 | Google | New in March 2026, natively multimodal |
+| `mistral-embed` | 1,024 | Mistral AI | Very economical, solid general retrieval |
+| `codestral-embed` | 3,072 | Mistral AI | Specialized for code |
+| `nomic-embed-text-v2-moe` | 768 | Nomic AI | Open-source Mixture of Experts |
+| `gte-qwen2-instruct` | 768-8192 | Alibaba | Open-source, variable dimensions, strong multilingual support |
+| BGE-M3, E5-Mistral, GTE | Variable | Community | Free, self-hosted |
+
+**Worth noting: Gemini Embedding 2**, released in March 2026, changes the landscape. It can place text, images, video, audio and PDFs in the **same vector space**. In practice, a search for "X400 connector wiring diagram" can retrieve both a documentation paragraph and a picture of the connector.
+
+It leads MTEB benchmarks in English, multilingual and code tasks, supports more than 100 languages, and uses Matryoshka Learning to truncate vectors with limited quality loss. The downside: it is still in Public Preview and costs about 50% more than OpenAI for text-only use. For pure text, alternatives remain competitive. If your documents include images or diagrams, Gemini Embedding 2 has no direct competitor.
+
+The embedding model has a direct impact on search quality. A multilingual model is better if documents mix English and French. A code-focused model performs better on technical documentation.
+
+### 3. Vector storage
+
+Vectors must be stored in a database capable of **similarity search**. This is the core architectural choice and the main section of this article.
+
+### 4. Retrieval
+
+When a user asks a question, the query is also transformed into a vector, then compared with stored vectors to find semantically close chunks.
+
+Pure vector search has limits. Modern systems combine:
+
+- **Semantic search**: vector similarity;
+- **Full-text search**: BM25 and exact keywords, essential for names, product codes and reference numbers;
+- **Hybrid search**: a weighted combination of both;
+- **Reranking**: a specialized model such as Cohere Rerank or Jina Reranker reorders the results.
+
+Hybrid search has become the production standard. Pure vector search misses queries with exact identifiers, such as *"invoice No.2024-0847"*. Full-text search misses queries phrased differently from the source document.
+
+**How hybrid search works in practice**
+
+The principle is simple: run two searches in parallel, vector and BM25 full-text, then merge the results. The most common fusion method is **Reciprocal Rank Fusion**:
+
+1. Vector search returns one ranking: document A first, B third, C fifth.
+2. BM25 returns another ranking: B first, D second, A fourth.
+3. RRF combines them by weighting the inverse of the rank, with `k` usually around 60.
+
+```text
+score = 1 / (k + vector_rank) + 1 / (k + bm25_rank)
+```
+
+Document B, well ranked in both searches, moves to the top.
+
+If a user searches *"X400 connector resistant to humidity"*, vector search captures meaning, for example "resistant to humidity" close to "waterproof" or "IP67", while BM25 catches the exact term "X400", which vector search might miss. Combining both retrieves the right document even when the query mixes natural language and technical terms.
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/hybrid-search-en.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/hybrid-search-en.webp"
+  alt="Hybrid search combining keywords and vectors"
+  width={1600}
+  height={893}
+/>
+
+### 4.5. Prompt engineering: the invisible block
+
+Between retrieval and generation, many teams neglect prompt construction. Spending 80% of the effort on retrieval and then writing a basic prompt is a reliable way to get hallucinations, even with the right documents in context.
+
+**Structure the prompt in separate blocks:**
+
+1. **System**: the role of the AI, such as technical expert, legal assistant or customer support.
+2. **Instructions**: strict rules, answer format, length, tone, and above all grounding: "Answer only from the provided documents. If the information is not in the context, say so explicitly."
+3. **Context**: the chunks retrieved by the system, with metadata.
+4. **Question**: the user's query.
+
+**Three techniques that change the result:**
+
+- **Mandatory citations**: require the LLM to cite sources for each claim. This reduces hallucinations and enables human verification.
+- **Few-shot examples**: provide 2 or 3 complete examples of question, reasoning and expected answer.
+- **Handling lost in the middle**: LLMs tend to ignore information in the middle of long contexts. Put the most relevant chunks at the beginning and the end.
+
+### 5. Generation
+
+The retrieved chunks are injected into the LLM prompt, and the model generates the final answer. The choice of LLM, GPT-4o, Claude, Gemini, Llama or Mistral, affects synthesis quality, but is usually the easiest part to swap.
+
+## Vector databases: detailed comparison
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/db-comparison.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/db-comparison.webp"
+  alt="Vector database comparison"
+  width={1600}
+  height={893}
+/>
+
+This is where the most structural architectural decision happens. There are three broad families.
+
+### Specialized databases
+
+These tools are designed from the start for vector storage and search.
+
+#### Pinecone
+
+- **Deployment**: fully managed, serverless.
+- **Strengths**: setup in minutes, no infrastructure to manage, automatic scaling, native hybrid search, namespaces for multi-tenancy.
+- **Weaknesses**: proprietary, vendor lock-in, expensive at scale, no self-hosting, variable latency on serverless plans.
+- **Pricing**: free up to 2 GB, then storage and reads are billed.
+- **Best fit**: teams that want production RAG with no ops, scale-ups that value time-to-market.
+- **Scale**: billions of vectors.
+
+#### Qdrant
+
+- **Deployment**: self-hosted or Qdrant Cloud.
+- **Strengths**: written in Rust, fast, advanced metadata filtering, hybrid search, built-in quantization, simple API.
+- **Weaknesses**: self-hosting requires DevOps, the cloud version is newer than Pinecone.
+- **Pricing**: open-source self-hosted, cloud from about $25/month.
+- **Best fit**: technical teams that want control without sacrificing performance, multi-cloud or on-premise.
+- **Scale**: tested on billions of vectors, horizontal sharding.
+
+#### Weaviate
+
+- **Deployment**: self-hosted or Weaviate Cloud.
+- **Strengths**: native GraphQL API, integrated vectorization, BM25 + vector hybrid search, generative search modules, good connector ecosystem.
+- **Weaknesses**: heavier than Qdrant, GraphQL learning curve, integrated vectorization can create coupling.
+- **Best fit**: projects that want a RAG pipeline integrated into the database.
+
+#### Milvus / Zilliz
+
+- **Deployment**: self-hosted with Milvus or managed with Zilliz Cloud.
+- **Strengths**: built for massive scale, storage/compute separation, GPU acceleration, many index types, CNCF project.
+- **Weaknesses**: complex to operate, depends on several components, overkill for small volumes.
+- **Best fit**: very large volumes, DevOps-capable teams, multimodal search.
+
+#### ChromaDB
+
+- **Deployment**: embedded in Python or server mode.
+- **Strengths**: easy installation, very approachable API, perfect for prototypes and notebooks.
+- **Weaknesses**: not designed for large-scale production, no native hybrid search, no high availability.
+- **Best fit**: prototypes, POCs, personal projects.
+
+#### Turbopuffer
+
+- **Deployment**: managed serverless.
+- **Strengths**: stores vectors on object storage, very low idle cost, native BM25, good for variable workloads.
+- **Weaknesses**: young product, potentially higher latency than in-memory databases, smaller ecosystem.
+- **Best fit**: large corpora queried infrequently, semantic archive, constrained budgets.
+
+### Extensions of existing databases
+
+Already have a database? Add vector capabilities to it.
+
+#### pgvector (PostgreSQL)
+
+- **Deployment**: PostgreSQL extension available on Supabase, Neon, AWS Aurora, Railway or self-hosted PostgreSQL.
+- **Strengths**: no new database to operate, vectors live next to relational data, standard SQL, joins with business tables, hybrid search via `tsvector` + pgvector.
+- **Weaknesses**: slower than specialized databases beyond 10M vectors, HNSW indexing consumes RAM.
+- **Best fit**: SMBs already on PostgreSQL, projects where vectors must be joined with business data.
+- **Scale**: comfortable up to about 5-10M vectors.
+
+**Example: semantic search with pgvector**
+
+```sql
+CREATE TABLE documents (
+  id SERIAL PRIMARY KEY,
+  title TEXT,
+  content TEXT,
+  embedding vector(1536)
+);
+
+CREATE INDEX ON documents
+  USING hnsw (embedding vector_cosine_ops);
+
+SELECT title, content,
+       1 - (embedding <=> $1) AS similarity
+FROM documents
+ORDER BY embedding <=> $1
+LIMIT 5;
+```
+
+#### MongoDB Atlas Vector Search
+
+Transparent if you already run MongoDB Atlas. It combines vector search with filtering on MongoDB documents and a unified aggregation pipeline. The downside is that it is Atlas-only and less specialized than dedicated vector databases.
+
+#### Redis Vector Search
+
+Very fast because it runs in memory. Useful for semantic cache or low-latency RAG on moderate volumes. The cost grows quickly with RAM requirements.
+
+#### Cloudflare Vectorize
+
+Managed and integrated into Cloudflare Workers. Good for teams already building on the Cloudflare edge, but more limited than specialized vector databases.
+
+#### Turso Vector
+
+Distributed SQLite with vector support. Lightweight, edge-friendly and useful for embedded or mobile scenarios, but still limited for advanced vector workloads.
+
+### Platform-integrated solutions
+
+These solutions couple vector storage with a broader application platform.
+
+#### Convex (@convex-dev/rag)
+
+- **Deployment**: managed, integrated into Convex.
+- **Strengths**: native vector support in a real-time database, no separate service, embeddings and search through Convex functions, real-time updates, hybrid search, end-to-end TypeScript.
+- **Weaknesses**: tied to Convex, less control over indexing than Qdrant or Milvus.
+- **Best fit**: real-time applications that need RAG without infrastructure complexity.
+
+**Example: semantic search with Convex RAG**
+
+```typescript
+await rag.insertDocument(ctx, {
+  title: "X400 pump maintenance procedure",
+  body: "For the quarterly maintenance of the X400 pump...",
+  metadata: { category: "maintenance", equipmentId: "X400" },
+});
+
+const results = await rag.search(ctx, {
+  query: "pump maintenance humid environment",
+  limit: 5,
+  filter: { category: "maintenance" },
+});
+```
+
+#### Firebase / Vertex AI RAG Engine
+
+Managed on Google Cloud. Google handles ingestion, chunking, embedding, storage and retrieval, with native Gemini integration and Google Search grounding. It is powerful for companies already on Google Cloud, but comes with lock-in and complex pricing.
+
+#### OpenAI File Search
+
+Managed by OpenAI. Upload files and get a working RAG system in a few lines. The trade-off is that it is a black box: little control over chunking, embedding or retrieval, and costs can grow with large corpora.
+
+## RAG frameworks: orchestration layer
+
+Vector storage is necessary but not sufficient. In production, you need to orchestrate ingestion, chunking, retrieval, generation, errors, streaming and multi-turn flows.
+
+### LangChain / LangGraph
+
+The most popular RAG framework, available in Python and JavaScript. Its strengths are a huge ecosystem, connectors for almost everything, an active community and LangSmith for monitoring. Its weaknesses are abstraction overhead, debugging difficulty and frequent API changes. It is good for getting started, but many production teams end up using only a subset.
+
+### LlamaIndex
+
+Specialized in document indexing and retrieval. It is stronger than LangChain on complex ingestion, such as multi-column PDFs, tables and images, and its retriever abstractions are well designed. It is less general-purpose outside RAG.
+
+### Haystack
+
+A production-oriented RAG framework with declarative pipelines. Less fashionable, but explicit and reliable, with good support for evaluation.
+
+### RAGatouille
+
+A lightweight library centered on ColBERT. It can improve retrieval quality without changing the whole architecture, but it is not a full framework.
+
+### Vercel AI SDK
+
+A TypeScript/JavaScript SDK for building AI applications, with RAG support. It fits React, Next.js and streaming workflows well, and is a strong choice for TypeScript teams.
+
+### Turnkey solutions
+
+Vertex AI RAG Engine and OpenAI File Search manage the pipeline for you: upload, index, query, answer. Time-to-market is excellent, but control is low, lock-in is high, and cost can grow quickly.
+
+## Google Vertex AI & Grounding
+
+Google has taken a distinct approach that deserves its own section.
+
+### Vertex AI Search
+
+Grounding lets Gemini verify answers against the web in real time. When Gemini generates an answer, it can query Google Search to confirm facts and add citations.
+
+This is useful when proprietary data must be enriched with current public information: news, regulation, market data.
+
+### Vertex AI RAG Engine
+
+A fully managed RAG pipeline:
+
+1. Create a corpus and upload documents.
+2. Google handles parsing, chunking, embedding and indexing.
+3. Query through the API or directly from Gemini.
+
+The promise is zero vector infrastructure. The reality is that it works well for standard cases, but lack of control over chunking and retrieval can be frustrating for complex business documents.
+
+### When to choose Google
+
+- You are already on Google Cloud.
+- Gemini is your main LLM.
+- Your documents are relatively standard.
+- You need minimal time-to-market.
+
+### When to build it yourself
+
+- You need precise control over chunking.
+- You want to remain LLM-agnostic.
+- You have strict latency constraints.
+- You need detailed control over hybrid search.
+
+## Going further: often neglected aspects
+
+### Evaluating RAG quality
+
+Choosing a stack is one thing. Knowing whether it works is another. In production, you need to **measure** answer quality.
+
+Automatic evaluation frameworks can quantify performance:
+
+- **RAGAS**: measures faithfulness, relevance and completeness.
+- **DeepEval**: adds metrics such as hallucination, toxicity and bias, with pytest integration.
+- **Haystack Evaluation**: useful if you already use Haystack.
+
+**The Golden Dataset**
+
+Evaluation frameworks are useless without reference data. A **Golden Dataset** is a sample of real user questions, associated with expected answers and source documents. It is one of the most underrated and decisive tools in a RAG project.
+
+Build it with business experts, not alone. Collect real questions across easy, medium and complex levels. Define the expected answer and output format for each. For a prototype, 10 to 50 questions are enough. For production, aim for 100 to 500.
+
+Watch three metrics:
+
+- **Precision**: is the answer exact, complete and reproducible?
+- **Recall**: does retrieval find the right chunks?
+- **Faithfulness**: does the answer stay grounded in the sources?
+- **Latency**: users drop off above 3 to 5 seconds.
+
+Change one variable at a time, then rerun the Golden Dataset. That is the only way to know what improves or degrades quality.
+
+### Multimodal RAG
+
+In 2026, companies no longer search only text. Technicians need **technical diagrams**, analysts need **financial charts**, training teams need **videos**.
+
+Multimodal RAG is still young, but several approaches are emerging:
+
+- **ColPali / ColQwen**: retrieval models that work directly on page images without OCR.
+- **Milvus / Zilliz**: native support for multimodal vectors.
+- **Multimodal LLMs**: GPT-4o, Gemini and Claude can analyze images in RAG context, but retrieving the right images remains the hard part.
+
+If your business documents contain many visuals, multimodal is no longer a luxury. Expect a more complex pipeline and higher embedding costs.
+
+### Privacy and sensitive data
+
+For GDPR-regulated companies or teams handling sensitive information, ingestion must include **PII detection and anonymization** before embedding.
+
+In practice:
+
+- **Before embedding**: scan chunks for names, emails, phone numbers, IBANs and sensitive identifiers.
+- **Anonymize or pseudonymize**: replace PII with generic tokens before creating vectors.
+- **Tools**: Microsoft Presidio, AWS Comprehend, spaCy with custom NER models.
+
+An embedding vector contains a semantic representation of the text. Sensitive information can theoretically leak from it. Upfront anonymization remains the most reliable protection.
+
+### User interface
+
+Most RAG guides stop at the technical pipeline. Yet the interface determines adoption.
+
+**The classic chatbot is a trap.** An empty text box saying "Ask your question..." looks intuitive. In practice, users often do not know what to ask, how to phrase it, or what context to provide. The result is vague questions, imprecise answers and loss of trust.
+
+**The alternative: guided business interfaces.** Instead of a text box, use dropdowns, structured fields and selection buttons. The interface captures 4 or 5 precise context points and sends structured JSON to the pipeline. The LLM then returns a structured answer: symptoms, causes, solutions, sources.
+
+Why it works:
+
+- **Lower cognitive load**: users do not have to guess the right phrasing.
+- **Better retrieval**: a structured query with business context has a broader semantic surface.
+- **UI-driven orchestration**: the interface can route to RAG, SQL or calculation based on user choices.
+- **Adoption**: perceived RAG quality depends as much on the interface as on the pipeline.
+
+> **Field feedback**: Jonas Roman observes that most high-performing production RAG projects do not use chatbots, but dedicated business interfaces that are faster to adopt and better suited to daily work.
+
+### Observability
+
+Evaluating RAG before launch is necessary. In production, you need **continuous monitoring**.
+
+Place checkpoints at each critical step:
+
+1. **After retrieval**: which chunks were returned? Are they relevant?
+2. **After reranking**: did the order change? Are the right documents at the top?
+3. **At the final answer**: are sources cited? Is the answer faithful to context?
+
+When an answer is wrong, these checkpoints let you reverse-engineer the issue. Did retrieval return the wrong documents? Was the right document in context but ignored by the LLM? Was the prompt poorly structured?
+
+**Reject black boxes for serious use cases.** RAG as a Service is convenient for prototypes, but you have little visibility into the internals. In finance, healthcare or legal, explainability is not a bonus. It is a requirement.
+
+### Beyond vectors
+
+RAG is not limited to "embeddings + vector database". Several emerging approaches complement or replace classic semantic search.
+
+**GraphRAG / Knowledge Graphs**
+
+Instead of chunking text and vectorizing chunks independently, GraphRAG preserves **relationships and logical links** between information. It is especially powerful when you need exhaustiveness: finding every contract with a clause, tracing process dependencies, identifying non-compliance across a corpus.
+
+**Page Indexing**
+
+A vectorless RAG technique that indexes documents by page and logical structure rather than by vectors. Useful when document layout carries as much meaning as content.
+
+**Exploratory File Search agents**
+
+Agents use multi-turn search to read through data like a human would. They ask an initial query, analyze results, refine the search and iterate until they find the information.
+
+**Self-RAG / Reflective RAG**
+
+The system retrieves information, then checks whether it is relevant and sufficient. If quality is too low, it launches new queries and only returns an answer after passing its own reliability criteria.
+
+> **These approaches are still often R&D work.** Watch them closely, but be cautious before putting them into production. Classic vector RAG with hybrid search remains the proven standard.
+
+## Decision matrix
+
+| Solution | Complexity | Cost | Scalability | Latency | Hybrid | Multi-tenant | Open source | Maturity |
+|----------|------------|------|-------------|---------|--------|--------------|-------------|----------|
+| **Pinecone** | Low | High | 5/5 | 4/5 | Yes | Yes | No | 5/5 |
+| **Qdrant** | Medium | Low to medium | 5/5 | 5/5 | Yes | Yes | Yes | 4/5 |
+| **Weaviate** | Medium | Low to medium | 4/5 | 4/5 | Yes | Yes | Yes | 4/5 |
+| **Milvus** | High | Low to medium | 5/5 | 5/5 | Yes | Yes | Yes | 4/5 |
+| **ChromaDB** | Low | Free | 2/5 | 3/5 | No | No | Yes | 2/5 |
+| **Turbopuffer** | Low | Low | 4/5 | 3/5 | Yes | Yes | No | 2/5 |
+| **pgvector** | Low | Low | 3/5 | 3/5 | Manual | Yes | Yes | 4/5 |
+| **MongoDB Atlas VS** | Low | Medium | 4/5 | 3/5 | No | Yes | No | 3/5 |
+| **Redis VS** | Medium | Medium | 3/5 | 5/5 | Yes | Yes | Yes | 3/5 |
+| **Convex RAG** | Low | Low to medium | 3/5 | 4/5 | Yes | Yes | SDK yes | 3/5 |
+| **Vertex AI RAG** | Low | Medium to high | 5/5 | 3/5 | Yes | Yes | No | 3/5 |
+| **OpenAI File Search** | Low | High | 3/5 | 3/5 | No | No | No | 3/5 |
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/decision-tree.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/decision-tree.webp"
+  alt="RAG decision tree"
+  width={1600}
+  height={893}
+/>
+
+## Recommendations by profile
+
+### Early-stage startup
+
+**-> Convex (@convex-dev/rag) or pgvector via Supabase**
+
+You do not have DevOps capacity and want to ship quickly. Convex gives you a database, vector search and real-time behavior in one service. Supabase + pgvector is the alternative if you prefer PostgreSQL and your vector needs are simple.
+
+Do not spend three months designing the perfect RAG system. Start simple and iterate.
+
+### SMB with existing PostgreSQL
+
+**-> pgvector**
+
+You already run PostgreSQL in production, with a team that knows it and backups in place. Add pgvector as a SQL migration. Your vectors live next to your business data.
+
+If you exceed 5 to 10 million vectors, or search latency becomes critical, it will be time to move to a specialized database.
+
+### Scale-up / large volume
+
+**-> Pinecone or Qdrant**
+
+You have tens of millions of documents, sustained traffic and latency requirements. Pinecone if you want zero ops. Qdrant if you want control and have the team to operate it, or use Qdrant Cloud.
+
+### Google Cloud enterprise
+
+**-> Vertex AI RAG Engine + Qdrant/Pinecone for advanced cases**
+
+Vertex AI handles standard cases. Qdrant or Pinecone handle cases that require fine control. Google Search grounding is a real differentiator when users need current public information.
+
+### Multi-cloud enterprise
+
+**-> Self-hosted Qdrant or Weaviate**
+
+You do not want vendor lock-in. Qdrant and Weaviate run on any Kubernetes cluster. You keep full control over data and infrastructure.
+
+### Fast prototype
+
+**-> ChromaDB or OpenAI File Search**
+
+You want to validate an idea in an afternoon. ChromaDB if you use Python and want to understand the mechanics. OpenAI File Search if you just want to see RAG working without managing vectors.
+
+Do not put either one into large-scale production.
+
+## Conclusion: RAG is not a single choice
+
+RAG is not a product you buy. It is an **architectural spectrum**, from "three lines of code with OpenAI File Search" to "distributed pipeline with Qdrant, Cohere reranking and continuous evaluation".
+
+The right choice depends on three factors:
+
+1. **Where you are**: prototype, MVP or established production?
+2. **What you have**: DevOps team, PostgreSQL already in place, Google Cloud?
+3. **What you need**: volume, latency, accuracy?
+
+**The worst mistake is over-architecting.** Complex multi-agent RAG architectures can look attractive, but field experience shows that many overly ambitious systems do not hold up in production. Each additional LLM call multiplies the error rate. If a model has a 5% error rate, cascading several calls noticeably lowers global reliability.
+
+Start with the simplest solution that meets the immediate need. pgvector or Convex for a first production RAG. ChromaDB for a POC. Migrate when, and only when, you hit the limits.
+
+The second worst mistake is underestimating upstream work. The best vector database in the world will not compensate for poorly prepared data, bad chunking or the wrong embedding model. Data preparation and business engineering represent most of the effort.
+
+The third mistake is often invisible: neglecting the interface. A technically solid RAG hidden behind a plain text box will be underused. Think of RAG as a product for business users, not only as a technical pipeline.
+
+**A word on trends**: keep an eye on object-storage architectures such as Turbopuffer, GraphRAG for cases requiring exhaustiveness and relationship traceability, and Self-RAG for more reliable agentic pipelines. RAG is not disappearing. It is evolving into a central knowledge infrastructure for enterprise AI.
+
+**Need help choosing?** At AppExpress, we implement RAG systems for SMBs, from a one-week POC to production pipelines with continuous evaluation. If you are hesitating between options or want to validate your architecture before committing, [let's talk](https://appexpress.fr).
+21:T275c,
+<ThemeImage
+  lightSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp"
+  darkSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp"
+  alt="Business application, mobile and AI"
+  width={1600}
+  height={893}
+  priority={true}
+/>
+
+<AppExpressSourceBanner
+  href="https://appexpress.fr/blog/applications-metier-interrogeables-par-ia"
+  linkLabel="Read the original article"
+>
+  This article originally comes from AppExpress.fr.
+</AppExpressSourceBanner>
+
+Artificial intelligence is discussed constantly in companies. But in most companies, the reality is more down to earth: useful data, customers, projects, stock, invoices and field work, lives inside a business application that is only accessible from a web browser on a fixed workstation.
+
+That is a good start. But it is only part of the equation.
+
+A truly effective business application today relies on **three complementary layers**: the web interface for daily work, the mobile app for the field, and an artificial intelligence layer for automation.
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/layers-en.webp"
+  darkSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/layers-en.webp"
+  alt="The three layers of a modern business application"
+  width={1600}
+  height={893}
+/>
+
+## The web interface: the central workstation
+
+This is the heart of the system. The web interface remains essential to:
+
+- manage projects, contracts and invoices;
+- track customer conversations and field work in real time;
+- view dashboards and indicators;
+- administer access rights and settings.
+
+Whether it is a CRM, a job-site tracking tool, inventory management software or a team schedule, the principle is the same: the web interface is structured, complete and designed for office work. **The goal is not to replace it.** But it has limits: you need to be in front of a screen, connected, and know where to look for the information.
+
+## The mobile app: field access
+
+This is the layer that is most often missing. Yet it is the one that changes daily work the most for teams that are not behind a desk.
+
+A craftsperson on site, a salesperson in a meeting, a technician on an intervention, a manager on the move: all of them need access to their data **where they are**, not only where their computer happens to be.
+
+A well-designed mobile app makes it possible to:
+
+- **receive push notifications**: new customer request, urgent ticket, overdue invoice, scheduled intervention;
+- **validate quickly**: accept a quote, sign a document, confirm a job-site milestone;
+- **check at a glance**: project status, customer history, stock level, daily schedule;
+- **capture information in the field**: document photo, observation, voice note, quick comment;
+- **stay responsive**: answer a customer in 2 minutes instead of 2 hours.
+
+<Callout type="info" title="The key point">
+  Mobile does not replace the web interface. It extends access to your business application beyond the office, where business actually happens.
+</Callout>
+
+It is not a "reduced version" of your software. It is the same database, the same access rights, the same business logic, but in a format suited to a pocket screen and mobile use.
+
+## The AI layer: intelligent automation
+
+Now imagine adding a third layer: structured access to your application's data, usable by an LLM, meaning a language model such as Claude or ChatGPT.
+
+The principle is simple. Instead of navigating menus to find information, we create **dedicated access points** that AI can query. Not raw access to the whole database, but targeted, secure views that answer the most common business questions.
+
+In practice, this can take the form of a command line tool or an MCP connector (Model Context Protocol), allowing a desktop AI assistant to query your business tool directly.
+
+### What it enables
+
+Some examples depending on the type of application:
+
+**Customer management / CRM:**
+
+- *"Summarize the Martin customer account: projects, payments, tickets"*
+- *"Draft a follow-up email for each overdue invoice"*
+
+**Job-site tracking:**
+
+- *"Which job sites have fallen behind this week?"*
+- *"List the interventions that have not been validated for more than 3 days"*
+
+**Inventory management:**
+
+- *"Which products are below the reorder threshold?"*
+- *"Prepare a supplier order based on this month's sales"*
+
+**Scheduling / HR:**
+
+- *"Who is available next week for an intervention in Rennes?"*
+- *"Summarize this month's overtime by team"*
+
+<Callout type="tip" title="The real gain">
+  The important thing is not response speed. It is that questions that were never asked, because they took too long to process, become possible.
+</Callout>
+
+## The three layers in action: a concrete scenario
+
+Let us take a CRM as an example, although the principle applies to any business application.
+
+**Monday morning, 8:00.** The AI automatically analyzes the application state and detects that an invoice for the Durand customer has been overdue for 7 days, that a support ticket has gone unanswered, and that the associated project has not moved forward for 10 days.
+
+**8:05.** The manager receives a **push notification** on their phone: *"Durand customer: 3 attention points detected"*.
+
+**8:06.** They open the **mobile app**, read the summary prepared by the AI, and approve in one tap the sending of a pre-written payment reminder email for the invoice.
+
+**8:10.** Back at the office, the project manager opens the **web interface** to handle the ticket in depth, update the project schedule and document the exchange.
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/timeline-en.webp"
+  darkSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/timeline-en.webp"
+  alt="Scenario: from AI analysis to resolution in 10 minutes"
+  width={1600}
+  height={893}
+/>
+
+**Result:** in 10 minutes, three problems detected, one handled immediately, two being resolved. Without AI, those signals could have remained unnoticed for days.
+
+That is what the three layers do together.
+
+## Tomorrow: autonomous agents
+
+The three layers described above are already operational. But the natural evolution goes further: **autonomous AI agents**.
+
+An agent is no longer an LLM waiting for a question. It is an assistant that **acts by itself** according to defined rules:
+
+- it continuously monitors your business application;
+- it detects situations that require action;
+- it proposes or directly executes that action, with your validation.
+
+For example: every morning, an agent can analyze overdue invoices, draft reminders, and submit them for approval through a mobile notification. Without being asked.
+
+### For the more ambitious: OpenClaw
+
+Platforms such as [OpenClaw](https://openclaw.ai) already make it possible to connect AI agents to your business tools: management application, email, calendar, messaging. The agent becomes a real digital teammate: it reads your data, reasons over it, and can act across several channels, email, Telegram, web interface.
+
+This is no longer science fiction. It is an accessible reality, provided you have a well-structured database and secure access, exactly what the previous three layers put in place.
+
+<Callout type="tip" title="The pragmatic approach">
+  You do not start with an autonomous agent. You start with a solid application, add mobile, then add the AI layer. The agent arrives naturally when the foundations are in place.
+</Callout>
+
+## Why this approach works
+
+Whether you are independent, a craft business, an SME or a larger organization, when resources are limited, **the same people often do everything**.
+
+That is precisely why this approach works so well:
+
+- **The web interface** structures work and centralizes data
+- **The mobile app** keeps people responsive without tying them to the office
+- **AI** handles repetitive tasks and surfaces what really matters
+
+All of this with a **controlled cost**: we do not rebuild what already exists, we enrich it. Each layer is added without replacing the previous one.
+
+## The right sequence to start
+
+1. **A solid web application**: the foundation. Well-structured data, clear access rights, complete interface.
+2. **A mobile application**: to extend access to the field and gain responsiveness.
+3. **The AI layer**: start with 3 to 5 high-value use cases, test on real data, then expand.
+
+<Callout type="warning" title="A point of vigilance">
+  Security remains the priority. Each layer follows the same access rules: a salesperson only sees their customers, a contractor only sees their project. AI is not an exception.
+</Callout>
+
+## A partner, not a vendor
+
+Building an application is one thing. Adopting it, evolving it and getting the most out of it is another.
+
+That is why at AppExpress, we do not just deliver a product. We support our customers **over time**:
+
+- **Upfront consulting**: identify real needs, avoid false good ideas, frame the project efficiently
+- **Custom development**: web interface, mobile application, AI integration, each building block adapted to your business
+- **Deployment and training**: support your teams as they adopt the new tools
+- **Continuous evolution**: new features, adjustments, updates, technical support
+
+The goal is simple: make your digital investment **produce concrete results**, not end up forgotten in a drawer.
+
+## Conclusion
+
+A modern business application is no longer just a web interface. It is an **ecosystem**: web for steering, mobile for the field, AI for automation.
+
+These three layers do not compete with each other. They complement each other. Their combination is what turns a simple management tool into a real competitive advantage.
+
+---
+
+*At AppExpress, we design and support your business applications with three dimensions integrated from the start: web interface, native mobile application and artificial intelligence. From initial consulting to production follow-up, a single point of contact. [Book a meeting](https://appexpress.fr) to discuss it.*
+22:T80e,
 <ThemeImage
   lightSrc="/images/2026/appexpress.webp"
   darkSrc="/images/2026/appexpress.webp"
@@ -88,7 +1099,7 @@ the objective is always the same, **deliver a functional product**.
 
 - **More generative AI–oriented projects**,
   to explore and demonstrate concrete use cases: **intelligent search, content generation, assistants, and automations.**
-20:T74c,
+23:T74c,
 <ThemeImage
   lightSrc="/images/2025/llmvoice.webp"
   darkSrc="/images/2025/llmvoice.webp"
@@ -139,7 +1150,7 @@ Llama 3.2 (1B): about 500 MB<br/>
 ## 🛟 Support
 Need help or want to share feedback? Email [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
 
-21:T13cc,
+24:T13cc,
 <ThemeImage
   lightSrc="/images/2025/ble-uscope.webp"
   darkSrc="/images/2025/ble-uscope.webp"
@@ -241,7 +1252,7 @@ Available on the App Store and Google Play.
 ## Support
 
 Need help or want to share feedback? Email [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-22:Tc04,
+25:Tc04,
 <ThemeImage
   lightSrc="/images/2025/decibelpeak.webp"
   darkSrc="/images/2025/decibelpeak.webp"
@@ -310,7 +1321,7 @@ Available on the App Store and Google Play.
 ## Support
 
 Need help or want to share feedback? Write to [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-23:T48f,
+26:T48f,
 <ThemeImage
   lightSrc="/images/2025/hello-world.webp"
   darkSrc="/images/2025/hello-world.webp"
@@ -346,7 +1357,7 @@ In the long run, I’ll operate under different banners:
 ---
 
 **Stay tuned!**
-24:T72e,
+27:T72e,
 <ThreeCube />
 
 # About
@@ -387,10 +1398,10 @@ SIRET: 939 948 865 00018<br />
 VAT: FR56 939948865
 
 <OsibitsLogo />
-10:["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"},{"href":"/en?tag=apps","label":"Apps"},{"href":"/en/2025/09/about","label":"About"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Entrepreneur"}]]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$12",null,{"fallback":null,"children":["$","$L1e",null,{"locale":"en","copy":{"placeholder":"Search content by title or body...","allLabel":"All","empty":"No matching entries yet.","showTags":"Show tags & search","hideTags":"Hide tags & search","loadMore":"Load more results"},"initialDocs":[{"slug":"appexpress-pre-launch","title":"AppExpress – Offer Pre-Launch","description":"Your apps, ready-to-use, à la carte.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$1f","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice 1.0","description":"Technical demo designed to evaluate the new speech recognition APIs of iOS 26 (SpeechAnalyzer / SpeechTranscriber) and the execution of open-weight LLM models (quantized in 4 bits) locally on an iPhone supporting the MLX framework.","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","source_code"],"content":"$20","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Advanced Bluetooth Low Energy scanner and analyzer for iOS, iPadOS, Android, and macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$21","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak is a mobile sound level meter for iOS and Android with real-time decibel readings, audio visualizations, history, dB peak tracking, and local calibration.","tags":["apps","ios","android","audio"],"content":"$22","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"Hello World!","description":"Welcome to my Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$23","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"about","title":"About","description":"André Frélicot - TechLead, Entrepreneur, Digital Strategist. Tech - Product - Business.","tags":["about"],"content":"$24","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"appexpress-pre-launch":"/en/2026/01/appexpress-pre-launch","llmvoice":"/en/2025/10/llmvoice","ble-uscope":"/en/2025/10/ble-uscope","decibelpeak":"/en/2025/09/decibelpeak","hello-world":"/en/2025/09/hello-world","about":"/en/2025/09/about"}}]}]}],"$L25"]}]
-25:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}],["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":"$L26"}]}],"$L27"]}]]}]}]
-28:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z26:["$","path",null,{"fillRule":"nonzero","d":"$28"}]
-27:["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
+10:["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"},{"href":"/en?tag=apps","label":"Apps"},{"href":"/en/2025/09/about","label":"About"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Entrepreneur"}]]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$12",null,{"fallback":null,"children":["$","$L1e",null,{"locale":"en","copy":{"placeholder":"Search content by title or body...","allLabel":"All","empty":"No matching entries yet.","showTags":"Show tags & search","hideTags":"Hide tags & search","loadMore":"Load more results"},"initialDocs":[{"slug":"mobile-app-which-technology-to-choose-in-2026","title":"Mobile app: which technology should you choose in 2026?","description":"Capacitor, React Native, Flutter or native? A practical guide for decision-makers who want to understand the real trade-offs behind each technology choice.","tags":["appexpress","mobile","flutter","react-native","capacitor","native","strategy","ai"],"content":"$1f","image":"/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp","date":"2026-03-28"},{"slug":"which-rag-system-for-your-business-application","title":"Which RAG system should you choose for your business application?","description":"A practical guide to choosing a RAG stack in 2026: vector databases, orchestration frameworks and recommendations by company profile.","tags":["appexpress","rag","ai","vector-database","llm","architecture"],"content":"$20","image":"/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp","date":"2026-03-23"},{"slug":"make-business-applications-queryable-by-ai","title":"Make your business applications queryable by AI","description":"Web interface, mobile app, artificial intelligence: how these three layers turn a business application into a real steering tool for your company.","tags":["appexpress","business-app","ai","mobile","automation","b2b","crm"],"content":"$21","image":"/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp","date":"2026-03-10"},{"slug":"appexpress-pre-launch","title":"AppExpress – Offer Pre-Launch","description":"Your apps, ready-to-use, à la carte.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$22","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice 1.0","description":"Technical demo designed to evaluate the new speech recognition APIs of iOS 26 (SpeechAnalyzer / SpeechTranscriber) and the execution of open-weight LLM models (quantized in 4 bits) locally on an iPhone supporting the MLX framework.","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","source_code"],"content":"$23","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Advanced Bluetooth Low Energy scanner and analyzer for iOS, iPadOS, Android, and macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$24","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak is a mobile sound level meter for iOS and Android with real-time decibel readings, audio visualizations, history, dB peak tracking, and local calibration.","tags":["apps","ios","android","audio"],"content":"$25","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"Hello World!","description":"Welcome to my Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$26","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"about","title":"About","description":"André Frélicot - TechLead, Entrepreneur, Digital Strategist. Tech - Product - Business.","tags":["about"],"content":"$27","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"mobile-app-which-technology-to-choose-in-2026":"/en/2026/03/mobile-app-which-technology-to-choose-in-2026","which-rag-system-for-your-business-application":"/en/2026/03/which-rag-system-for-your-business-application","make-business-applications-queryable-by-ai":"/en/2026/03/make-business-applications-queryable-by-ai","appexpress-pre-launch":"/en/2026/01/appexpress-pre-launch","llmvoice":"/en/2025/10/llmvoice","ble-uscope":"/en/2025/10/ble-uscope","decibelpeak":"/en/2025/09/decibelpeak","hello-world":"/en/2025/09/hello-world","about":"/en/2025/09/about"}}]}]}],"$L28"]}]
+28:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}],["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":"$L29"}]}],"$L2a"]}]]}]}]
+2b:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z29:["$","path",null,{"fillRule":"nonzero","d":"$2b"}]
+2a:["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
 16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 13:null
 18:[["$","title","0",{"children":"André Frélicot - TechLead & Entrepreneur"}],["$","meta","1",{"name":"description","content":"A curated collection of my software development writing and projects."}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","href":"https://andrefrelicot.dev/feed.xml"}]]

@@ -2,9 +2,1014 @@
 2:I[3020,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],"SiteHeader"]
 3:"$Sreact.suspense"
 4:I[28081,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],"ClientSearch"]
-e:I[44024,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],""]
-11:I[92690,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"OutletBoundary"]
-5:T8a5,
+11:I[44024,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],""]
+14:I[92690,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"OutletBoundary"]
+5:T36aa,
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp"
+  darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp"
+  alt="Aplicación móvil y elección tecnológica"
+  width={1600}
+  height={893}
+  priority={true}
+/>
+
+<AppExpressSourceBanner
+  href="https://appexpress.fr/blog/quelle-technologie-mobile-choisir"
+  linkLabel="Leer el artículo original"
+>
+  Este artículo proviene originalmente de AppExpress.fr.
+</AppExpressSourceBanner>
+
+Has decidido crear una aplicación móvil. A menudo es un gran motor de crecimiento. Pero enseguida aparece una pregunta: **¿qué tecnología usar?**
+
+Capacitor. React Native. Flutter. Nativo. Cuatro nombres que aparecen en cada presupuesto, en cada conversación con un desarrollador y en cada artículo técnico. Sin embargo, la mayoría de responsables no sabe exactamente qué significan estos términos ni qué implican para el presupuesto, el calendario y la calidad final del producto.
+
+Este artículo existe para eso. Sin jerga innecesaria, sin guerras de frameworks entre desarrolladores. Solo los **compromisos reales**, explicados con claridad.
+
+## Una elección técnica y estratégica
+
+Antes de hablar de frameworks, conviene plantear las preguntas correctas. La elección tecnológica determinará cuatro variables críticas para tu empresa:
+
+- **Tu time-to-market**: ¿cuánto tiempo hasta estar en las tiendas?
+- **Tu presupuesto total**: en el lanzamiento, pero también cada año para el mantenimiento.
+- **La calidad percibida**: fluidez, animaciones, respeto de las convenciones iOS/Android. A menudo es lo que hace que un usuario conserve la app o la desinstale después de 30 segundos.
+- **Tu capacidad de adaptación**: ¿podrás integrar nuevas funciones de IA, los sensores de mañana y las futuras API del sistema?
+
+Las respuestas a estas preguntas orientan la decisión mucho mejor que cualquier benchmark de rendimiento. Pero no te equivoques: también es una decisión técnica. La tecnología elegida tiene consecuencias directas sobre lo que podrás, o no podrás, hacer con tu aplicación.
+
+## Los cuatro enfoques, explicados de forma simple
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/architectures.webp"
+  darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/architectures.webp"
+  alt="Las cuatro arquitecturas móviles comparadas"
+  width={1600}
+  height={893}
+/>
+
+### Capacitor (Ionic): la web dentro de una carcasa nativa
+
+Capacitor utiliza **tecnologías web** (HTML, CSS, JavaScript) para construir la interfaz móvil, mostrada en un navegador integrado dentro de la aplicación. Cuidado: eso no significa meter una web dentro de una app. Se desarrolla una interfaz móvil dedicada, con sus propios componentes y convenciones de UX, mediante Ionic u otros frameworks UI móviles. Cuando necesitas acceder a una función del teléfono, como la cámara, las notificaciones o el GPS, un sistema de plugins conecta la capa web con el hardware.
+
+**Ventajas:**
+
+- Velocidad de desarrollo imbatible: los desarrolladores web (JavaScript, React, Vue, Angular) son productivos de inmediato.
+- Un solo código para iOS, Android y web.
+- Acceso a todo un ecosistema de componentes UI móviles (Ionic, Konsta UI) que respetan las convenciones de iOS y Android.
+- Ideal para aplicaciones de contenido, herramientas internas y cuadros de mando.
+
+**Límites:**
+
+- La interfaz sigue siendo "web móvil": puede faltarle la fluidez y las animaciones que los usuarios de iPhone o Android esperan de una app nativa.
+- Las interacciones complejas, como drag-and-drop, animaciones fluidas o transiciones, son más difíciles de pulir.
+- Si necesitas funciones avanzadas de hardware, tendrás que escribir plugins nativos, lo que exige competencias adicionales.
+
+**En una frase:** la opción más accesible para un equipo web, con una experiencia móvil real, pero limitada cuando se busca una experiencia premium.
+
+### React Native: el compromiso popular
+
+React Native funciona de otra manera: tu código está escrito en JavaScript, el lenguaje de la web, pero la interfaz que se muestra en pantalla utiliza los **componentes nativos reales** del teléfono. Un botón React Native es un botón iOS o Android real, no una imitación web.
+
+En 2026, React Native ha completado una reforma importante de su arquitectura interna. La comunicación entre tu código y el teléfono se ha vuelto mucho más rápida y fluida. Los microtirones que podían verse hace unos años han desaparecido en gran medida.
+
+**Ventajas:**
+
+- Un solo código para iOS y Android, con un renderizado verdaderamente nativo.
+- La mayor bolsa de desarrolladores disponibles, especialmente en Francia.
+- El ecosistema Meta, Facebook, Instagram y WhatsApp, lo usa en producción, lo que refuerza su continuidad.
+- Posibilidad de integrar pantallas React Native en una aplicación nativa existente.
+
+**Límites:**
+
+- La cadena de herramientas es compleja y evoluciona rápido: necesitas un desarrollador que siga el ecosistema.
+- Las bibliotecas de terceros deben ser compatibles con la nueva arquitectura. El periodo de transición continúa.
+- Para animaciones muy complejas o juegos, no es la herramienta más adecuada.
+
+**En una frase:** la elección más pragmática para la mayoría de aplicaciones de gran público.
+
+### Flutter: el motor de renderizado autónomo
+
+Flutter adopta un enfoque radicalmente distinto. En lugar de usar los componentes nativos del teléfono o un navegador web, **dibuja cada píxel por sí mismo** gracias a su propio motor gráfico, Impeller. Flutter trae su propio pincel en lugar de tomar prestado el del sistema.
+
+El resultado: una aplicación Flutter tiene exactamente el mismo aspecto en un iPhone 16 y en un smartphone Android de gama básica. La coherencia visual es total.
+
+En 2026, Impeller es el único motor de renderizado en iOS y el motor por defecto en Android. Flutter compila directamente a código máquina. No se interpreta; se compila como una aplicación nativa.
+
+**Ventajas:**
+
+- El renderizado gráfico más fluido entre las soluciones cross-platform: 90 a 120 imágenes por segundo.
+- Interfaz idéntica en todas las plataformas: un solo diseño que mantener.
+- Excelente experiencia de desarrollo, con recarga instantánea conservando el estado de la app.
+- Compilación a código máquina, con rendimiento cercano al nativo.
+
+**Límites:**
+
+- El lenguaje utilizado, Dart, es menos común que JavaScript. Contratar puede ser más difícil.
+- La interfaz no "se parece" automáticamente a iOS o Android. Hay que codificarlo explícitamente.
+- El ecosistema de paquetes es más pequeño que el de React Native, aunque crece rápido.
+
+**En una frase:** la mejor elección cuando la identidad visual y la fluidez son prioridades de negocio.
+
+### Nativo (Swift/Kotlin): desarrollo premium a medida
+
+El desarrollo nativo significa crear dos aplicaciones separadas: una en Swift para iOS y otra en Kotlin para Android. Cada una utiliza directamente las herramientas e interfaces proporcionadas por Apple y Google.
+
+Ambas plataformas ofrecen desde hace años frameworks declarativos, SwiftUI desde 2019 y Jetpack Compose desde 2021, que hoy han alcanzado la madurez. En 2026, se han convertido en el estándar de facto, haciendo que el desarrollo nativo sea mucho más productivo que con los enfoques anteriores.
+
+**Ventajas:**
+
+- Acceso inmediato a todas las nuevas funciones del sistema operativo, desde el día de su lanzamiento.
+- Rendimiento óptimo: arranque más rápido y menor consumo de batería.
+- Integración profunda con el ecosistema: Apple Watch, widgets, IA local, Siri, Google Assistant.
+- La mejor opción para aplicaciones que aprovechan la IA en el dispositivo.
+
+**Límites:**
+
+- Dos bases de código que mantener: doble esfuerzo, doble presupuesto.
+- Los desarrolladores Swift y Kotlin senior son escasos y caros.
+- El time-to-market es el más largo de los cuatro enfoques.
+
+**En una frase:** el gold standard cuando la calidad y la durabilidad pesan más que el presupuesto.
+
+## La IA local: el criterio que nadie veía venir
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/on-device-ai.webp"
+  darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/on-device-ai.webp"
+  alt="IA integrada en el dispositivo"
+  width={1600}
+  height={893}
+/>
+
+En 2026, un nuevo criterio ha entrado en la ecuación: **la inteligencia artificial en el dispositivo**. Apple Intelligence y Gemini Nano en Android hacen que los smartphones ejecuten modelos de IA directamente en su procesador neuronal, sin pasar por la nube.
+
+En la práctica, esto permite:
+
+- Resumen automático de documentos, sin conexión.
+- Reconocimiento de imágenes en tiempo real, sin latencia de servidor.
+- Ayuda inteligente a la escritura, personalizada y privada.
+- Traducción instantánea de conversaciones.
+
+**Aquí es donde importa la tecnología elegida.** Las aplicaciones nativas acceden a estas funciones con una latencia inferior a 100 ms. Los frameworks cross-platform, React Native y Flutter, ofrecen puentes hacia estos modelos, pero con una capa adicional de abstracción que puede afectar al rendimiento y al consumo energético.
+
+Si la IA local es el núcleo de tu producto, por ejemplo en salud, análisis en tiempo real o un asistente vocal, el nativo sigue siendo hoy la única opción que garantiza una eficiencia óptima. Para usos secundarios, como un chatbot o sugerencias, todas las tecnologías cumplen.
+
+## La tabla comparativa
+
+| Criterio | Capacitor | React Native | Flutter | Nativo |
+|---|---|---|---|---|
+| **Time-to-market** | 🟢 3-4 semanas | 🟡 5-6 semanas | 🟡 6-8 semanas | 🔴 8-12 semanas |
+| **Renderizado UI** | Web (navegador) | Componentes nativos | Motor propio | 100% nativo |
+| **Fluidez** | 🟡 60 FPS | 🟢 60-90 FPS | 🟢 90-120 FPS | 🟢 120 FPS |
+| **Acceso a nuevas API** | 🔴 3-6 meses | 🟡 1-3 meses | 🟡 Rápido | 🟢 Día 1 |
+| **IA en dispositivo** | 🔴 Limitada | 🟡 Vía módulos | 🟢 Muy buena | 🟢 Óptima |
+| **Contratación (Francia)** | 🟢 Muy fácil | 🟢 La más amplia | 🟡 Moderada | 🔴 Difícil |
+| **Coste de desarrollo** | 🟢 € | 🟡 €€ | 🟡 €€ | 🔴 €€€€ |
+| **Mantenimiento anual** | 🟢 € | 🟡 €€ | 🟡 €€ | 🔴 €€€ |
+
+## ¿Cómo elegir? El árbol de decisión
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/decision-tree.webp"
+  darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/decision-tree.webp"
+  alt="Árbol de decisión: ¿qué tecnología móvil elegir?"
+  width={1600}
+  height={893}
+/>
+
+En lugar de comparar especificaciones técnicas, hazte estas preguntas en orden:
+
+**1. ¿Tu equipo domina las tecnologías web (JavaScript, React, Vue)?**
+→ Sí → **Capacitor**: capitalizar las competencias existentes sin sacrificar la UX móvil.
+→ No, o no únicamente → pasa a la pregunta 2.
+
+**2. ¿La identidad visual de la app es un factor de diferenciación?**
+→ Sí, el diseño y las animaciones son esenciales para nuestra marca → **Flutter**.
+→ No, la funcionalidad pesa más → pasa a la pregunta 3.
+
+**3. ¿Necesitas funciones avanzadas del teléfono (IA local, sensores, Bluetooth LE)?**
+→ Sí, están en el centro del producto → **Nativo**.
+→ No, las funciones estándar bastan → pasa a la pregunta 4.
+
+**4. ¿El presupuesto y el time-to-market son tus prioridades?**
+→ Sí → **React Native**: el mejor compromiso coste/calidad/velocidad.
+→ No, quiero el mejor resultado posible → **Flutter** o **Nativo**, según la necesidad.
+
+## ¿Qué perfil tienes?
+
+**Lanzas un MVP o una herramienta interna**
+
+Ve rápido, valida la idea, itera. **Ionic/Capacitor** permite lanzar en pocas semanas usando competencias web. La interfaz móvil se desarrolla con componentes dedicados, no copiando una web. Si la app tiene éxito, una migración a React Native o Flutter sigue siendo posible.
+
+**Creas una app de gran público**
+
+Necesitas una interfaz reactiva, mantenimiento sostenible y una bolsa de desarrolladores para hacer evolucionar el producto. **React Native** es la opción más pragmática. Es la tecnología más contratada en Francia.
+
+**Tu app ES tu producto**
+
+La interfaz es una palanca de diferenciación. Tu marca pasa por la fluidez, las animaciones y el diseño a medida. **Flutter** te da control total sobre cada píxel, con un renderizado idéntico en todos los dispositivos.
+
+**Construyes una herramienta tecnológica avanzada**
+
+IA en el dispositivo, realidad aumentada, integración profunda con sensores o wearables. **El nativo** es el único camino que no impondrá compromisos técnicos.
+
+## La tendencia a vigilar: Kotlin Multiplatform
+
+Surge un quinto actor: **Kotlin Multiplatform (KMP)**. El principio consiste en compartir toda la lógica de negocio en Kotlin, manteniendo interfaces 100% nativas, SwiftUI en iOS y Compose en Android.
+
+Empresas como Netflix y Cash App ya lo usan en producción. Es un enfoque híbrido atractivo para proyectos ambiciosos que quieren lo mejor de ambos mundos: la productividad del código compartido y la calidad de interfaz del nativo puro.
+
+Todavía es una tecnología de early adopters, pero podría redefinir el compromiso en los próximos años.
+
+## Lo importante es la estrategia
+
+La trampa clásica es centrarse en la tecnología en lugar de la estrategia de producto. **La buena elección no es la que será perfecta para siempre, sino la que te permite entregar ahora conservando la posibilidad de evolucionar tu producto.**
+
+Ese es exactamente el enfoque de AppExpress: no vendemos un framework. Construimos una **estrategia de entrega** adaptada a tu contexto, tu presupuesto y tus ambiciones.
+
+---
+
+*¿Dudas entre estas tecnologías para tu proyecto? [Reserva una llamada](https://cal.com/appexpress) para comentarlo. Te ayudamos a elegir bien, sin compromiso.*
+6:T85c2,
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp"
+  alt="RAG y base de conocimiento de negocio"
+  width={1600}
+  height={893}
+  priority={true}
+/>
+
+<AppExpressSourceBanner
+  href="https://appexpress.fr/blog/quel-systeme-rag-choisir"
+  linkLabel="Leer el artículo original"
+>
+  Este artículo proviene originalmente de AppExpress.fr.
+</AppExpressSourceBanner>
+
+## Introducción: RAG como columna vertebral de la IA aplicada
+
+Tienes un catálogo de producto con 50.000 referencias. Un empleado escribe una pregunta en el chatbot interno: *"¿Qué conector es compatible con la serie X400 en un entorno húmedo?"* Un LLM clásico, incluso GPT-4o o Claude, no conoce tu catálogo. Generará una respuesta plausible, pero falsa.
+
+El **RAG** (Retrieval-Augmented Generation) resuelve ese problema. El principio es sencillo: antes de dejar que el LLM responda, el sistema **busca los documentos pertinentes** en tus datos y los inyecta en el contexto del modelo. El LLM responde apoyándose en tus datos reales, no en su memoria de entrenamiento.
+
+En 2026, RAG se ha vuelto imprescindible porque los casos de uso se han multiplicado:
+
+- **Chatbot de soporte al cliente**: respuestas basadas en documentación, FAQ y tickets resueltos;
+- **Búsqueda documental interna**: un equipo jurídico busca un precedente en 10.000 contratos;
+- **Asistente de RR. HH.**: los empleados preguntan por vacaciones, beneficios o convenio colectivo;
+- **Base de conocimiento de producto**: técnicos de campo buscan un procedimiento de mantenimiento;
+- **Análisis regulatorio**: RGPD, normas ISO, textos legales.
+
+El punto común es claro: tienes datos propietarios y quieres que un LLM los use de forma inteligente. No necesitas hacer fine-tuning del modelo cada vez que cambia un documento. RAG trabaja sobre datos vivos.
+
+Pero entre Pinecone, pgvector, Qdrant, LangChain, Vertex AI y muchas otras opciones, la decisión se ha vuelto confusa. Esta guía ayuda a entender los compromisos.
+
+## Antes de elegir una stack: la auditoría de datos olvidada
+
+Antes de comparar bases vectoriales o elegir un framework, hay una etapa que la mayoría de proyectos RAG omite. También es la primera causa de fracaso.
+
+Como explica Jonas Roman, profesional RAG con más de 60 proyectos en producción: **entre el 70 y el 80% del trabajo de un proyecto RAG está en la preparación de datos**, no en prompts, modelos o arquitectura. Es el clásico *garbage in, garbage out*. Ninguna base vectorial, por potente que sea, compensa datos mal preparados.
+
+Antes de escribir código, audita tus datos en cuatro dimensiones:
+
+1. **Calidad**: ¿los documentos son legibles? ¿Los PDF escaneados son explotables? Para documentos complejos, como diagramas o tablas, herramientas OCR avanzadas como Mistral OCR dan mejores resultados que extractores básicos.
+2. **Estructura**: ¿los datos son homogéneos? Emails de tres líneas mezclados con informes de 200 páginas, formatos incoherentes e información contradictoria deben mapearse desde el inicio.
+3. **Completitud**: ¿realmente tienes todos los datos necesarios? Es frecuente que los equipos de negocio crean tenerlo todo, pero nadie lo haya verificado. A mitad del proyecto, una parte importante puede resultar inutilizable.
+4. **Accesibilidad**: ¿dónde viven los datos? Documentos no estructurados, bases SQL, ERP, CRM. Este mapa determina la arquitectura objetivo.
+
+> **Consejo práctico**: unas horas de encuadre con expertos de negocio pueden ahorrar semanas de desarrollo en la dirección equivocada. Invierte ese tiempo antes de escribir la primera línea de código.
+
+## Cuándo RAG no es la respuesta
+
+El reflejo "datos internos = RAG vectorial" se ha vuelto automático. Pero el RAG clásico, es decir embeddings más búsqueda semántica, no siempre es la herramienta correcta. Antes de implementarlo, hazte estas preguntas.
+
+**¿La respuesta ya existe en datos estructurados?**
+
+Si la pregunta es *"¿Cuál fue la facturación por región en 2023?"* y el dato vive en un ERP o una base SQL, no necesitas RAG. Una consulta SQL directa será más fiable, rápida y barata. RAG recupera pasajes de texto; no agrega, no calcula y no garantiza la exactitud de cifras.
+
+**¿Hay que recorrer todo el corpus?**
+
+*"¿Cuáles son las grandes conclusiones de nuestros 30 informes de auditoría de 2024?"* RAG está diseñado para encontrar los pasajes más pertinentes, no para leer una biblioteca completa. Para análisis globales, usa enfoques **map-reduce**, resumiendo cada documento y luego sintetizando los resúmenes, o un procesamiento multipass.
+
+**¿Necesitas exhaustividad?**
+
+*"Dame todos los contratos que contienen una cláusula de no competencia."* En 200 contratos, un RAG vectorial puede encontrar 40 de 47. Los 7 restantes se pierden. En contextos jurídicos o regulatorios, ese hueco es inaceptable. Para estos casos necesitas **Knowledge Graphs** o búsqueda híbrida reforzada.
+
+**¿Hay cálculos que hacer?**
+
+RAG no calcula. Si la respuesta exige operaciones aritméticas sobre datos, crea **tools** dedicadas, como funciones de cálculo o llamadas API, que el LLM pueda activar fuera del pipeline RAG.
+
+> **Los buenos sistemas son casi siempre híbridos.** Un clasificador LLM aguas arriba analiza la intención y enruta la solicitud hacia la herramienta adecuada: RAG vectorial para comprensión semántica, SQL para datos estructurados, tools para cálculos, map-reduce para síntesis globales. Ese router puede ser simplemente un LLM que clasifica la pregunta en pocos segundos.
+
+## Las piezas de RAG
+
+Un sistema RAG no es una herramienta única. Es un pipeline compuesto por cinco etapas, cada una con sus propias decisiones tecnológicas.
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/rag-pipeline-es.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/rag-pipeline-es.webp"
+  alt="Pipeline RAG en cinco etapas"
+  width={1600}
+  height={893}
+/>
+
+### 1. Ingesta
+
+Los documentos brutos, ya sean PDF, páginas web, emails, archivos Word o datos SQL, deben transformarse en piezas utilizables. Es la etapa de **parsing** y **chunking**.
+
+- **Parsing**: extraer texto de un PDF escaneado, interpretar una tabla HTML, limpiar Markdown;
+- **Chunking**: dividir un documento de 200 páginas en segmentos de 500 a 1.500 tokens, con o sin solapamiento.
+
+El chunking es más crítico de lo que parece. Chunks demasiado grandes diluyen la pertinencia. Chunks demasiado pequeños pierden contexto. No existe un tamaño universal. Depende de tus documentos y tus consultas.
+
+> **Los 5 errores de chunking más costosos**
+>
+> 1. **Cortar una tabla por la mitad**: una tabla dividida en dos produce chunks incomprensibles. Detecta tablas y mantenlas juntas.
+> 2. **Demasiado solapamiento**: 50% de overlap duplica el tamaño del índice sin mejorar la calidad. Apunta a 10-15%.
+> 3. **Perder metadatos**: título del capítulo, nombre del documento, fecha. Suelen desaparecer durante el chunking. Adjuntalos al chunk.
+> 4. **Ignorar la estructura documental**: dividir un documento jurídico por número de tokens ignora artículos y secciones. Usa la estructura lógica.
+> 5. **Un solo formato para todo**: un email de tres líneas y un informe de 200 páginas no se segmentan igual.
+
+**Contextual embedding: enriquecer cada chunk**
+
+Una técnica emergente mejora mucho la calidad del retrieval: **contextual embedding**. Antes de vectorizar un chunk, pide a un LLM que genere una frase corta que lo ubique en el contexto del documento completo. Esa frase se añade antes del embedding.
+
+Resultado: cada chunk "sabe" de dónde viene. Un párrafo sobre especificaciones de una bomba X400 deja de ser un fragmento huérfano. Lleva contexto como "extracto del manual de mantenimiento de la bomba X400, capítulo de estanqueidad". Aumenta la superficie semántica y el retrieval se vuelve más preciso.
+
+### 2. Embedding
+
+Cada chunk se transforma en un **vector**, una lista de números, normalmente entre 256 y 3.072 dimensiones, que codifica el significado semántico del texto. Dos frases con el mismo sentido tendrán vectores cercanos aunque usen palabras distintas.
+
+Modelos de embedding usados en 2026:
+
+| Modelo | Dimensiones | Proveedor | Nota |
+|--------|-------------|-----------|------|
+| `text-embedding-3-small` | 1.536 | OpenAI | Buena relación calidad/precio |
+| `text-embedding-3-large` | 3.072 | OpenAI | Más preciso, más caro |
+| `embed-v4` | 1.024 | Cohere | Muy fuerte en multilingüe |
+| `voyage-3-large` | 1.024 | Voyage AI | Muy bueno en código y documentos técnicos |
+| `voyage-multimodal-3` | 1.024 | Voyage AI | Texto + imágenes |
+| `gemini-embedding-2` | 3.072 | Google | Nuevo en marzo de 2026, multimodal nativo |
+| `mistral-embed` | 1.024 | Mistral AI | Muy económico, correcto en retrieval general |
+| `codestral-embed` | 3.072 | Mistral AI | Especializado en código |
+| `nomic-embed-text-v2-moe` | 768 | Nomic AI | Open-source, Mixture of Experts |
+| `gte-qwen2-instruct` | 768-8192 | Alibaba | Open-source, dimensiones variables, buen multilingüe |
+| BGE-M3, E5-Mistral, GTE | Variable | Comunidad | Gratuitos, autoalojados |
+
+**Importante: Gemini Embedding 2**, lanzado en marzo de 2026, cambia el panorama. Puede colocar texto, imágenes, vídeo, audio y PDF en un **mismo espacio vectorial**. En la práctica, una búsqueda como "diagrama de cableado del conector X400" puede recuperar tanto un párrafo de documentación como una foto del conector.
+
+Domina benchmarks MTEB en inglés, multilingüe y código, soporta más de 100 idiomas y usa Matryoshka Learning para truncar vectores con poca pérdida. Su límite: sigue en Public Preview y cuesta aproximadamente 50% más que OpenAI en uso solo texto. Para texto puro, las alternativas siguen siendo competitivas. Si tus documentos incluyen imágenes o diagramas, no tiene competidor directo.
+
+### 3. Almacenamiento vectorial
+
+Los vectores deben almacenarse en una base capaz de hacer **búsqueda por similitud**. Es la decisión arquitectónica central y la sección principal de este artículo.
+
+### 4. Retrieval
+
+Cuando un usuario hace una pregunta, la consulta también se transforma en vector y se compara con los vectores almacenados para encontrar chunks semánticamente cercanos.
+
+La búsqueda vectorial pura tiene límites. Los sistemas modernos combinan:
+
+- **Búsqueda semántica**: similitud vectorial;
+- **Búsqueda full-text**: BM25 y palabras clave exactas, esencial para nombres, códigos de producto y referencias;
+- **Búsqueda híbrida**: combinación ponderada de ambas;
+- **Reranking**: un modelo especializado como Cohere Rerank o Jina Reranker reordena los resultados.
+
+La búsqueda híbrida se ha convertido en el estándar de producción. La búsqueda vectorial pura falla con identificadores exactos, como *"factura No.2024-0847"*. La búsqueda full-text falla cuando la consulta se formula de forma distinta al documento.
+
+**Cómo funciona la búsqueda híbrida**
+
+El principio es simple: ejecutas dos búsquedas en paralelo, vectorial y BM25 full-text, y luego fusionas los resultados. El método más usado es **Reciprocal Rank Fusion**:
+
+1. La búsqueda vectorial devuelve un ranking: documento A primero, B tercero, C quinto.
+2. BM25 devuelve otro ranking: B primero, D segundo, A cuarto.
+3. RRF los combina ponderando el inverso del rango, con `k` normalmente cerca de 60.
+
+```text
+score = 1 / (k + rango_vectorial) + 1 / (k + rango_bm25)
+```
+
+El documento B, bien posicionado en ambas búsquedas, sube a la cabeza.
+
+Si un usuario busca *"conector X400 resistente a humedad"*, la búsqueda vectorial capta el sentido, por ejemplo "resistente a humedad" cercano a "estanco" o "IP67", mientras BM25 captura el término exacto "X400". Al combinar ambas, se recupera el documento correcto aunque la consulta mezcle lenguaje natural y términos técnicos.
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/hybrid-search-es.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/hybrid-search-es.webp"
+  alt="Búsqueda híbrida combinando palabras clave y vectores"
+  width={1600}
+  height={893}
+/>
+
+### 4.5. Prompt engineering: la pieza invisible
+
+Entre retrieval y generación, muchos equipos descuidan la construcción del prompt. Dedicar 80% del esfuerzo al retrieval y luego escribir un prompt básico es una receta para alucinaciones, incluso con buenos documentos en contexto.
+
+**Estructura el prompt en bloques separados:**
+
+1. **Sistema**: rol de la IA, por ejemplo experto técnico, asistente jurídico o soporte cliente.
+2. **Instrucciones**: reglas estrictas, formato, longitud, tono y sobre todo grounding: "Responde solo a partir de los documentos proporcionados. Si la información no está en el contexto, dilo explícitamente."
+3. **Contexto**: chunks recuperados con sus metadatos.
+4. **Pregunta**: consulta del usuario.
+
+**Tres técnicas que cambian el resultado:**
+
+- **Citas obligatorias**: exige que el LLM cite fuentes para cada afirmación. Reduce alucinaciones y permite verificación humana.
+- **Few-shot examples**: proporciona 2 o 3 ejemplos completos de pregunta, razonamiento y respuesta esperada.
+- **Gestionar el lost in the middle**: los LLM tienden a ignorar información en medio de contextos largos. Coloca los chunks más relevantes al inicio y al final.
+
+### 5. Generación
+
+Los chunks recuperados se inyectan en el prompt del LLM, que genera la respuesta final. La elección del LLM, GPT-4o, Claude, Gemini, Llama o Mistral, afecta la calidad de síntesis, pero suele ser la parte más fácil de cambiar.
+
+## Bases vectoriales: comparativa detallada
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/db-comparison.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/db-comparison.webp"
+  alt="Comparativa de bases vectoriales"
+  width={1600}
+  height={893}
+/>
+
+Aquí se decide la arquitectura más estructurante. Hay tres grandes familias.
+
+### Bases especializadas
+
+Herramientas diseñadas desde el principio para almacenamiento y búsqueda vectorial.
+
+#### Pinecone
+
+- **Despliegue**: gestionado, serverless.
+- **Fortalezas**: puesta en marcha rápida, sin infraestructura, escalado automático, búsqueda híbrida nativa, namespaces para multi-tenant.
+- **Debilidades**: propietario, vendor lock-in, caro a escala, sin autoalojamiento, latencia variable.
+- **Mejor caso**: equipos que quieren RAG en producción sin ops, scale-ups que priorizan time-to-market.
+- **Escala**: miles de millones de vectores.
+
+#### Qdrant
+
+- **Despliegue**: self-hosted o Qdrant Cloud.
+- **Fortalezas**: Rust, rápido, filtrado avanzado por metadatos, búsqueda híbrida, cuantización integrada, API simple.
+- **Debilidades**: self-hosted requiere DevOps, la nube es más reciente que Pinecone.
+- **Mejor caso**: equipos técnicos que quieren control y rendimiento, multi-cloud u on-premise.
+
+#### Weaviate
+
+- **Despliegue**: self-hosted o Weaviate Cloud.
+- **Fortalezas**: API GraphQL, vectorización integrada, búsqueda híbrida BM25 + vectorial, módulos de generative search.
+- **Debilidades**: más pesado que Qdrant, curva de GraphQL, posible acoplamiento.
+- **Mejor caso**: proyectos que quieren un pipeline RAG integrado en la base.
+
+#### Milvus / Zilliz
+
+- **Despliegue**: Milvus autoalojado o Zilliz Cloud.
+- **Fortalezas**: diseñado para escala masiva, separación storage/compute, GPU acceleration, muchos tipos de índices, proyecto CNCF.
+- **Debilidades**: complejo de operar, varios componentes, excesivo para volúmenes pequeños.
+- **Mejor caso**: volúmenes enormes, equipos DevOps, búsqueda multimodal.
+
+#### ChromaDB
+
+- **Despliegue**: embebido en Python o modo servidor.
+- **Fortalezas**: instalación sencilla, API accesible, ideal para prototipos y notebooks.
+- **Debilidades**: no está diseñado para producción a gran escala, sin búsqueda híbrida nativa, sin alta disponibilidad.
+- **Mejor caso**: prototipos, POC, proyectos personales.
+
+#### Turbopuffer
+
+- **Despliegue**: serverless gestionado.
+- **Fortalezas**: vectores sobre object storage, bajo coste en reposo, BM25 nativo, bueno para cargas variables.
+- **Debilidades**: producto joven, latencia potencialmente mayor que bases en memoria, ecosistema pequeño.
+- **Mejor caso**: corpus grandes consultados con poca frecuencia, archivo semántico, presupuesto ajustado.
+
+### Extensiones de bases existentes
+
+¿Ya tienes una base de datos? Añade capacidades vectoriales.
+
+#### pgvector (PostgreSQL)
+
+- **Despliegue**: extensión PostgreSQL disponible en Supabase, Neon, AWS Aurora, Railway o PostgreSQL autoalojado.
+- **Fortalezas**: no hay nueva base que operar, vectores junto a datos relacionales, SQL estándar, joins con tablas de negocio, híbrido con `tsvector` + pgvector.
+- **Debilidades**: menos rápido que bases especializadas por encima de 10M vectores, HNSW consume RAM.
+- **Mejor caso**: pymes ya en PostgreSQL, proyectos donde los vectores deben cruzarse con datos de negocio.
+
+**Ejemplo: búsqueda semántica con pgvector**
+
+```sql
+CREATE TABLE documents (
+  id SERIAL PRIMARY KEY,
+  title TEXT,
+  content TEXT,
+  embedding vector(1536)
+);
+
+CREATE INDEX ON documents
+  USING hnsw (embedding vector_cosine_ops);
+
+SELECT title, content,
+       1 - (embedding <=> $1) AS similarity
+FROM documents
+ORDER BY embedding <=> $1
+LIMIT 5;
+```
+
+#### MongoDB Atlas Vector Search
+
+Transparente si ya usas MongoDB Atlas. Combina búsqueda vectorial con filtrado de documentos y pipeline de agregación unificado. La contrapartida: solo Atlas y menos especialización que bases vectoriales dedicadas.
+
+#### Redis Vector Search
+
+Muy rápido porque trabaja en memoria. Útil para caché semántica o RAG de baja latencia en volúmenes moderados. El coste crece rápido con la RAM.
+
+#### Cloudflare Vectorize
+
+Gestionado e integrado con Cloudflare Workers. Bueno para equipos ya en el edge de Cloudflare, pero más limitado que bases especializadas.
+
+#### Turso Vector
+
+SQLite distribuido con soporte vectorial. Ligero, útil en edge, embedded o móvil, pero limitado para cargas vectoriales avanzadas.
+
+### Soluciones integradas en plataforma
+
+Estas soluciones acoplan almacenamiento vectorial con una plataforma más amplia.
+
+#### Convex (@convex-dev/rag)
+
+- **Despliegue**: gestionado, integrado en Convex.
+- **Fortalezas**: vectorial nativo en una base tiempo real, sin servicio separado, embeddings y búsqueda mediante funciones Convex, actualizaciones tiempo real, búsqueda híbrida, TypeScript end-to-end.
+- **Debilidades**: acoplado a Convex, menos control sobre indexación que Qdrant o Milvus.
+- **Mejor caso**: aplicaciones tiempo real que necesitan RAG sin complejidad de infraestructura.
+
+**Ejemplo: búsqueda semántica con Convex RAG**
+
+```typescript
+await rag.insertDocument(ctx, {
+  title: "Procedimiento de mantenimiento bomba X400",
+  body: "Para el mantenimiento trimestral de la bomba X400...",
+  metadata: { category: "maintenance", equipmentId: "X400" },
+});
+
+const results = await rag.search(ctx, {
+  query: "mantenimiento bomba entorno húmedo",
+  limit: 5,
+  filter: { category: "maintenance" },
+});
+```
+
+#### Firebase / Vertex AI RAG Engine
+
+Gestionado en Google Cloud. Google se ocupa de ingesta, chunking, embedding, almacenamiento y retrieval, con integración Gemini y grounding con Google Search. Es potente si ya estás en Google Cloud, pero implica lock-in y pricing complejo.
+
+#### OpenAI File Search
+
+Gestionado por OpenAI. Subes archivos y obtienes RAG funcional en pocas líneas. La contrapartida: es una caja negra con poco control sobre chunking, embedding o retrieval, y el coste puede crecer con corpus grandes.
+
+## Frameworks RAG: la capa de orquestación
+
+El almacenamiento vectorial es necesario, pero no suficiente. En producción hay que orquestar ingesta, chunking, retrieval, generación, errores, streaming y conversaciones multi-turno.
+
+### LangChain / LangGraph
+
+El framework RAG más popular, en Python y JavaScript. Su fuerza es el ecosistema: conectores para casi todo, comunidad activa y LangSmith para monitoring. Sus debilidades son la abstracción excesiva, el debug difícil y los cambios de API. Es bueno para empezar; en producción muchos equipos usan solo algunos módulos.
+
+### LlamaIndex
+
+Especializado en indexación y retrieval de documentos. Es más fuerte que LangChain para ingesta compleja, como PDF multicolumna, tablas o imágenes, y sus abstracciones de retriever están bien pensadas. Es menos generalista fuera de RAG.
+
+### Haystack
+
+Framework RAG orientado a producción con pipelines declarativos. Menos vistoso, pero explícito y fiable, con buen soporte de evaluación.
+
+### RAGatouille
+
+Biblioteca ligera centrada en ColBERT. Puede mejorar la calidad del retrieval sin cambiar toda la arquitectura, pero no es un framework completo.
+
+### Vercel AI SDK
+
+SDK TypeScript/JavaScript para construir aplicaciones IA con soporte RAG. Encaja bien con React, Next.js y streaming, y es una buena opción para equipos TypeScript.
+
+### Soluciones llave en mano
+
+Vertex AI RAG Engine y OpenAI File Search gestionan el pipeline: upload, indexación, consulta, respuesta. El time-to-market es excelente, pero el control es bajo, el lock-in alto y el coste puede crecer rápido.
+
+## Google Vertex AI & Grounding
+
+Google ha tomado un enfoque específico que merece una sección propia.
+
+### Vertex AI Search
+
+El grounding permite a Gemini verificar respuestas contra la web en tiempo real. Cuando Gemini genera una respuesta, puede consultar Google Search para confirmar hechos y añadir citas.
+
+Es útil cuando tus datos propietarios deben completarse con información pública actual: noticias, regulación, datos de mercado.
+
+### Vertex AI RAG Engine
+
+Un pipeline RAG completamente gestionado:
+
+1. Creas un corpus y subes documentos.
+2. Google gestiona parsing, chunking, embedding e indexación.
+3. Consultas vía API o directamente desde Gemini.
+
+La promesa es cero infraestructura vectorial. La realidad: funciona bien para casos estándar, pero la falta de control sobre chunking y retrieval puede frustrar en documentos de negocio complejos.
+
+### Cuándo elegir Google
+
+- Ya estás en Google Cloud.
+- Gemini es tu LLM principal.
+- Tus documentos son relativamente estándar.
+- Necesitas mínimo time-to-market.
+
+### Cuándo construir tú mismo
+
+- Necesitas control fino sobre chunking.
+- Quieres ser agnóstico respecto al LLM.
+- Tienes restricciones estrictas de latencia.
+- Necesitas controlar con precisión la búsqueda híbrida.
+
+## Ir más allá: aspectos que se olvidan
+
+### Evaluar la calidad del RAG
+
+Elegir una stack es una cosa. Saber si funciona es otra. En producción necesitas **medir** la calidad de las respuestas.
+
+Frameworks de evaluación automática:
+
+- **RAGAS**: mide fidelidad, pertinencia y completitud.
+- **DeepEval**: añade métricas como alucinación, toxicidad y sesgo, con integración pytest.
+- **Haystack Evaluation**: útil si ya usas Haystack.
+
+**Golden Dataset**
+
+Los frameworks de evaluación no sirven sin datos de referencia. Un **Golden Dataset** es una muestra de preguntas reales de usuarios, asociadas a respuestas esperadas y documentos fuente. Es una de las herramientas más infravaloradas y decisivas en un proyecto RAG.
+
+Constrúyelo con expertos de negocio, no solo. Recoge preguntas reales de dificultad fácil, media y compleja. Define la respuesta esperada y el formato de salida. Para un prototipo bastan 10 a 50 preguntas. Para producción, apunta a 100-500.
+
+Métricas a vigilar:
+
+- **Precisión**: ¿la respuesta es exacta, completa y reproducible?
+- **Recall**: ¿el retrieval encuentra los chunks correctos?
+- **Faithfulness**: ¿la respuesta se mantiene anclada en las fuentes?
+- **Latencia**: por encima de 3 a 5 segundos, el usuario abandona.
+
+Cambia una sola variable cada vez y vuelve a ejecutar el Golden Dataset. Es la única forma de saber qué mejora o degrada la calidad.
+
+### RAG multimodal
+
+En 2026, las empresas ya no buscan solo texto. Los técnicos necesitan **diagramas técnicos**, los analistas **gráficos financieros**, los equipos de formación **vídeos**.
+
+El RAG multimodal aún es joven, pero emergen varias vías:
+
+- **ColPali / ColQwen**: modelos de retrieval que trabajan directamente sobre imágenes de páginas, sin OCR.
+- **Milvus / Zilliz**: soporte nativo de vectores multimodales.
+- **LLM multimodales**: GPT-4o, Gemini y Claude pueden analizar imágenes en contexto RAG, pero recuperar las imágenes adecuadas sigue siendo el reto.
+
+Si tus documentos de negocio contienen muchos visuales, lo multimodal ya no es un lujo. Espera un pipeline más complejo y costes de embedding más altos.
+
+### Privacidad y datos sensibles
+
+Para empresas bajo RGPD o que manejan información sensible, la ingesta debe incluir **detección y anonimización de PII** antes del embedding.
+
+En la práctica:
+
+- **Antes del embedding**: escanear chunks para detectar nombres, emails, teléfonos, IBAN e identificadores sensibles.
+- **Anonimizar o seudonimizar**: reemplazar PII por tokens genéricos antes de crear vectores.
+- **Herramientas**: Microsoft Presidio, AWS Comprehend, spaCy con modelos NER propios.
+
+Un vector de embedding contiene una representación semántica del texto. Teóricamente puede filtrar información sensible. La anonimización previa sigue siendo la protección más fiable.
+
+### Interfaz de usuario
+
+La mayoría de guías RAG se detienen en el pipeline técnico. Sin embargo, la interfaz determina la adopción.
+
+**El chatbot clásico es una trampa.** Una caja vacía con "Haz tu pregunta..." parece intuitiva. En la práctica, el usuario no siempre sabe qué preguntar, cómo formularlo ni qué contexto aportar. Resultado: preguntas vagas, respuestas imprecisas y pérdida de confianza.
+
+**La alternativa: interfaces de negocio guiadas.** En lugar de una caja de texto, usa desplegables, campos estructurados y botones de selección. La interfaz captura 4 o 5 puntos de contexto y envía JSON estructurado al pipeline. El LLM devuelve una respuesta estructurada: síntomas, causas, soluciones, fuentes.
+
+Por qué funciona:
+
+- **Menor carga cognitiva**: el usuario no tiene que adivinar la formulación correcta.
+- **Mejor retrieval**: una consulta estructurada con contexto de negocio tiene más superficie semántica.
+- **Orquestación por la UI**: la interfaz puede enrutar hacia RAG, SQL o cálculo según las elecciones.
+- **Adopción**: la calidad percibida depende tanto de la interfaz como del pipeline.
+
+> **Experiencia de campo**: Jonas Roman observa que la mayoría de proyectos RAG eficaces en producción no usan chatbots, sino interfaces de negocio dedicadas.
+
+### Observabilidad
+
+Evaluar RAG antes del lanzamiento es necesario. En producción necesitas **monitoring continuo**.
+
+Coloca puntos de control en cada etapa:
+
+1. **Después del retrieval**: ¿qué chunks se recuperaron? ¿Son pertinentes?
+2. **Después del reranking**: ¿cambió el orden? ¿Están los documentos correctos arriba?
+3. **En la respuesta final**: ¿cita fuentes? ¿Es fiel al contexto?
+
+Cuando una respuesta es mala, estos checkpoints permiten hacer reverse engineering. ¿El retrieval trajo documentos equivocados? ¿El documento correcto estaba en contexto pero el LLM lo ignoró? ¿El prompt estaba mal estructurado?
+
+**Rechaza cajas negras en casos serios.** RAG as a Service es cómodo para prototipos, pero ofrece poca visibilidad interna. En finanzas, salud o jurídico, la explicabilidad no es un extra. Es un requisito.
+
+### Más allá de los vectores
+
+RAG no se limita a "embeddings + base vectorial". Varias aproximaciones emergentes complementan o reemplazan la búsqueda semántica clásica.
+
+**GraphRAG / Knowledge Graphs**
+
+En lugar de dividir el texto y vectorizar chunks independientes, GraphRAG conserva **relaciones y enlaces lógicos** entre información. Es especialmente potente cuando necesitas exhaustividad: encontrar todos los contratos con una cláusula, trazar dependencias de procesos, identificar incumplimientos en un corpus.
+
+**Page Indexing**
+
+Técnica de RAG sin vectores que indexa documentos por página y estructura lógica. Útil cuando el layout del documento importa tanto como el contenido.
+
+**Agentes exploradores de File Search**
+
+Agentes que usan búsqueda multi-turno para leer datos como lo haría una persona. Lanzan una consulta inicial, analizan resultados, refinan la búsqueda e iteran.
+
+**Self-RAG / Reflective RAG**
+
+El sistema recupera información y luego verifica si es pertinente y suficiente. Si la calidad es baja, lanza nuevas consultas y solo responde tras superar sus propios criterios de fiabilidad.
+
+> **Estas aproximaciones siguen siendo a menudo I+D.** Conviene vigilarlas, pero con prudencia antes de producción. El RAG vectorial clásico con búsqueda híbrida sigue siendo el estándar probado.
+
+## Matriz de decisión
+
+| Solución | Complejidad | Coste | Escalabilidad | Latencia | Híbrida | Multi-tenant | Open source | Madurez |
+|----------|-------------|-------|---------------|----------|---------|--------------|-------------|---------|
+| **Pinecone** | Baja | Alto | 5/5 | 4/5 | Sí | Sí | No | 5/5 |
+| **Qdrant** | Media | Bajo a medio | 5/5 | 5/5 | Sí | Sí | Sí | 4/5 |
+| **Weaviate** | Media | Bajo a medio | 4/5 | 4/5 | Sí | Sí | Sí | 4/5 |
+| **Milvus** | Alta | Bajo a medio | 5/5 | 5/5 | Sí | Sí | Sí | 4/5 |
+| **ChromaDB** | Baja | Gratis | 2/5 | 3/5 | No | No | Sí | 2/5 |
+| **Turbopuffer** | Baja | Bajo | 4/5 | 3/5 | Sí | Sí | No | 2/5 |
+| **pgvector** | Baja | Bajo | 3/5 | 3/5 | Manual | Sí | Sí | 4/5 |
+| **MongoDB Atlas VS** | Baja | Medio | 4/5 | 3/5 | No | Sí | No | 3/5 |
+| **Redis VS** | Media | Medio | 3/5 | 5/5 | Sí | Sí | Sí | 3/5 |
+| **Convex RAG** | Baja | Bajo a medio | 3/5 | 4/5 | Sí | Sí | SDK sí | 3/5 |
+| **Vertex AI RAG** | Baja | Medio a alto | 5/5 | 3/5 | Sí | Sí | No | 3/5 |
+| **OpenAI File Search** | Baja | Alto | 3/5 | 3/5 | No | No | No | 3/5 |
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/decision-tree.webp"
+  darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/decision-tree.webp"
+  alt="Árbol de decisión RAG"
+  width={1600}
+  height={893}
+/>
+
+## Recomendaciones por perfil
+
+### Startup early-stage
+
+**-> Convex (@convex-dev/rag) o pgvector vía Supabase**
+
+No tienes capacidad DevOps y quieres salir rápido. Convex ofrece base de datos, búsqueda vectorial y tiempo real en un servicio. Supabase + pgvector es la alternativa si prefieres PostgreSQL y tus necesidades vectoriales son simples.
+
+No gastes tres meses diseñando el sistema RAG perfecto. Empieza simple e itera.
+
+### Pyme con PostgreSQL existente
+
+**-> pgvector**
+
+Ya tienes PostgreSQL en producción, un equipo que lo conoce y backups. Añade pgvector como migración SQL. Los vectores viven junto a tus datos de negocio.
+
+Si superas 5 a 10 millones de vectores o la latencia se vuelve crítica, será momento de migrar a una base especializada.
+
+### Scale-up / gran volumen
+
+**-> Pinecone o Qdrant**
+
+Tienes decenas de millones de documentos, tráfico sostenido y requisitos de latencia. Pinecone si quieres cero ops. Qdrant si quieres control y tienes equipo para operarlo, o Qdrant Cloud.
+
+### Enterprise Google Cloud
+
+**-> Vertex AI RAG Engine + Qdrant/Pinecone para casos avanzados**
+
+Vertex AI cubre casos estándar. Qdrant o Pinecone cubren casos que requieren control fino. Google Search grounding es diferencial si los usuarios necesitan información pública actual.
+
+### Enterprise multi-cloud
+
+**-> Qdrant o Weaviate self-hosted**
+
+No quieres vendor lock-in. Qdrant y Weaviate corren en cualquier Kubernetes. Conservas control total sobre datos e infraestructura.
+
+### Prototipo rápido
+
+**-> ChromaDB u OpenAI File Search**
+
+Quieres validar una idea en una tarde. ChromaDB si usas Python y quieres entender la mecánica. OpenAI File Search si solo quieres ver RAG funcionando sin gestionar vectores.
+
+No pongas ninguno de los dos en producción a gran escala.
+
+## Conclusión: RAG no es una única elección
+
+RAG no es un producto que se compra. Es un **espectro arquitectónico**, desde "tres líneas de código con OpenAI File Search" hasta "pipeline distribuido con Qdrant, reranking Cohere y evaluación continua".
+
+La decisión correcta depende de tres factores:
+
+1. **Dónde estás**: prototipo, MVP o producción establecida.
+2. **Qué tienes**: equipo DevOps, PostgreSQL existente, Google Cloud.
+3. **Qué necesitas**: volumen, latencia, precisión.
+
+**El peor error es sobre-arquitectar.** Las arquitecturas RAG multiagente parecen atractivas, pero la experiencia muestra que muchos sistemas demasiado ambiciosos no aguantan producción. Cada llamada LLM adicional multiplica la tasa de error. Si un modelo tiene 5% de error, encadenar varias llamadas reduce notablemente la fiabilidad global.
+
+Empieza con la solución más simple que cubra la necesidad inmediata. pgvector o Convex para un primer RAG en producción. ChromaDB para un POC. Migra cuando, y solo cuando, alcances los límites.
+
+El segundo peor error es subestimar el trabajo previo. La mejor base vectorial del mundo no compensa datos mal preparados, chunking inadecuado o un modelo de embedding mal elegido. La preparación de datos y la ingeniería de negocio representan la mayor parte del esfuerzo.
+
+El tercer error suele ser invisible: descuidar la interfaz. Un RAG técnicamente sólido detrás de una caja de texto será infrautilizado. Piensa el RAG como un producto para usuarios de negocio, no solo como un pipeline técnico.
+
+**Una nota sobre tendencias**: sigue de cerca arquitecturas sobre object storage como Turbopuffer, GraphRAG para casos que exigen exhaustividad y trazabilidad de relaciones, y Self-RAG para pipelines agentic más fiables. RAG no desaparece. Evoluciona hacia una infraestructura central de conocimiento para la IA empresarial.
+
+**¿Necesitas ayuda para elegir?** En AppExpress implementamos sistemas RAG para pymes, desde un POC de una semana hasta pipelines de producción con evaluación continua. Si dudas entre opciones o quieres validar tu arquitectura antes de comprometerte, [hablemos](https://appexpress.fr).
+7:T2a5a,
+<ThemeImage
+  lightSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp"
+  darkSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp"
+  alt="Aplicación de negocio, móvil e IA"
+  width={1600}
+  height={893}
+  priority={true}
+/>
+
+<AppExpressSourceBanner
+  href="https://appexpress.fr/blog/applications-metier-interrogeables-par-ia"
+  linkLabel="Leer el artículo original"
+>
+  Este artículo proviene de AppExpress.fr.
+</AppExpressSourceBanner>
+
+Se habla mucho de inteligencia artificial en las empresas. Pero en la mayoría de ellas, la realidad es más concreta: los datos útiles, clientes, proyectos, stock, facturas e intervenciones, viven en una aplicación de negocio accesible únicamente desde un navegador web, en un puesto fijo.
+
+Es un buen comienzo. Pero solo es una parte de la ecuación.
+
+Una aplicación de negocio realmente eficaz hoy se apoya en **tres capas complementarias**: la interfaz web para el trabajo diario, la aplicación móvil para el terreno y una capa de inteligencia artificial para la automatización.
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/layers-es.webp"
+  darkSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/layers-es.webp"
+  alt="Las tres capas de una aplicación de negocio moderna"
+  width={1600}
+  height={893}
+/>
+
+## La interfaz web: el puesto de trabajo central
+
+Es el corazón del sistema. La interfaz web sigue siendo indispensable para:
+
+- gestionar proyectos, contratos y facturas;
+- seguir los intercambios con clientes y las intervenciones en tiempo real;
+- visualizar paneles de control e indicadores;
+- administrar derechos de acceso y parámetros.
+
+Ya sea un CRM, una herramienta de seguimiento de obras, un software de gestión de stock o una planificación de equipo, el principio es el mismo: la interfaz web es estructurada, completa y pensada para el trabajo de oficina. **No se trata de reemplazarla.** Pero tiene límites: hay que estar delante de una pantalla, conectado, y saber dónde buscar la información.
+
+## La aplicación móvil: el acceso en terreno
+
+Es la capa que falta con más frecuencia. Sin embargo, es la que más cambia el día a día de los equipos que no están detrás de un escritorio.
+
+Un artesano en una obra, un comercial en una cita, un técnico en intervención, un directivo en movimiento: todos necesitan acceder a sus datos **donde están**, no solo donde está su ordenador.
+
+Una aplicación móvil bien diseñada permite:
+
+- **recibir notificaciones push**: nueva solicitud de cliente, ticket urgente, factura vencida, intervención planificada;
+- **validar rápidamente**: aceptar un presupuesto, firmar un documento, confirmar una etapa de obra;
+- **consultar de un vistazo**: estado de un proyecto, historial de un cliente, nivel de stock, planificación del día;
+- **capturar información en terreno**: foto de documento, constatación, nota de voz, comentario rápido;
+- **mantener la capacidad de respuesta**: responder a un cliente en 2 minutos en lugar de 2 horas.
+
+<Callout type="info" title="El punto clave">
+  El móvil no reemplaza la interfaz web. Extiende el acceso a tu aplicación de negocio más allá de la oficina, allí donde realmente ocurre el negocio.
+</Callout>
+
+No es una "versión reducida" de tu software. Es la misma base de datos, los mismos derechos de acceso, la misma lógica de negocio, pero en un formato adaptado a una pantalla de bolsillo y a un uso en movilidad.
+
+## La capa de IA: la automatización inteligente
+
+Ahora imaginemos que añadimos una tercera capa: un acceso estructurado a los datos de tu aplicación, aprovechable por un LLM, es decir, un modelo de lenguaje como Claude o ChatGPT.
+
+El principio es simple. En lugar de navegar por menús para encontrar la información, se crean **puntos de acceso dedicados** que la IA puede consultar. No un acceso bruto a toda la base, sino vistas específicas, seguras, que responden a las preguntas de negocio más frecuentes.
+
+En concreto, puede tomar la forma de una línea de comandos o de un conector MCP (Model Context Protocol), que permite a una IA de escritorio consultar directamente tu herramienta de negocio.
+
+### Lo que permite
+
+Algunos ejemplos según el tipo de aplicación:
+
+**Gestión de clientes / CRM:**
+
+- *"Resume la situación del cliente Martin: proyectos, pagos, tickets"*
+- *"Redacta un email de seguimiento para cada factura vencida"*
+
+**Seguimiento de obras:**
+
+- *"¿Qué obras se han retrasado esta semana?"*
+- *"Lista las intervenciones no validadas desde hace más de 3 días"*
+
+**Gestión de stock:**
+
+- *"¿Qué productos están por debajo del umbral de reposición?"*
+- *"Prepara un pedido a proveedor basado en las ventas del mes"*
+
+**Planificación / RR. HH.:**
+
+- *"¿Quién está disponible la próxima semana para una intervención en Rennes?"*
+- *"Resume las horas extra del mes por equipo"*
+
+<Callout type="tip" title="La verdadera ganancia">
+  Lo importante no es la velocidad de respuesta. Es que preguntas que nunca se hacían, porque requerían demasiado tiempo de tratamiento, se vuelven posibles.
+</Callout>
+
+## Las tres capas en acción: un escenario concreto
+
+Tomemos un ejemplo con un CRM, aunque el principio se aplica a cualquier aplicación de negocio.
+
+**Lunes por la mañana, 8:00.** La IA analiza automáticamente el estado de la aplicación y detecta que una factura del cliente Durand lleva 7 días vencida, que un ticket de soporte sigue sin respuesta y que el proyecto asociado no ha avanzado desde hace 10 días.
+
+**8:05.** El dirigente recibe una **notificación push** en su teléfono: *"Cliente Durand: 3 puntos de atención detectados"*.
+
+**8:06.** Abre la **aplicación móvil**, consulta el resumen preparado por la IA y valida con un toque el envío de un email de seguimiento ya redactado para la factura.
+
+**8:10.** De vuelta en la oficina, el responsable de proyecto abre la **interfaz web** para tratar el ticket en profundidad, actualizar la planificación del proyecto y documentar el intercambio.
+
+<ThemeImage
+  lightSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/timeline-es.webp"
+  darkSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/timeline-es.webp"
+  alt="Escenario: del análisis de IA a la resolución en 10 minutos"
+  width={1600}
+  height={893}
+/>
+
+**Resultado:** en 10 minutos, tres problemas detectados, uno tratado inmediatamente y dos en curso de resolución. Sin la IA, estas señales podrían haber pasado desapercibidas durante días.
+
+Eso es lo que hacen las tres capas cuando trabajan juntas.
+
+## Y mañana: los agentes autónomos
+
+Las tres capas descritas arriba ya son operativas. Pero la evolución natural va más lejos: los **agentes de IA autónomos**.
+
+Un agente ya no es un LLM que espera una pregunta. Es un asistente que **actúa por sí mismo** según reglas definidas:
+
+- vigila tu aplicación de negocio de forma continua;
+- detecta las situaciones que requieren una acción;
+- propone o ejecuta directamente esa acción, con tu validación.
+
+Por ejemplo: un agente puede analizar cada mañana las facturas vencidas, redactar los seguimientos y someterlos a aprobación mediante una notificación móvil. Sin que nadie se lo pida.
+
+### Para los más audaces: OpenClaw
+
+Plataformas como [OpenClaw](https://openclaw.ai) ya permiten conectar agentes de IA a tus herramientas de negocio: aplicación de gestión, email, calendario, mensajería. El agente se convierte en un verdadero colaborador digital: lee tus datos, razona sobre ellos y puede actuar en varios canales, email, Telegram, interfaz web.
+
+Ya no es ciencia ficción. Es una realidad accesible, siempre que exista una base de datos bien estructurada y accesos seguros, exactamente lo que las tres capas anteriores permiten preparar.
+
+<Callout type="tip" title="El enfoque pragmático">
+  No se empieza por el agente autónomo. Se empieza por una aplicación sólida, se añade el móvil y después la capa de IA. El agente llega de forma natural cuando las bases están listas.
+</Callout>
+
+## Por qué funciona este enfoque
+
+Seas independiente, artesano, pyme o una estructura más grande, cuando los recursos son limitados, **a menudo son las mismas personas quienes hacen todo**.
+
+Justamente por eso este enfoque funciona tan bien:
+
+- **La interfaz web** estructura el trabajo y centraliza los datos
+- **La app móvil** permite mantenerse reactivo sin estar atado a la oficina
+- **La IA** trata las tareas repetitivas y hace emerger lo que realmente importa
+
+Todo con un **coste controlado**: no se reconstruye lo existente, se enriquece. Cada capa se añade sin reemplazar la anterior.
+
+## La buena secuencia para empezar
+
+1. **Una aplicación web sólida**: la base. Datos bien estructurados, derechos de acceso claros, interfaz completa.
+2. **Una aplicación móvil**: para extender el acceso al terreno y ganar capacidad de respuesta.
+3. **La capa de IA**: empezar con 3 a 5 casos de uso de alto valor, probar con datos reales y luego ampliar.
+
+<Callout type="warning" title="Un punto de vigilancia">
+  La seguridad sigue siendo la prioridad. Cada capa respeta las mismas reglas de acceso: un comercial solo ve sus clientes, un proveedor solo ve su proyecto. La IA no es una excepción.
+</Callout>
+
+## Un socio, no un proveedor más
+
+Construir una aplicación es una cosa. Adoptarla, hacerla evolucionar y sacarle el máximo partido es otra.
+
+Por eso en AppExpress no nos limitamos a entregar un producto. Acompañamos a nuestros clientes **a largo plazo**:
+
+- **Consultoría previa**: identificar las necesidades reales, evitar falsas buenas ideas, encuadrar el proyecto de forma eficaz
+- **Desarrollo a medida**: interfaz web, aplicación móvil, integración de IA, cada bloque adaptado a tu actividad
+- **Implantación y formación**: acompañar a tus equipos en la adopción de las nuevas herramientas
+- **Evolución continua**: nuevas funcionalidades, ajustes, actualizaciones, soporte técnico
+
+El objetivo es simple: que tu inversión digital **produzca resultados concretos**, no que termine olvidada en un cajón.
+
+## Conclusión
+
+Una aplicación de negocio moderna ya no es solo una interfaz web. Es un **ecosistema**: la web para dirigir, el móvil para el terreno, la IA para automatizar.
+
+Estas tres capas no compiten entre sí. Se complementan. Y su combinación transforma una simple herramienta de gestión en una verdadera ventaja competitiva.
+
+---
+
+*En AppExpress, diseñamos y acompañamos tus aplicaciones de negocio con tres dimensiones integradas desde el principio: interfaz web, aplicación móvil nativa e inteligencia artificial. Desde la consultoría inicial hasta el seguimiento en producción, un único interlocutor. [Agenda una reunión](https://appexpress.fr) para hablarlo.*
+8:T8a5,
 <ThemeImage
   lightSrc="/images/2026/appexpress.webp"
   darkSrc="/images/2026/appexpress.webp"
@@ -66,7 +1071,7 @@ el objetivo sigue siendo siempre el mismo, **entregar un producto funcional**.
 
 - **Otros proyectos orientados a IA generativa**,
   para explorar y demostrar usos concretos: **búsqueda inteligente, generación de contenido, asistentes y automatizaciones.**
-6:T80e,
+9:T80e,
 <ThemeImage
   lightSrc="/images/2025/llmvoice.webp"
   darkSrc="/images/2025/llmvoice.webp"
@@ -117,7 +1122,7 @@ Llama 3.2 (1B): aproximadamente 500 MB<br/>
 ## 🛟 Soporte
 ¿Necesitas ayuda o quieres compartir comentarios? Escribe a [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
 
-7:T15ef,
+a:T15ef,
 <ThemeImage
   lightSrc="/images/2025/ble-uscope.webp"
   darkSrc="/images/2025/ble-uscope.webp"
@@ -219,7 +1224,7 @@ Disponible en App Store y Google Play.
 ## Soporte
 
 ¿Necesitas ayuda o quieres compartir comentarios? Escribe a [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-8:Tcaf,
+b:Tcaf,
 <ThemeImage
   lightSrc="/images/2025/decibelpeak.webp"
   darkSrc="/images/2025/decibelpeak.webp"
@@ -288,7 +1293,7 @@ Disponible en la App Store y Google Play.
 ## Soporte
 
 ¿Necesitas ayuda o quieres compartir comentarios? Escribe a [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-9:T4d3,
+c:T4d3,
 <ThemeImage
   lightSrc="/images/2025/hello-world.webp"
   darkSrc="/images/2025/hello-world.webp"
@@ -325,7 +1330,7 @@ A largo plazo, voy a operar bajo diferentes banderas:
 ---
 
 **¡Mantente al tanto!**
-a:T806,
+d:T806,
 <ThreeCube />
 
 # Acerca de
@@ -366,10 +1371,10 @@ SIRET: 939 948 865 00018<br />
 IVA/VAT: FR56 939948865
 
 <OsibitsLogo />
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L2",null,{"locale":"es","navLinks":[{"href":"/es","label":"Devlogs"},{"href":"/es?tag=apps","label":"Apps"},{"href":"/es/2025/09/acerca-de","label":"Acerca de"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Entrepreneur"}]]}]}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$3",null,{"fallback":null,"children":["$","$L4",null,{"locale":"es","copy":{"placeholder":"Busca contenido por título o cuerpo...","allLabel":"Todos","empty":"No hay entradas que coincidan todavía.","showTags":"Mostrar etiquetas y búsqueda","hideTags":"Ocultar etiquetas y búsqueda","loadMore":"Cargar más resultados"},"initialDocs":[{"slug":"appexpress-prelanzamiento","title":"AppExpress – Prelanzamiento de la oferta","description":"Tus aplicaciones, llave en mano, a la carta.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$5","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice 1.0","description":"Demostración técnica que permite evaluar las nuevas API de reconocimiento de voz de iOS 26 (SpeechAnalyzer / SpeechTranscriber) y la ejecución local de modelos LLM de código abierto (cuantificados en 4 bits) en un iPhone compatible con el framework MLX.","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","source_code"],"content":"$6","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Escáner y analizador avanzado de Bluetooth Low Energy para iOS, iPadOS, Android y macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$7","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak es un sonómetro móvil para iOS y Android con medición en tiempo real, visualizaciones de audio, historial, pico dB y calibración local.","tags":["apps","ios","android","audio"],"content":"$8","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"¡Hola Mundo!","description":"¡Bienvenido a mi Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$9","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"acerca-de","title":"About","description":"André Frélicot - TechLead, Entrepreneur, Digital Strategist. Tech - Product - Business.","tags":["about"],"content":"$a","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"appexpress-prelanzamiento":"/es/2026/01/appexpress-prelanzamiento","llmvoice":"/es/2025/10/llmvoice","ble-uscope":"/es/2025/10/ble-uscope","decibelpeak":"/es/2025/09/decibelpeak","hello-world":"/es/2025/09/hello-world","acerca-de":"/es/2025/09/acerca-de"}}]}]}],"$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"j9G3zGP0NNjVe-7yy3g1m"}
-b:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$Le","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$Le","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$Le","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}],["$","$Le","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":"$Lf"}]}],"$L10"]}]]}]}]
-c:["$","script","script-0",{"src":"/_next/static/chunks/0nbq95xew0zoy.js","async":true}]
-d:["$","$L11",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
-13:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977zf:["$","path",null,{"fillRule":"nonzero","d":"$13"}]
-10:["$","$Le","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
-12:null
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L2",null,{"locale":"es","navLinks":[{"href":"/es","label":"Devlogs"},{"href":"/es?tag=apps","label":"Apps"},{"href":"/es/2025/09/acerca-de","label":"Acerca de"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Entrepreneur"}]]}]}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$3",null,{"fallback":null,"children":["$","$L4",null,{"locale":"es","copy":{"placeholder":"Busca contenido por título o cuerpo...","allLabel":"Todos","empty":"No hay entradas que coincidan todavía.","showTags":"Mostrar etiquetas y búsqueda","hideTags":"Ocultar etiquetas y búsqueda","loadMore":"Cargar más resultados"},"initialDocs":[{"slug":"aplicacion-movil-que-tecnologia-elegir-en-2026","title":"Aplicación móvil: ¿qué tecnología elegir en 2026?","description":"¿Capacitor, React Native, Flutter o nativo? Guía práctica para responsables que quieren entender los compromisos reales detrás de cada elección tecnológica.","tags":["appexpress","mobile","flutter","react-native","capacitor","native","strategy","ai"],"content":"$5","image":"/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp","date":"2026-03-28"},{"slug":"que-sistema-rag-elegir-para-tu-aplicacion-de-negocio","title":"¿Qué sistema RAG elegir para tu aplicación de negocio?","description":"Guía práctica para elegir una stack RAG en 2026: bases vectoriales, frameworks de orquestación y recomendaciones según el perfil de la empresa.","tags":["appexpress","rag","ai","vector-database","llm","architecture"],"content":"$6","image":"/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp","date":"2026-03-23"},{"slug":"aplicaciones-de-negocio-consultables-por-ia","title":"Hacer que tus aplicaciones de negocio sean consultables por IA","description":"Interfaz web, aplicación móvil e inteligencia artificial: cómo estas tres capas transforman una aplicación de negocio en una verdadera herramienta de dirección para tu empresa.","tags":["appexpress","business-app","ai","mobile","automation","b2b","crm"],"content":"$7","image":"/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp","date":"2026-03-10"},{"slug":"appexpress-prelanzamiento","title":"AppExpress – Prelanzamiento de la oferta","description":"Tus aplicaciones, llave en mano, a la carta.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$8","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice 1.0","description":"Demostración técnica que permite evaluar las nuevas API de reconocimiento de voz de iOS 26 (SpeechAnalyzer / SpeechTranscriber) y la ejecución local de modelos LLM de código abierto (cuantificados en 4 bits) en un iPhone compatible con el framework MLX.","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","source_code"],"content":"$9","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Escáner y analizador avanzado de Bluetooth Low Energy para iOS, iPadOS, Android y macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$a","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak es un sonómetro móvil para iOS y Android con medición en tiempo real, visualizaciones de audio, historial, pico dB y calibración local.","tags":["apps","ios","android","audio"],"content":"$b","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"¡Hola Mundo!","description":"¡Bienvenido a mi Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$c","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"acerca-de","title":"About","description":"André Frélicot - TechLead, Entrepreneur, Digital Strategist. Tech - Product - Business.","tags":["about"],"content":"$d","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"aplicacion-movil-que-tecnologia-elegir-en-2026":"/es/2026/03/aplicacion-movil-que-tecnologia-elegir-en-2026","que-sistema-rag-elegir-para-tu-aplicacion-de-negocio":"/es/2026/03/que-sistema-rag-elegir-para-tu-aplicacion-de-negocio","aplicaciones-de-negocio-consultables-por-ia":"/es/2026/03/aplicaciones-de-negocio-consultables-por-ia","appexpress-prelanzamiento":"/es/2026/01/appexpress-prelanzamiento","llmvoice":"/es/2025/10/llmvoice","ble-uscope":"/es/2025/10/ble-uscope","decibelpeak":"/es/2025/09/decibelpeak","hello-world":"/es/2025/09/hello-world","acerca-de":"/es/2025/09/acerca-de"}}]}]}],"$Le"]}],["$Lf"],"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rnSlETLhLQCA7rk_iteED"}
+e:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L11","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L11","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L11","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}],["$","$L11","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":"$L12"}]}],"$L13"]}]]}]}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/0nbq95xew0zoy.js","async":true}]
+10:["$","$L14",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+16:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z12:["$","path",null,{"fillRule":"nonzero","d":"$16"}]
+13:["$","$L11","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
+15:null

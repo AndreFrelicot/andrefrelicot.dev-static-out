@@ -5,7 +5,31 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 22:39:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 11:20:21 GMT</lastBuildDate>
+    <item>
+      <title>Mobile app: which technology should you choose in 2026?</title>
+      <link>https://andrefrelicot.dev/en/2026/03/mobile-app-which-technology-to-choose-in-2026</link>
+      <guid>https://andrefrelicot.dev/en/2026/03/mobile-app-which-technology-to-choose-in-2026</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Capacitor, React Native, Flutter or native? A practical guide for decision-makers who want to understand the real trade-offs behind each technology choice.</description>
+      <category>appexpress</category><category>mobile</category><category>flutter</category><category>react-native</category><category>capacitor</category><category>native</category><category>strategy</category><category>ai</category>
+    </item>
+    <item>
+      <title>Which RAG system should you choose for your business application?</title>
+      <link>https://andrefrelicot.dev/en/2026/03/which-rag-system-for-your-business-application</link>
+      <guid>https://andrefrelicot.dev/en/2026/03/which-rag-system-for-your-business-application</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+      <description>A practical guide to choosing a RAG stack in 2026: vector databases, orchestration frameworks and recommendations by company profile.</description>
+      <category>appexpress</category><category>rag</category><category>ai</category><category>vector-database</category><category>llm</category><category>architecture</category>
+    </item>
+    <item>
+      <title>Make your business applications queryable by AI</title>
+      <link>https://andrefrelicot.dev/en/2026/03/make-business-applications-queryable-by-ai</link>
+      <guid>https://andrefrelicot.dev/en/2026/03/make-business-applications-queryable-by-ai</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Web interface, mobile app, artificial intelligence: how these three layers turn a business application into a real steering tool for your company.</description>
+      <category>appexpress</category><category>business-app</category><category>ai</category><category>mobile</category><category>automation</category><category>b2b</category><category>crm</category>
+    </item>
     <item>
       <title>AppExpress – Offer Pre-Launch</title>
       <link>https://andrefrelicot.dev/en/2026/01/appexpress-pre-launch</link>

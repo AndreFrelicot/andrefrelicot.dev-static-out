@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
 3:I[89034,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"default"]
 4:I[70730,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"default"]
-5:I[3020,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],"SiteHeader"]
-6:I[44024,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],""]
+5:I[3020,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/41s38nz_44l_t.js"],"SiteHeader"]
+6:I[44024,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/41s38nz_44l_t.js"],""]
 d:I[85243,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"default",1]
-:HL["/_next/static/chunks/12_c5ld1a5o3a.css","style"]
+:HL["/_next/static/chunks/2bw_74_ilobuh.css","style"]
 :HL["/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/70bc3e132a0a741e-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","es",""],"q":"","i":false,"f":[[["",{"children":[["locale","es","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/12_c5ld1a5o3a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/06dmft4ydq25f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30v7ty5alg1y1.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Page Not Found"}]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","div",null,{"className":"flex flex-col items-center justify-center py-12 text-center","children":[["$","div",null,{"className":"mb-8 text-8xl font-bold opacity-20","children":"404"}],["$","p",null,{"className":"mb-8 max-w-md text-lg opacity-70","children":"The page you're looking for doesn't exist or has been moved."}],["$","$L6",null,{"href":"/en","className":"inline-flex items-center gap-2 rounded-lg border border-foreground/20 bg-foreground/5 px-6 py-3 font-semibold transition-all hover:border-foreground/40 hover:bg-foreground/10","children":"Back to Home"}]]}]}],["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":"$L7"}],"$L8","$L9"]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"mlQFla-XF0eGFOVfoCE13"}
+0:{"P":null,"c":["","es",""],"q":"","i":false,"f":[[["",{"children":[["locale","es","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2bw_74_ilobuh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/06dmft4ydq25f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30v7ty5alg1y1.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Page Not Found"}]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","div",null,{"className":"flex flex-col items-center justify-center py-12 text-center","children":[["$","div",null,{"className":"mb-8 text-8xl font-bold opacity-20","children":"404"}],["$","p",null,{"className":"mb-8 max-w-md text-lg opacity-70","children":"The page you're looking for doesn't exist or has been moved."}],["$","$L6",null,{"href":"/en","className":"inline-flex items-center gap-2 rounded-lg border border-foreground/20 bg-foreground/5 px-6 py-3 font-semibold transition-all hover:border-foreground/40 hover:bg-foreground/10","children":"Back to Home"}]]}]}],["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":"$L7"}],"$L8","$L9"]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"rBM2Tzy00aX3g37SXN9xn"}
 11:I[92690,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
 15:I[92690,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"ViewportBoundary"]
@@ -15,18 +15,390 @@ d:I[85243,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5
 7:["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]
 f:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z8:["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"fillRule":"nonzero","d":"$f"}]}]}]
 9:["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
-a:["$","$1","c",{"children":["$L10",[["$","script","script-0",{"src":"/_next/static/chunks/0nbq95xew0zoy.js","async":true,"nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+a:["$","$1","c",{"children":["$L10",[["$","script","script-0",{"src":"/_next/static/chunks/41s38nz_44l_t.js","async":true,"nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
 14:[]
 b:"$W14"
 c:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/12_c5ld1a5o3a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2bw_74_ilobuh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 19:I[11114,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js"],"ThemeProvider"]
 2:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"defer":true,"src":"https://cloud.umami.is/script.js","data-website-id":"682271ce-8738-436c-a03d-0b285b3e8341"}]}],["$","body",null,{"className":"space_grotesk_4e7b6542-module__IWK99G__variable jetbrains_mono_f8223cee-module__0kZ6aq__variable antialiased","children":["$","$L19",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Page Not Found"}]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","div",null,{"className":"flex flex-col items-center justify-center py-12 text-center","children":[["$","div",null,{"className":"mb-8 text-8xl font-bold opacity-20","children":"404"}],["$","p",null,{"className":"mb-8 max-w-md text-lg opacity-70","children":"The page you're looking for doesn't exist or has been moved."}],["$","$L6",null,{"href":"/en","className":"inline-flex items-center gap-2 rounded-lg border border-foreground/20 bg-foreground/5 px-6 py-3 font-semibold transition-all hover:border-foreground/40 hover:bg-foreground/10","children":"Back to Home"}]]}]}],["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":"$L1a"}],"$L1b","$L1c"]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]
-1e:I[28081,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/0nbq95xew0zoy.js"],"ClientSearch"]
+1e:I[28081,["/_next/static/chunks/06dmft4ydq25f.js","/_next/static/chunks/30v7ty5alg1y1.js","/_next/static/chunks/41s38nz_44l_t.js"],"ClientSearch"]
 1a:["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]
 1d:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z1b:["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"fillRule":"nonzero","d":"$1d"}]}]}]
 1c:["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
-1f:T36aa,
+1f:T21ba,
+<ThemeImage
+  lightSrc="/images/2026/workproof/workproof-cover.webp"
+  darkSrc="/images/2026/workproof/workproof-cover.webp"
+  alt="WorkProof en acción"
+  width={1600}
+  height={900}
+  priority={true}
+/>
+
+<AppExpressSourceBanner
+  href="https://appexpress.fr"
+  linkLabel="Conocer AppExpress"
+>
+  WorkProof es un producto móvil y web construido con el enfoque de la oferta AppExpress.
+</AppExpressSourceBanner>
+
+WorkProof es una aplicación de seguimiento del tiempo para freelancers, trabajadores remotos y pequeños equipos que necesitan documentar sus horas sin convertir cada jornada en una tarea administrativa.
+
+El núcleo del producto es directo: iniciar un cronómetro, asociarlo a un proyecto o una tarea, conservar el historial y recuperar sesiones, archivos y estadísticas cuando llega el momento de revisar un cliente, una factura o un proyecto.
+
+El ángulo AppExpress es más amplio que la app móvil. WorkProof combina experiencia iOS/Android, aplicación web, suscripciones, sincronización cloud, gestión de archivos, permisos nativos y un modelo de datos local-first. Es un buen ejemplo de producto B2C/prosumer que se acerca rápidamente a un pequeño SaaS, pero la misma stack Capacitor sirve igual de bien para aplicaciones internas B2B.
+
+<Callout type="info" title="Una demostración, no un producto en producción">
+WorkProof sirve sobre todo para demostrar la stack completa de extremo a extremo: un SaaS web, una app móvil Capacitor, pagos web con LemonSqueezy y pagos móviles con RevenueCat. La aplicación no está pensada para uso en producción — de hecho, los sistemas de pago funcionan en modo demo/sandbox.
+</Callout>
+
+## Por qué este showcase AppExpress
+
+WorkProof ilustra un caso práctico: una aplicación que debe ser rápida en móvil, creíble en desktop y suficientemente robusta para datos profesionales.
+
+El producto cubre temas frecuentes en un lanzamiento real:
+
+- un cronómetro que se inicia en un gesto;
+- organización por proyectos, tareas y sesiones;
+- pruebas de trabajo mediante fotos, archivos o notas de audio;
+- modo offline fiable;
+- sincronización cloud para usuarios de pago;
+- una interfaz multilingüe (francés e inglés);
+- una aplicación web para informes, gestión y administración;
+- distribución en stores iOS y Android con compras integradas.
+
+## El producto móvil
+
+La vista de cronómetro es deliberadamente central. El usuario inicia una sesión, selecciona un proyecto o una tarea y puede añadir adjuntos durante o después del trabajo. Así el tiempo dedicado y la evidencia del trabajo quedan en el mismo registro.
+
+Los proyectos y tareas estructuran las sesiones. Las estadísticas permiten leer el tiempo por periodo, proyecto y actividad. Los archivos adjuntos crean una traza útil cuando un cliente pide detalles o cuando una intervención debe justificarse.
+
+<ScreenshotGallery
+  images={[
+    {
+      src: "/images/2026/workproof/screenshots/en/mobile/timer-running.webp",
+      alt: "Cronómetro WorkProof en curso con controles de pausa y parada",
+      width: 800,
+      height: 1650,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/en/mobile/projects-list.webp",
+      alt: "Lista de proyectos WorkProof en Android",
+      width: 800,
+      height: 1684,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/en/mobile/project-tasks.webp",
+      alt: "Detalle de un proyecto WorkProof con tareas",
+      width: 800,
+      height: 1684,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/en/mobile/files-grouped.webp",
+      alt: "Archivos agrupados por proyecto en WorkProof",
+      width: 800,
+      height: 1650,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/en/mobile/sessions.webp",
+      alt: "Lista de sesiones WorkProof vinculada al cronómetro",
+      width: 800,
+      height: 1684,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/en/mobile/statistics.webp",
+      alt: "Estadísticas de tiempo en WorkProof",
+      width: 800,
+      height: 1684,
+    },
+  ]}
+  caption="Mockups móviles WorkProof. Este lote está mostrado en inglés."
+/>
+
+## Stack técnica
+
+La app móvil está construida con React, Ionic y Capacitor, lo que permite compartir una base web móvil y acceder a las APIs nativas necesarias: cámara, archivos, almacenamiento local, red, compartir, háptica y compras integradas.
+
+| Capa | Elección | Rol |
+|---|---|---|
+| Mobile | Ionic, Capacitor, React, TypeScript | App iOS y Android con una base web móvil. |
+| Base local | RxDB, IndexedDB | Datos disponibles primero en el dispositivo, incluso sin red. |
+| Sincronización | RxDB replication, Supabase Realtime | Replicación cloud y reconciliación de datos entre dispositivos. |
+| Archivos | Capacitor Camera, Filesystem, Supabase Storage | Fotos, audio y documentos vinculados a proyectos, tareas o sesiones. |
+| Estado | Zustand, paquete `@workproof/core` | Lógica de negocio compartida entre mobile y web. |
+| i18n | i18next, react-i18next | Interfaz multilingüe (francés e inglés) compartida entre mobile y web. |
+| Web | Next.js 16, React 19, Tailwind, shadcn/ui | Dashboard, informes, ajustes, facturación y administración. |
+| Backend | Supabase Auth, PostgreSQL, RLS, Storage | Cuentas, workspaces, seguridad, archivos y datos sincronizados. |
+| Pagos | RevenueCat, LemonSqueezy | Compras integradas móviles y suscripciones web. |
+| Emails | Resend, React Email | Magic links, confirmaciones y mensajes transaccionales. |
+
+La decisión estructural es el local-first. El cronómetro no puede depender de una conexión activa. Una sesión debe empezar inmediatamente, seguir visible y sincronizarse cuando la red vuelva. En este tipo de producto, la base local no es solo una caché: es la superficie principal de trabajo.
+
+## La aplicación web
+
+La parte web sirve para trabajar en pantalla grande: consultar estadísticas, explorar proyectos, revisar sesiones, gestionar archivos, seguir la facturación y administrar usuarios o suscripciones.
+
+Usa los mismos objetos de negocio que la app móvil, pero con una densidad de información más adaptada al desktop. El dashboard muestra horas registradas, sesiones, proyectos activos, tareas y actividad en el tiempo. Las vistas de proyectos y archivos muestran mejor la dimensión de "prueba de trabajo".
+
+<ScreenshotGallery
+  images={[
+    {
+      src: "/images/2026/workproof/screenshots/web/dashboard-stats.webp",
+      alt: "Dashboard web WorkProof con estadísticas y actividad",
+      width: 2054,
+      height: 1156,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/web/timer-running.webp",
+      alt: "Cronómetro en curso en la aplicación web WorkProof",
+      width: 2054,
+      height: 1156,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/web/project-tasks-files.webp",
+      alt: "Proyecto WorkProof con tareas y archivos adjuntos",
+      width: 2054,
+      height: 1156,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/web/all-files.webp",
+      alt: "Galería de archivos en la aplicación web WorkProof",
+      width: 2054,
+      height: 1156,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/web/billing-storage.webp",
+      alt: "Ajustes de facturación y almacenamiento WorkProof",
+      width: 2054,
+      height: 1156,
+    },
+    {
+      src: "/images/2026/workproof/screenshots/web/admin-dashboard.webp",
+      alt: "Dashboard admin WorkProof",
+      width: 2054,
+      height: 1156,
+    },
+  ]}
+  caption="Capturas web WorkProof redactadas desde los mockups AppExpress. Este lote está mostrado en francés."
+/>
+
+## Qué valida WorkProof para AppExpress
+
+WorkProof muestra que una oferta como AppExpress no debe limitarse a producir una interfaz. El producto toca distribución móvil, SaaS web, sincronización, facturación, emails, datos locales, archivos y restricciones de seguridad.
+
+Lo importante es la separación del uso. El móvil sigue siendo el lugar natural para capturar tiempo y pruebas en el terreno. La web se convierte en el lugar natural para revisar, administrar, analizar y facturar. La stack sigue esa separación en lugar de imponer el mismo modo de uso en todas partes. Y nada de esto es exclusivo del gran público: la misma arquitectura sirve igual de bien para herramientas internas B2B, con el terreno en móvil y la gestión en web.
+
+## Descargar WorkProof
+
+Sitio oficial: [workproof.app](https://workproof.app/).
+
+WorkProof está disponible en App Store y Google Play.
+
+<AppStoreLink href="https://apps.apple.com/app/work-proof/id6755934931" />
+<PlayStoreLink href="https://play.google.com/store/apps/details?id=app.workproof.osibits" />
+20:T227c,
+<ThemeImage
+  lightSrc="/images/2026/logpill/logpill-cover.webp"
+  darkSrc="/images/2026/logpill/logpill-cover.webp"
+  alt="Ilustración abstracta de LogPill, app de seguimiento de medicación"
+  width={1600}
+  height={893}
+  priority={true}
+/>
+
+<AppExpressSourceBanner
+  href="https://appexpress.fr"
+  linkLabel="Conocer AppExpress"
+>
+  LogPill es un showcase B2C desarrollado por y para la oferta AppExpress.
+</AppExpressSourceBanner>
+
+LogPill es una aplicación de recordatorio y seguimiento de medicación. La idea es deliberadamente directa: ayudar a una persona a saber qué medicamentos debe tomar hoy, registrar una dosis rápidamente, consultar su historial y entender su adherencia con el tiempo.
+
+Lo interesante aquí es el ángulo producto. LogPill es una app B2C completa, con identidad propia, presencia en las tiendas de iOS y Android, sitio público, visuales de marketing localizados y una base técnica cercana a lo que AppExpress puede producir para un lanzamiento real.
+
+<YouTubeEmbed
+  videoId="_epf_vbSPqQ"
+  title="Demostración de LogPill"
+  caption="Short de demostración de LogPill."
+/>
+
+## Por qué un showcase AppExpress
+
+Los proyectos AppExpress no son solo prototipos o herramientas internas. El objetivo es entregar algo utilizable: aplicación móvil, presencia web, base de datos, autenticación cuando hace falta, páginas legales, assets para las tiendas y despliegue.
+
+LogPill muestra ese alcance en un caso B2C. El producto parece simple en superficie, pero concentra varios temas concretos:
+
+- una experiencia móvil rápida, pensada para uso diario;
+- recordatorios locales fiables;
+- una base de datos integrada, disponible sin conexión;
+- pantallas de análisis legibles sin convertirse en consejo médico;
+- textos y capturas localizados en inglés, francés, español y portugués;
+- un prototipo web/SaaS para visualizar cómo podría funcionar la sincronización cloud si el producto necesita ir más allá del teléfono.
+
+## El producto
+
+La vista principal muestra el plan del día, las dosis restantes y los próximos recordatorios. El usuario puede registrar una toma, omitir una dosis o consultar el historial sin pasar por un flujo pesado.
+
+La zona de medicamentos guarda los datos útiles: nombre, dosis, forma, frecuencia, cantidad restante e instrucciones de toma. Los análisis se centran en tendencias: tasa de adherencia, racha actual, dosis tomadas o perdidas, comparación por medicamento y seguimiento de recargas.
+
+<ScreenshotGallery
+  images={[
+    {
+      src: "/images/2026/logpill/screenshots/es/store/store-01.webp",
+      alt: "Mockup de LogPill con las dosis del día",
+      width: 750,
+      height: 1630,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/es/store/store-02.webp",
+      alt: "Mockup de LogPill con seguimiento de medicamentos",
+      width: 750,
+      height: 1630,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/es/store/store-03.webp",
+      alt: "Mockup de LogPill para registrar una dosis",
+      width: 750,
+      height: 1630,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/es/store/store-04.webp",
+      alt: "Mockup de LogPill con análisis de adherencia",
+      width: 750,
+      height: 1630,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/es/store/store-05.webp",
+      alt: "Mockup de LogPill con seguimiento de recargas",
+      width: 750,
+      height: 1630,
+    },
+  ]}
+  caption="Mockups de tienda localizados en español."
+/>
+
+## La stack técnica
+
+LogPill se apoya en los bloques habituales de AppExpress: React Native con Expo para móvil, Next.js para web y Supabase cuando el producto necesita cuentas, almacenamiento o sincronización.
+
+| Capa | Elección | Rol |
+|---|---|---|
+| Móvil | Expo, React Native, TypeScript | App iOS y Android con una base de código común. |
+| Navegación | Expo Router | Rutas basadas en archivos, tabs y pantallas apiladas sin configuración pesada. |
+| Datos locales | WatermelonDB, SQLite | Tomas y medicamentos accesibles sin conexión. |
+| Estado UI | Zustand | Estado de aplicación ligero, sin sobre-arquitectura. |
+| Recordatorios | Expo Notifications | Notificaciones locales para dosis planificadas. |
+| Localización | i18next, react-i18next | Interfaz y assets adaptados a los idiomas de lanzamiento. |
+| Web | Next.js 16, React 19, TypeScript | Sitio público activo y prototipo de dashboard web. |
+| Backend web | Supabase, Zod, React Hook Form | Base técnica para autenticación, datos, validación y formularios del dashboard. |
+
+En móvil, el núcleo de la experiencia es local-first. Una toma debe poder registrarse inmediatamente, incluso sin conexión. Ese detalle cambia la arquitectura: la base local no es una caché decorativa, sino la fuente operativa de la app.
+
+El sitio oficial público está activo en [logpill.app](https://logpill.app/). El dashboard web, la sincronización cloud y el modo SaaS existen en el código y en los mockups de AppExpress como prototipo, pero no están activos ni desplegados en la versión pública de LogPill en esta etapa. Las capturas siguientes documentan esa dirección de producto, no una función disponible hoy.
+
+En el código, esta parte web usa Next.js, Supabase, Tailwind, Radix UI, Lucide, Framer Motion, React Hook Form, Zod, Resend y React Email.
+
+## Prototipo web/SaaS no desplegado
+
+El prototipo web retoma los mismos objetos de negocio que la app móvil: medicamentos, planificación, registros, análisis y preferencias. Sirve para mostrar cómo LogPill podría evolucionar hacia una cuenta online y sincronización multi-dispositivo, manteniendo la experiencia móvil local como base.
+
+<ScreenshotGallery
+  images={[
+    {
+      src: "/images/2026/logpill/screenshots/web/dashboard-medication-summary.webp",
+      alt: "Prototipo web de LogPill con resumen de medicamentos y plan del día",
+      width: 1538,
+      height: 1184,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/web/medication-management-grid-view.webp",
+      alt: "Prototipo web de LogPill con gestión de medicamentos en cuadrícula",
+      width: 1538,
+      height: 1184,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/web/medication-management-table-view.webp",
+      alt: "Prototipo web de LogPill con gestión de medicamentos en tabla",
+      width: 1538,
+      height: 1184,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/web/medication-logs-calendar-view.webp",
+      alt: "Prototipo web de LogPill con calendario de registros de dosis",
+      width: 1606,
+      height: 1202,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/web/analytics-adherence-charts.webp",
+      alt: "Prototipo web de LogPill con gráficos de adherencia",
+      width: 1494,
+      height: 1337,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/web/profile-settings.webp",
+      alt: "Prototipo web de LogPill con ajustes de perfil",
+      width: 1606,
+      height: 1202,
+    },
+  ]}
+  caption="Capturas del prototipo web/SaaS de LogPill. Esta parte no está activa ni desplegada en la versión pública."
+/>
+
+## Capturas de la app
+
+Los mockups sirven para las tiendas. Las capturas siguientes muestran la interfaz más cerca del uso diario: planificación, lista de medicamentos, registro de dosis, análisis y recargas.
+
+<ScreenshotGallery
+  images={[
+    {
+      src: "/images/2026/logpill/screenshots/es/app/home.webp",
+      alt: "Pantalla de inicio de LogPill con el plan del día",
+      width: 750,
+      height: 1547,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/es/app/medications.webp",
+      alt: "Lista de medicamentos en LogPill",
+      width: 750,
+      height: 1547,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/es/app/log-dose.webp",
+      alt: "Pantalla de registro de dosis en LogPill",
+      width: 750,
+      height: 1547,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/es/app/analytics-overview.webp",
+      alt: "Vista general de análisis en LogPill",
+      width: 750,
+      height: 1547,
+    },
+    {
+      src: "/images/2026/logpill/screenshots/es/app/refill-tracker.webp",
+      alt: "Seguimiento de recargas en LogPill",
+      width: 750,
+      height: 1547,
+    },
+  ]}
+  caption="Capturas de la aplicación en español."
+/>
+
+## Qué valida LogPill para AppExpress
+
+LogPill muestra que un producto B2C no se limita a "hacer una app". También importan la primera impresión, las tiendas, los idiomas, los permisos del sistema, las páginas de soporte, la política de privacidad y el modelo de datos.
+
+## Descargar LogPill
+
+Sitio oficial: [logpill.app](https://logpill.app/).
+
+LogPill está disponible en App Store y Google Play.
+
+<AppStoreLink href="https://apps.apple.com/us/app/logpill/id6758589564" />
+<PlayStoreLink href="https://play.google.com/store/apps/details?id=app.logpill.osibits" />
+21:T36aa,
 <ThemeImage
   lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp"
   darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp"
@@ -253,7 +625,7 @@ Ese es exactamente el enfoque de AppExpress: no vendemos un framework. Construim
 ---
 
 *¿Dudas entre estas tecnologías para tu proyecto? [Reserva una llamada](https://cal.com/appexpress) para comentarlo. Te ayudamos a elegir bien, sin compromiso.*
-20:T85c2,
+22:T85c2,
 <ThemeImage
   lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp"
   darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp"
@@ -843,7 +1215,7 @@ El tercer error suele ser invisible: descuidar la interfaz. Un RAG técnicamente
 **Una nota sobre tendencias**: sigue de cerca arquitecturas sobre object storage como Turbopuffer, GraphRAG para casos que exigen exhaustividad y trazabilidad de relaciones, y Self-RAG para pipelines agentic más fiables. RAG no desaparece. Evoluciona hacia una infraestructura central de conocimiento para la IA empresarial.
 
 **¿Necesitas ayuda para elegir?** En AppExpress implementamos sistemas RAG para pymes, desde un POC de una semana hasta pipelines de producción con evaluación continua. Si dudas entre opciones o quieres validar tu arquitectura antes de comprometerte, [hablemos](https://appexpress.fr).
-21:T2a5a,
+23:T2a5a,
 <ThemeImage
   lightSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp"
   darkSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp"
@@ -1031,7 +1403,7 @@ Estas tres capas no compiten entre sí. Se complementan. Y su combinación trans
 ---
 
 *En AppExpress, diseñamos y acompañamos tus aplicaciones de negocio con tres dimensiones integradas desde el principio: interfaz web, aplicación móvil nativa e inteligencia artificial. Desde la consultoría inicial hasta el seguimiento en producción, un único interlocutor. [Agenda una reunión](https://appexpress.fr) para hablarlo.*
-22:T8a5,
+24:T8a5,
 <ThemeImage
   lightSrc="/images/2026/appexpress.webp"
   darkSrc="/images/2026/appexpress.webp"
@@ -1093,7 +1465,7 @@ el objetivo sigue siendo siempre el mismo, **entregar un producto funcional**.
 
 - **Otros proyectos orientados a IA generativa**,
   para explorar y demostrar usos concretos: **búsqueda inteligente, generación de contenido, asistentes y automatizaciones.**
-23:T80e,
+25:T182f,
 <ThemeImage
   lightSrc="/images/2025/llmvoice.webp"
   darkSrc="/images/2025/llmvoice.webp"
@@ -1103,39 +1475,133 @@ el objetivo sigue siendo siempre el mismo, **entregar un producto funcional**.
   priority={true}
 />
 
+**LLMVoice** es una demo técnica de iOS que sirve de banco de pruebas para dos cosas: las nuevas APIs de reconocimiento de voz de iOS 26 (**SpeechAnalyzer / SpeechTranscriber**) y la ejecución de **LLM open-weight** cuantizados en **4 bits**, completamente **en local** mediante el framework **MLX** de Apple.
 
-<br/>
-Aquí está **LLMVoice**, una demostración técnica que permite evaluar las nuevas API de reconocimiento de voz de iOS 26 (**SpeechAnalyzer / SpeechTranscriber**) y la ejecución de modelos **LLM de código abierto** (cuantificados en **4 bits**) localmente en un iPhone compatible con el framework **MLX**. Puedes resumir una transcripción o enviar un prompt directamente al modelo.
+La idea es directa: dictas, la app transcribe y luego puedes resumir la transcripción o enviar un prompt directamente al modelo. Todo se ejecuta en el dispositivo: sin servidor, sin clave de API, sin datos que salgan del iPhone.
 
-Seamos claros: modelos tan comprimidos no son realmente útiles, pero sigue siendo divertido verlos alucinar. ¡Aun así, logran poner de rodillas a mi viejo iPhone 13!
+<Callout type="tip" title="Nuevo: el primer modelo de razonamiento">
+LLMVoice incorpora ahora **Qwen3 (0.6B)**, el primer modelo de razonamiento de la selección. Puede desplegar una fase de reflexión (`<think>`) antes de su respuesta, y un botón permite mostrar u ocultar ese razonamiento. Ver un modelo de 0,6 mil millones de parámetros razonar en local en un teléfono sigue siendo lo más interesante del proyecto.
+</Callout>
 
-Estos son los modelos disponibles para descargar: <br/>
-**Gemma3_1b** (mlx-community/gemma-3-1b-it-4bit) <br/>
-**Qwen25_05b** (lmstudio-community/Qwen2.5-0.5B-Instruct-MLX-4bit) <br/>
-**Llama32_1b** (mlx-community/Llama-3.2-1B-Instruct-4bit) <br/>
+Seamos claros: tan comprimidos, estos modelos siguen siendo limitados y alucinan con facilidad. El objetivo no es producción, sino medir de forma concreta qué se puede ejecutar en un iPhone y hasta dónde aguanta. Mi iPhone 13 se calienta igual que siempre, pero un 0,6B que razona en local no estaba realmente sobre la mesa cuando salió la 1.0.
+
+<YouTubeEmbed
+  videoId="RPD2vFscgCA"
+  title="Demostración en vídeo de LLMVoice"
+  caption="LLMVoice en acción."
+  vertical
+/>
+
+## Capturas de pantalla
+
+<ScreenshotGallery
+  images={[
+    {
+      src: "/images/2025/llmvoice/screenshots/onboarding.webp",
+      alt: "Pantalla de configuración de modelos de LLMVoice",
+      width: 800,
+      height: 1494,
+    },
+    {
+      src: "/images/2025/llmvoice/screenshots/model-picker.webp",
+      alt: "Selección de modelo en LLMVoice",
+      width: 800,
+      height: 1494,
+    },
+    {
+      src: "/images/2025/llmvoice/screenshots/transcription-metrics.webp",
+      alt: "Transcripción, resumen y métricas de rendimiento en LLMVoice",
+      width: 800,
+      height: 1494,
+    },
+    {
+      src: "/images/2025/llmvoice/screenshots/summary-generating.webp",
+      alt: "Generación de un resumen en curso en LLMVoice, con progreso y métricas",
+      width: 800,
+      height: 1494,
+    },
+    {
+      src: "/images/2025/llmvoice/screenshots/html-generation.webp",
+      alt: "Generación de código HTML con resaltado de sintaxis en LLMVoice",
+      width: 800,
+      height: 1494,
+    },
+    {
+      src: "/images/2025/llmvoice/screenshots/svg-code.webp",
+      alt: "Generación de código SVG en LLMVoice",
+      width: 800,
+      height: 1494,
+    },
+    {
+      src: "/images/2025/llmvoice/screenshots/svg-preview.webp",
+      alt: "Vista previa renderizada de un SVG generado por LLMVoice",
+      width: 800,
+      height: 1494,
+    },
+    {
+      src: "/images/2025/llmvoice/screenshots/prompt-template.webp",
+      alt: "Plantilla de prompt y parámetros de generación en LLMVoice",
+      width: 800,
+      height: 1494,
+    },
+    {
+      src: "/images/2025/llmvoice/screenshots/settings.webp",
+      alt: "Ajustes y gestión de modelos de LLMVoice",
+      width: 800,
+      height: 1494,
+    },
+  ]}
+  caption="Capturas de LLMVoice (interfaz en inglés)."
+/>
+
+## El reconocimiento de voz (iOS 26)
+
+La transcripción se apoya en **SpeechAnalyzer** y **SpeechTranscriber**, las APIs introducidas con iOS 26. Funcionan on-device y alimentan directamente el resto del pipeline: la transcripción se convierte en la materia de un resumen o en el contexto de un prompt.
+
+## Modelos disponibles
+
+Además de Apple Intelligence (modelo del sistema, iPhone 15 Pro y posteriores), cinco modelos MLX open-weight se descargan bajo demanda:
+
+| Modelo | ID de Hugging Face | Tamaño | Contexto | Idiomas |
+|---|---|---|---|---|
+| Gemma 3 (1B) | `mlx-community/gemma-3-1b-it-4bit` | ~300 MB | 32k | 140+ |
+| Gemma 3 QAT (1B) | `mlx-community/gemma-3-1b-it-qat-4bit` | ~733 MB | 32k | 140+ |
+| Qwen2.5 (0.5B) | `lmstudio-community/Qwen2.5-0.5B-Instruct-MLX-4bit` | ~150 MB | 32k | 29+ |
+| Qwen3 (0.6B) — razonamiento | `mlx-community/Qwen3-0.6B-4bit` | ~335 MB | 40k | 100+ |
+| Llama 3.2 (1B) | `mlx-community/Llama-3.2-1B-Instruct-4bit` | ~500 MB | 128k | 8 |
+
+Qwen3 es el único con un modo de razonamiento. Para el resumen ese modo se desactiva para mantener salidas cortas; para un prompt directo, el modelo puede desplegar su razonamiento, que se muestra u oculta al instante.
+
+## Medir el rendimiento
+
+Un panel de métricas en tiempo real acompaña cada generación: rendimiento actual, medio y pico (tokens/s), número de tokens, tiempo total, tiempo hasta el primer token (TTFT), latencia media y una estimación de progreso. Esto es lo que hace que la demo sea realmente útil: comparar modelos en el mismo dispositivo, en las mismas condiciones.
+
+## Código y HTML
+
+Cuando un modelo genera código, LLMVoice aplica resaltado de sintaxis (HTML, CSS, JavaScript/TypeScript) y ofrece una vista previa renderizada del HTML generado, dentro de la propia app.
 
 ## Código fuente
 
 <GitHubLink href="https://github.com/AndreFrelicot/llmvoice" label="Código fuente LLMVoice" />
 
 ## Requisitos del sistema
+
 iOS 26.0+ / iPadOS 26.0+
-### Para Apple Intelligence
-iPhone 15 Pro o modelo posterior  
-Apple Intelligence activado en los ajustes
-### Para los modelos locales MLX 
-iPhone 12 o modelo posterior (chip A14 Bionic o superior).<br/> 
-iPad Pro 2021 o modelo posterior (chip M1 o superior).<br/>
-iPad Air de 5ª generación o modelo posterior (chip M1 o superior). <br/>
-GPU Metal con características específicas: air.simd_sum, compatibilidad con el núcleo rmsfloat16. <br/>
 
-### Almacenamiento
-Tamaño de la aplicación: aproximadamente 50 MB  
-Descargas de modelos (solo MLX):
+**Para Apple Intelligence**
 
-Qwen2.5 (0,5B): aproximadamente 150 MB<br/>
-Gemma 3 (1B): aproximadamente 300 MB<br/>
-Llama 3.2 (1B): aproximadamente 500 MB<br/>
+- iPhone 15 Pro o modelo posterior;
+- Apple Intelligence activada en los ajustes.
+
+**Para los modelos locales MLX**
+
+- iPhone 12 o modelo posterior (chip A14 Bionic o superior);
+- iPad Pro 2021 o posterior, iPad Air 5.ª generación o posterior (chip M1 o superior);
+- GPU Metal con las funciones requeridas: `air.simd_sum`, compatibilidad con el kernel `rmsfloat16`.
+
+## Almacenamiento
+
+Tamaño de la aplicación: alrededor de 50 MB. Los modelos MLX se descargan bajo demanda, de ~150 MB (Qwen2.5) a ~733 MB (Gemma 3 QAT) — ver la tabla anterior.
 
 <br/>
 <AppStoreLink href="https://apps.apple.com/us/app/llmvoice/id6753925010" />
@@ -1143,8 +1609,7 @@ Llama 3.2 (1B): aproximadamente 500 MB<br/>
 ---
 ## 🛟 Soporte
 ¿Necesitas ayuda o quieres compartir comentarios? Escribe a [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-
-24:T15ef,
+26:T15ef,
 <ThemeImage
   lightSrc="/images/2025/ble-uscope.webp"
   darkSrc="/images/2025/ble-uscope.webp"
@@ -1246,7 +1711,7 @@ Disponible en App Store y Google Play.
 ## Soporte
 
 ¿Necesitas ayuda o quieres compartir comentarios? Escribe a [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-25:Tcaf,
+27:Tcaf,
 <ThemeImage
   lightSrc="/images/2025/decibelpeak.webp"
   darkSrc="/images/2025/decibelpeak.webp"
@@ -1315,7 +1780,7 @@ Disponible en la App Store y Google Play.
 ## Soporte
 
 ¿Necesitas ayuda o quieres compartir comentarios? Escribe a [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-26:T4d3,
+28:T4d3,
 <ThemeImage
   lightSrc="/images/2025/hello-world.webp"
   darkSrc="/images/2025/hello-world.webp"
@@ -1352,7 +1817,7 @@ A largo plazo, voy a operar bajo diferentes banderas:
 ---
 
 **¡Mantente al tanto!**
-27:T806,
+29:T806,
 <ThreeCube />
 
 # Acerca de
@@ -1393,10 +1858,10 @@ SIRET: 939 948 865 00018<br />
 IVA/VAT: FR56 939948865
 
 <OsibitsLogo />
-10:["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"es","navLinks":[{"href":"/es","label":"Devlogs"},{"href":"/es?tag=apps","label":"Apps"},{"href":"/es/2025/09/acerca-de","label":"Acerca de"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Entrepreneur"}]]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$12",null,{"fallback":null,"children":["$","$L1e",null,{"locale":"es","copy":{"placeholder":"Busca contenido por título o cuerpo...","allLabel":"Todos","empty":"No hay entradas que coincidan todavía.","showTags":"Mostrar etiquetas y búsqueda","hideTags":"Ocultar etiquetas y búsqueda","loadMore":"Cargar más resultados"},"initialDocs":[{"slug":"aplicacion-movil-que-tecnologia-elegir-en-2026","title":"Aplicación móvil: ¿qué tecnología elegir en 2026?","description":"¿Capacitor, React Native, Flutter o nativo? Guía práctica para responsables que quieren entender los compromisos reales detrás de cada elección tecnológica.","tags":["appexpress","mobile","flutter","react-native","capacitor","native","strategy","ai"],"content":"$1f","image":"/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp","date":"2026-03-28"},{"slug":"que-sistema-rag-elegir-para-tu-aplicacion-de-negocio","title":"¿Qué sistema RAG elegir para tu aplicación de negocio?","description":"Guía práctica para elegir una stack RAG en 2026: bases vectoriales, frameworks de orquestación y recomendaciones según el perfil de la empresa.","tags":["appexpress","rag","ai","vector-database","llm","architecture"],"content":"$20","image":"/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp","date":"2026-03-23"},{"slug":"aplicaciones-de-negocio-consultables-por-ia","title":"Hacer que tus aplicaciones de negocio sean consultables por IA","description":"Interfaz web, aplicación móvil e inteligencia artificial: cómo estas tres capas transforman una aplicación de negocio en una verdadera herramienta de dirección para tu empresa.","tags":["appexpress","business-app","ai","mobile","automation","b2b","crm"],"content":"$21","image":"/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp","date":"2026-03-10"},{"slug":"appexpress-prelanzamiento","title":"AppExpress – Prelanzamiento de la oferta","description":"Tus aplicaciones, llave en mano, a la carta.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$22","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice 1.0","description":"Demostración técnica que permite evaluar las nuevas API de reconocimiento de voz de iOS 26 (SpeechAnalyzer / SpeechTranscriber) y la ejecución local de modelos LLM de código abierto (cuantificados en 4 bits) en un iPhone compatible con el framework MLX.","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","source_code"],"content":"$23","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Escáner y analizador avanzado de Bluetooth Low Energy para iOS, iPadOS, Android y macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$24","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak es un sonómetro móvil para iOS y Android con medición en tiempo real, visualizaciones de audio, historial, pico dB y calibración local.","tags":["apps","ios","android","audio"],"content":"$25","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"¡Hola Mundo!","description":"¡Bienvenido a mi Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$26","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"acerca-de","title":"About","description":"André Frélicot - TechLead, Entrepreneur, Digital Strategist. Tech - Product - Business.","tags":["about"],"content":"$27","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"aplicacion-movil-que-tecnologia-elegir-en-2026":"/es/2026/03/aplicacion-movil-que-tecnologia-elegir-en-2026","que-sistema-rag-elegir-para-tu-aplicacion-de-negocio":"/es/2026/03/que-sistema-rag-elegir-para-tu-aplicacion-de-negocio","aplicaciones-de-negocio-consultables-por-ia":"/es/2026/03/aplicaciones-de-negocio-consultables-por-ia","appexpress-prelanzamiento":"/es/2026/01/appexpress-prelanzamiento","llmvoice":"/es/2025/10/llmvoice","ble-uscope":"/es/2025/10/ble-uscope","decibelpeak":"/es/2025/09/decibelpeak","hello-world":"/es/2025/09/hello-world","acerca-de":"/es/2025/09/acerca-de"}}]}]}],"$L28"]}]
-28:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}],["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":"$L29"}]}],"$L2a"]}]]}]}]
-2b:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z29:["$","path",null,{"fillRule":"nonzero","d":"$2b"}]
-2a:["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
+10:["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"es","navLinks":[{"href":"/es","label":"Devlogs"},{"href":"/es?tag=apps","label":"Apps"},{"href":"/es/2025/09/acerca-de","label":"Acerca de"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"TechLead & Entrepreneur"}]]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$12",null,{"fallback":null,"children":["$","$L1e",null,{"locale":"es","copy":{"placeholder":"Busca contenido por título o cuerpo...","allLabel":"Todos","empty":"No hay entradas que coincidan todavía.","showTags":"Mostrar etiquetas y búsqueda","hideTags":"Ocultar etiquetas y búsqueda","loadMore":"Cargar más resultados"},"initialDocs":[{"slug":"workproof-seguimiento-tiempo-local-first-appexpress","title":"WorkProof: seguimiento del tiempo local-first con AppExpress","description":"Dev log sobre WorkProof, una app iOS, Android y web para seguimiento de tiempo, proyectos, tareas y pruebas de trabajo, creada con Ionic, Capacitor, Next.js, Supabase y una arquitectura local-first.","tags":["apps","appexpress","workproof","b2c","b2b","saas","mobile","local-first","ionic","capacitor","react","nextjs","supabase"],"content":"$1f","image":"/images/2026/workproof/workproof-cover.webp","date":"2026-06-14"},{"slug":"logpill-aplicacion-b2c-showcase-appexpress","title":"LogPill: una app B2C creada con AppExpress","description":"Dev log sobre LogPill, una app de seguimiento de medicación para iOS y Android usada como showcase de AppExpress: Expo, React Native, Next.js, Supabase y arquitectura offline-first.","tags":["apps","appexpress","logpill","b2c","mobile","react-native","expo","nextjs","supabase"],"content":"$20","image":"/images/2026/logpill/logpill-cover.webp","date":"2026-06-12"},{"slug":"aplicacion-movil-que-tecnologia-elegir-en-2026","title":"Aplicación móvil: ¿qué tecnología elegir en 2026?","description":"¿Capacitor, React Native, Flutter o nativo? Guía práctica para responsables que quieren entender los compromisos reales detrás de cada elección tecnológica.","tags":["appexpress","mobile","flutter","react-native","capacitor","native","strategy","ai"],"content":"$21","image":"/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp","date":"2026-03-28"},{"slug":"que-sistema-rag-elegir-para-tu-aplicacion-de-negocio","title":"¿Qué sistema RAG elegir para tu aplicación de negocio?","description":"Guía práctica para elegir una stack RAG en 2026: bases vectoriales, frameworks de orquestación y recomendaciones según el perfil de la empresa.","tags":["appexpress","rag","ai","vector-database","llm","architecture"],"content":"$22","image":"/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp","date":"2026-03-23"},{"slug":"aplicaciones-de-negocio-consultables-por-ia","title":"Hacer que tus aplicaciones de negocio sean consultables por IA","description":"Interfaz web, aplicación móvil e inteligencia artificial: cómo estas tres capas transforman una aplicación de negocio en una verdadera herramienta de dirección para tu empresa.","tags":["appexpress","business-app","ai","mobile","automation","b2b","crm"],"content":"$23","image":"/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp","date":"2026-03-10"},{"slug":"appexpress-prelanzamiento","title":"AppExpress – Prelanzamiento de la oferta","description":"Tus aplicaciones, llave en mano, a la carta.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$24","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice","description":"Demo técnica iOS para evaluar las APIs de reconocimiento de voz de iOS 26 (SpeechAnalyzer / SpeechTranscriber) y ejecutar LLM open-weight cuantizados en 4 bits localmente con MLX, ahora con un primer modelo de razonamiento (Qwen3).","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","reasoning","qwen3","source_code"],"content":"$25","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Escáner y analizador avanzado de Bluetooth Low Energy para iOS, iPadOS, Android y macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$26","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak es un sonómetro móvil para iOS y Android con medición en tiempo real, visualizaciones de audio, historial, pico dB y calibración local.","tags":["apps","ios","android","audio"],"content":"$27","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"¡Hola Mundo!","description":"¡Bienvenido a mi Devlog!  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$28","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"acerca-de","title":"About","description":"André Frélicot - TechLead, Entrepreneur, Digital Strategist. Tech - Product - Business.","tags":["about"],"content":"$29","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"workproof-seguimiento-tiempo-local-first-appexpress":"/es/2026/06/workproof-seguimiento-tiempo-local-first-appexpress","logpill-aplicacion-b2c-showcase-appexpress":"/es/2026/06/logpill-aplicacion-b2c-showcase-appexpress","aplicacion-movil-que-tecnologia-elegir-en-2026":"/es/2026/03/aplicacion-movil-que-tecnologia-elegir-en-2026","que-sistema-rag-elegir-para-tu-aplicacion-de-negocio":"/es/2026/03/que-sistema-rag-elegir-para-tu-aplicacion-de-negocio","aplicaciones-de-negocio-consultables-por-ia":"/es/2026/03/aplicaciones-de-negocio-consultables-por-ia","appexpress-prelanzamiento":"/es/2026/01/appexpress-prelanzamiento","llmvoice":"/es/2025/10/llmvoice","ble-uscope":"/es/2025/10/ble-uscope","decibelpeak":"/es/2025/09/decibelpeak","hello-world":"/es/2025/09/hello-world","acerca-de":"/es/2025/09/acerca-de"}}]}]}],"$L2a"]}]
+2a:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}],["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":"$L2b"}]}],"$L2c"]}]]}]}]
+2d:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z2b:["$","path",null,{"fillRule":"nonzero","d":"$2d"}]
+2c:["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}]
 16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 13:null
 18:[["$","title","0",{"children":"André Frélicot - TechLead & Entrepreneur"}],["$","meta","1",{"name":"description","content":"Una selección de mis textos y proyectos."}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","href":"https://andrefrelicot.dev/feed.xml"}]]

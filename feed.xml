@@ -5,7 +5,23 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 11:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 19:24:55 GMT</lastBuildDate>
+    <item>
+      <title>WorkProof: local-first time tracking with AppExpress</title>
+      <link>https://andrefrelicot.dev/en/2026/06/workproof-local-first-time-tracking-appexpress</link>
+      <guid>https://andrefrelicot.dev/en/2026/06/workproof-local-first-time-tracking-appexpress</guid>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A dev log about WorkProof, an iOS, Android and web time tracking app with projects, tasks and work evidence, built with Ionic, Capacitor, Next.js, Supabase and a local-first architecture.</description>
+      <category>apps</category><category>appexpress</category><category>workproof</category><category>b2c</category><category>b2b</category><category>saas</category><category>mobile</category><category>local-first</category><category>ionic</category><category>capacitor</category><category>react</category><category>nextjs</category><category>supabase</category>
+    </item>
+    <item>
+      <title>LogPill: a B2C app built with AppExpress</title>
+      <link>https://andrefrelicot.dev/en/2026/06/logpill-b2c-app-showcase-appexpress</link>
+      <guid>https://andrefrelicot.dev/en/2026/06/logpill-b2c-app-showcase-appexpress</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A dev log about LogPill, a medication tracking app for iOS and Android used as an AppExpress showcase: Expo, React Native, Next.js, Supabase and offline-first product architecture.</description>
+      <category>apps</category><category>appexpress</category><category>logpill</category><category>b2c</category><category>mobile</category><category>react-native</category><category>expo</category><category>nextjs</category><category>supabase</category>
+    </item>
     <item>
       <title>Mobile app: which technology should you choose in 2026?</title>
       <link>https://andrefrelicot.dev/en/2026/03/mobile-app-which-technology-to-choose-in-2026</link>
@@ -39,12 +55,12 @@
       <category>appexpress</category><category>mobile</category><category>web</category><category>saas</category><category>development</category><category>offer</category><category>business</category><category>b2b</category><category>ios</category><category>android</category><category>vercel</category><category>convex</category><category>flutter</category>
     </item>
     <item>
-      <title>LLMVoice 1.0</title>
+      <title>LLMVoice</title>
       <link>https://andrefrelicot.dev/en/2025/10/llmvoice</link>
       <guid>https://andrefrelicot.dev/en/2025/10/llmvoice</guid>
       <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-      <description>Technical demo designed to evaluate the new speech recognition APIs of iOS 26 (SpeechAnalyzer / SpeechTranscriber) and the execution of open-weight LLM models (quantized in 4 bits) locally on an iPhone supporting the MLX framework.</description>
-      <category>apps</category><category>llm</category><category>mlx</category><category>apple_intelligence</category><category>ios26</category><category>speechanalyzer</category><category>speechtranscriber</category><category>audio</category><category>voice</category><category>local</category><category>on_device</category><category>source_code</category>
+      <description>iOS technical demo to evaluate the iOS 26 speech recognition APIs (SpeechAnalyzer / SpeechTranscriber) and run open-weight LLMs quantized in 4 bits locally via MLX, now with a first reasoning model (Qwen3).</description>
+      <category>apps</category><category>llm</category><category>mlx</category><category>apple_intelligence</category><category>ios26</category><category>speechanalyzer</category><category>speechtranscriber</category><category>audio</category><category>voice</category><category>local</category><category>on_device</category><category>reasoning</category><category>qwen3</category><category>source_code</category>
     </item>
     <item>
       <title>BLE UScope 1.0</title>

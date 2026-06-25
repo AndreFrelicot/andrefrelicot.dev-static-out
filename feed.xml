@@ -5,7 +5,15 @@
     <link>https://andrefrelicot.dev</link>
     <description>TechLead &amp; Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 21:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 15:31:46 GMT</lastBuildDate>
+    <item>
+      <title>Dartvex: Dart and Flutter packages for Convex</title>
+      <link>https://andrefrelicot.dev/en/2026/06/dartvex-dart-flutter-packages-for-convex</link>
+      <guid>https://andrefrelicot.dev/en/2026/06/dartvex-dart-flutter-packages-for-convex</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Dartvex is an independent Dart and Flutter package ecosystem for Convex: realtime client, Flutter widgets, code generation, offline support and Better Auth integration.</description>
+      <category>dartvex</category><category>convex</category><category>dart</category><category>flutter</category><category>realtime</category><category>packages</category><category>pubdev</category><category>mobile</category><category>offline</category><category>codegen</category>
+    </item>
     <item>
       <title>WorkProof: local-first time tracking with AppExpress</title>
       <link>https://andrefrelicot.dev/en/2026/06/workproof-local-first-time-tracking-appexpress</link>

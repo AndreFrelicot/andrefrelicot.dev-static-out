@@ -5,14 +5,22 @@
     <link>https://andrefrelicot.dev</link>
     <description>CTO / TechLead / Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 21:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:13:59 GMT</lastBuildDate>
+    <item>
+      <title>Lorenz Clash: building a WebGPU experience you&apos;re part of</title>
+      <link>https://andrefrelicot.dev/en/2026/06/lorenz-clash-a-webgpu-experience-you-are-part-of</link>
+      <guid>https://andrefrelicot.dev/en/2026/06/lorenz-clash-a-webgpu-experience-you-are-part-of</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+      <description>How a heat wave became a WebGPU camera experience: Lorenz math, shader rendering, music-aware effects, local video export, and fullscreen web-app shipping.</description>
+      <category>apps</category><category>source_code</category><category>webgpu</category><category>wgsl</category><category>shaders</category><category>lorenz-attractor</category><category>chaos-theory</category><category>generative-art</category><category>pwa</category><category>graphics</category><category>typescript</category><category>audio</category><category>webcodecs</category>
+    </item>
     <item>
       <title>Dartvex: Dart and Flutter packages for Convex</title>
       <link>https://andrefrelicot.dev/en/2026/06/dartvex-dart-flutter-packages-for-convex</link>
       <guid>https://andrefrelicot.dev/en/2026/06/dartvex-dart-flutter-packages-for-convex</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>Dartvex is an independent Dart and Flutter package ecosystem for Convex: realtime client, Flutter widgets, code generation, offline support and Better Auth integration.</description>
-      <category>dartvex</category><category>convex</category><category>dart</category><category>flutter</category><category>realtime</category><category>packages</category><category>pubdev</category><category>mobile</category><category>offline</category><category>codegen</category>
+      <category>apps</category><category>source_code</category><category>dartvex</category><category>convex</category><category>dart</category><category>flutter</category><category>realtime</category><category>packages</category><category>pubdev</category><category>mobile</category><category>offline</category><category>codegen</category>
     </item>
     <item>
       <title>WorkProof: local-first time tracking with AppExpress</title>
@@ -84,7 +92,7 @@
       <guid>https://andrefrelicot.dev/en/2025/09/decibelpeak</guid>
       <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
       <description>DecibelPeak is a mobile sound level meter for iOS and Android with real-time decibel readings, audio visualizations, history, dB peak tracking, and local calibration.</description>
-      <category>apps</category><category>ios</category><category>android</category><category>audio</category>
+      <category>apps</category><category>source_code</category><category>ios</category><category>android</category><category>audio</category>
     </item>
     <item>
       <title>Hello World!</title>

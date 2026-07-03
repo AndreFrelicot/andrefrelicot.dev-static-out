@@ -5,7 +5,15 @@
     <link>https://andrefrelicot.dev</link>
     <description>CTO / TechLead / Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 13:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:54:39 GMT</lastBuildDate>
+    <item>
+      <title>Porting Paper Shaders to Swift/Metal and Flutter</title>
+      <link>https://andrefrelicot.dev/en/2026/07/porting-paper-shaders-to-swift-metal-and-flutter</link>
+      <guid>https://andrefrelicot.dev/en/2026/07/porting-paper-shaders-to-swift-metal-and-flutter</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A look at the port of 29 WebGL shaders to Swift/Metal and Flutter: shared uniforms, shader language differences, golden renders, presets, and the small math that makes visual parity possible.</description>
+      <category>apps</category><category>source_code</category><category>shaders</category><category>glsl</category><category>msl</category><category>metal</category><category>swift</category><category>flutter</category><category>dart</category><category>graphics</category><category>pubdev</category><category>swiftpm</category><category>generative-art</category>
+    </item>
     <item>
       <title>Lorenz Clash: building a WebGPU experience you&apos;re part of</title>
       <link>https://andrefrelicot.dev/en/2026/06/lorenz-clash-a-webgpu-experience-you-are-part-of</link>

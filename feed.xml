@@ -5,14 +5,14 @@
     <link>https://andrefrelicot.dev</link>
     <description>CTO / TechLead / Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 22:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:20:47 GMT</lastBuildDate>
     <item>
-      <title>Porting Paper Shaders to Swift/Metal and Flutter</title>
+      <title>Porting Paper Shaders to Swift/Metal, Flutter, and Android/AGSL</title>
       <link>https://andrefrelicot.dev/en/2026/07/porting-paper-shaders-to-swift-metal-and-flutter</link>
       <guid>https://andrefrelicot.dev/en/2026/07/porting-paper-shaders-to-swift-metal-and-flutter</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <description>A look at the port of 29 WebGL shaders to Swift/Metal and Flutter: shared uniforms, shader language differences, golden renders, presets, and the small math that makes visual parity possible.</description>
-      <category>apps</category><category>source_code</category><category>shaders</category><category>glsl</category><category>msl</category><category>metal</category><category>swift</category><category>flutter</category><category>dart</category><category>graphics</category><category>pubdev</category><category>swiftpm</category><category>generative-art</category>
+      <description>A look at the port of 29 WebGL shaders to Swift/Metal, Flutter, and native Android: shared uniforms, shader language differences, golden renders, presets, and the small math that makes visual parity possible.</description>
+      <category>apps</category><category>source_code</category><category>shaders</category><category>glsl</category><category>msl</category><category>agsl</category><category>metal</category><category>swift</category><category>flutter</category><category>dart</category><category>android</category><category>kotlin</category><category>jetpack-compose</category><category>graphics</category><category>pubdev</category><category>swiftpm</category><category>generative-art</category>
     </item>
     <item>
       <title>Lorenz Clash: building a WebGPU experience you&apos;re part of</title>

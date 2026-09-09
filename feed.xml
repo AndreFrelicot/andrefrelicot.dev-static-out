@@ -5,14 +5,14 @@
     <link>https://andrefrelicot.dev</link>
     <description>Builder • CTO • TechLead • Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:39:01 GMT</lastBuildDate>
     <item>
       <title>Morpher91: the 1991 special effect, rebuilt in WebGPU in your browser</title>
       <link>https://andrefrelicot.dev/en/2026/09/morpher91-the-1991-special-effect-rebuilt-in-webgpu</link>
       <guid>https://andrefrelicot.dev/en/2026/09/morpher91-the-1991-special-effect-rebuilt-in-webgpu</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
       <description>Morpher91, an educational 2D morphing studio: crossfade, mesh, Thin-Plate Spline and Beier–Neely, rendered in WebGPU, with video, layers, GPU masks and MP4 export — all without a server.</description>
-      <category>apps</category><category>webgpu</category><category>wgsl</category><category>shaders</category><category>morphing</category><category>image-processing</category><category>graphics</category><category>typescript</category><category>webcodecs</category><category>computer-graphics-history</category>
+      <category>apps</category><category>source_code</category><category>webgpu</category><category>wgsl</category><category>shaders</category><category>morphing</category><category>image-processing</category><category>graphics</category><category>typescript</category><category>webcodecs</category><category>computer-graphics-history</category>
     </item>
     <item>
       <title>Porting Paper Shaders to Swift/Metal, Flutter, and Android/AGSL</title>

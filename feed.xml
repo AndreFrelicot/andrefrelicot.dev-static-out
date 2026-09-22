@@ -5,7 +5,15 @@
     <link>https://andrefrelicot.dev</link>
     <description>Builder • CTO • TechLead • Entrepreneur devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:42:50 GMT</lastBuildDate>
+    <item>
+      <title>2brain: my agentic second brain with RAG, built on Convex</title>
+      <link>https://andrefrelicot.dev/en/2026/09/2brain-agentic-second-brain-rag-convex</link>
+      <guid>https://andrefrelicot.dev/en/2026/09/2brain-agentic-second-brain-rag-convex</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <description>A cloud-based second brain accessible through the web, CLI and MCP: lessons from building RAG, workers and assisted knowledge consolidation.</description>
+      <category>ai</category><category>rag</category><category>agents</category><category>convex</category><category>knowledge-graph</category><category>mcp</category><category>typescript</category><category>workers</category><category>second-brain</category><category>vector-db</category><category>embeddings</category><category>llm</category><category>ocr</category><category>hybrid-search</category><category>chrome-extension</category><category>cli</category><category>realtime</category><category>workflows</category>
+    </item>
     <item>
       <title>Morpher91: the 1991 special effect, rebuilt in WebGPU in your browser</title>
       <link>https://andrefrelicot.dev/en/2026/09/morpher91-the-1991-special-effect-rebuilt-in-webgpu</link>

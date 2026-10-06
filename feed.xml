@@ -5,7 +5,15 @@
     <link>https://andrefrelicot.dev</link>
     <description>Builder • Freelance Software Engineer devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:12:40 GMT</lastBuildDate>
+    <item>
+      <title>Meta Pocket: Make Gizmos, the TikTok of vibe coding?</title>
+      <link>https://andrefrelicot.dev/en/2026/10/pocket-meta-the-tiktok-of-vibe-coding</link>
+      <guid>https://andrefrelicot.dev/en/2026/10/pocket-meta-the-tiktok-of-vibe-coding</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <description>With Pocket: Make Gizmos, Meta has launched an app where you scroll through AI-generated mini-apps. An analysis of the product, the business and the strategy, then a technical teardown of four gizmos opened in a browser.</description>
+      <category>ai</category><category>vibe-coding</category><category>meta</category><category>pocket-make-gizmos</category><category>product</category><category>strategy</category><category>business</category><category>social-media</category><category>llm</category><category>codegen</category><category>reverse-engineering</category><category>web</category><category>react</category><category>threejs</category><category>webview</category><category>architecture</category>
+    </item>
     <item>
       <title>2brain: my agentic second brain with RAG, built on Convex</title>
       <link>https://andrefrelicot.dev/en/2026/09/2brain-agentic-second-brain-rag-convex</link>

@@ -5,7 +5,15 @@
     <link>https://andrefrelicot.dev</link>
     <description>Builder • Freelance Software Engineer devlogs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 18:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:51:18 GMT</lastBuildDate>
+    <item>
+      <title>I built Meta Pocket on Google Cloud</title>
+      <link>https://andrefrelicot.dev/en/2026/11/poptoy-i-built-meta-pocket-on-google-cloud</link>
+      <guid>https://andrefrelicot.dev/en/2026/11/poptoy-i-built-meta-pocket-on-google-cloud</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>After the analysis of Meta Pocket comes the test: poptoy, an independent reconstruction of the concept, designed with coding agents and deployed on Google Cloud. What it took to build, the decisions that matter, and what the experiment verified.</description>
+      <category>ai</category><category>poptoy</category><category>pocket-make-gizmos</category><category>google-cloud</category><category>architecture</category><category>coding-agents</category><category>agents</category><category>adk</category><category>gemini</category><category>llm</category><category>codegen</category><category>security</category><category>sandbox</category><category>cloud-run</category><category>cloudflare</category><category>finops</category><category>flutter</category><category>python</category><category>fastapi</category><category>react</category><category>opentofu</category><category>terraform</category>
+    </item>
     <item>
       <title>Meta Pocket: Make Gizmos, the TikTok of vibe coding?</title>
       <link>https://andrefrelicot.dev/en/2026/10/pocket-meta-the-tiktok-of-vibe-coding</link>

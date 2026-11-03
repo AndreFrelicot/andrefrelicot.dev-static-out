@@ -6,7 +6,7 @@
 f:I[85243,["/_next/static/chunks/2v53fheez08gf.js","/_next/static/chunks/30v7ty5alg1y1.js"],"default",1]
 :HL["/_next/static/chunks/1vtg4x4f6r-_o.css","style"]
 :HL["/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","fr",""],"q":"","i":false,"f":[[["",{"children":[["locale","fr","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1vtg4x4f6r-_o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2v53fheez08gf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30v7ty5alg1y1.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"lang":"en","className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Page Not Found"}]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","div",null,{"className":"flex flex-col items-center justify-center py-12 text-center","children":[["$","div",null,{"className":"mb-8 text-8xl font-bold opacity-20","children":"404"}],["$","p",null,{"className":"mb-8 max-w-md text-lg opacity-70","children":"The page you're looking for doesn't exist or has been moved."}],["$","$L6",null,{"href":"/en","className":"inline-flex items-center gap-2 rounded-lg border border-foreground/20 bg-foreground/5 px-6 py-3 font-semibold transition-all hover:border-foreground/40 hover:bg-foreground/10","children":"Back to Home"}]]}]}],["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":"$L7"}],"$L8","$L9","$La","$Lb"]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BxGeO3OXgZsc_C7YeBube"}
+0:{"P":null,"c":["","fr",""],"q":"","i":false,"f":[[["",{"children":[["locale","fr","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1vtg4x4f6r-_o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2v53fheez08gf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30v7ty5alg1y1.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"lang":"en","className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"en","navLinks":[{"href":"/en","label":"Devlogs"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Page Not Found"}]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","div",null,{"className":"flex flex-col items-center justify-center py-12 text-center","children":[["$","div",null,{"className":"mb-8 text-8xl font-bold opacity-20","children":"404"}],["$","p",null,{"className":"mb-8 max-w-md text-lg opacity-70","children":"The page you're looking for doesn't exist or has been moved."}],["$","$L6",null,{"href":"/en","className":"inline-flex items-center gap-2 rounded-lg border border-foreground/20 bg-foreground/5 px-6 py-3 font-semibold transition-all hover:border-foreground/40 hover:bg-foreground/10","children":"Back to Home"}]]}]}],["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":"$L7"}],"$L8","$L9","$La","$Lb"]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"j_KOHAoHJmzV9yEbyrUQT"}
 14:I[92690,["/_next/static/chunks/2v53fheez08gf.js","/_next/static/chunks/30v7ty5alg1y1.js"],"OutletBoundary"]
 15:"$Sreact.suspense"
 18:I[92690,["/_next/static/chunks/2v53fheez08gf.js","/_next/static/chunks/30v7ty5alg1y1.js"],"ViewportBoundary"]
@@ -30,7 +30,384 @@ e:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","di
 23:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z20:["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"fillRule":"nonzero","d":"$23"}]}]}]
 21:["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}]
 24:T7c4,M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.3876-2.1228C21.2982 1.33 20.628.9208 19.8378.6165 19.074.321 18.2017.1197 16.9244.0645 15.6471.0093 15.236-.005 11.977.0014 8.718.0076 8.31.0215 7.0301.0839m.1402 21.6932c-1.17-.0509-1.8053-.2453-2.2287-.408-.5606-.216-.96-.4771-1.3819-.895-.422-.4178-.6811-.8186-.9-1.378-.1644-.4234-.3624-1.058-.4171-2.228-.0595-1.2645-.072-1.6442-.079-4.848-.007-3.2037.0053-3.583.0607-4.848.05-1.169.2456-1.805.408-2.2282.216-.5613.4762-.96.895-1.3816.4188-.4217.8184-.6814 1.3783-.9003.423-.1651 1.0575-.3614 2.227-.4171 1.2655-.06 1.6447-.072 4.848-.079 3.2033-.007 3.5835.005 4.8495.0608 1.169.0508 1.8053.2445 2.228.408.5608.216.96.4754 1.3816.895.4217.4194.6816.8176.9005 1.3787.1653.4217.3617 1.056.4169 2.2263.0602 1.2655.0739 1.645.0796 4.848.0058 3.203-.0055 3.5834-.061 4.848-.051 1.17-.245 1.8055-.408 2.2294-.216.5604-.4763.96-.8954 1.3814-.419.4215-.8181.6811-1.3783.9-.4224.1649-1.0577.3617-2.2262.4174-1.2656.0595-1.6448.072-4.8493.079-3.2045.007-3.5825-.006-4.848-.0608M16.953 5.5864A1.44 1.44 0 1 0 18.39 4.144a1.44 1.44 0 0 0-1.437 1.4424M5.8385 12.012c.0067 3.4032 2.7706 6.1557 6.173 6.1493 3.4026-.0065 6.157-2.7701 6.1506-6.1733-.0065-3.4032-2.771-6.1565-6.174-6.1498-3.403.0067-6.156 2.771-6.1496 6.1738M8 12.0077a4 4 0 1 1 4.008 3.9921A3.9996 3.9996 0 0 1 8 12.007722:["$","$L6","Instagram",{"href":"https://www.instagram.com/andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Instagram","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"$24"}]}]}]
-26:Ta663,
+26:T957f,
+<ThemeImage
+  src="/images/2026/poptoy/cover.webp"
+  alt="Trois écrans de l'app poptoy sur des téléphones, et la marque poptoy"
+  width={1600}
+  height={1200}
+  priority
+  style={{ width: "100%", height: "auto" }}
+/>
+
+<VideoEmbed
+  src="https://videos.andrefrelicot.dev/2026/poptoy-idea-to-feed.mp4"
+  title="Vidéo : de l'idée au gizmo dans l'app poptoy"
+  poster="/images/2026/poptoy/idea-to-feed-poster.webp"
+  caption="poptoy en action."
+  vertical
+/>
+
+J'ai publié récemment une [analyse de Pocket: Make Gizmos](/fr/2026/10/pocket-meta-tiktok-du-vibe-coding/), l'app de Meta où l'on fait défiler des mini-applications générées par IA. J'y décrivais le format d'un gizmo, son bac à sable et le pont qui le relie à l'app. J'en concluais que le logiciel généré à grande échelle ne ressemble pas à un développeur augmenté, mais à un cadre très contraint dans lequel un modèle remplit les trous.
+
+Une analyse de ce genre reste une hypothèse tant qu'on ne l'a pas confrontée à une implémentation. J'ai donc conçu et développé **poptoy**, une reconstruction indépendante du concept.
+
+poptoy fonctionne de bout en bout. Une phrase devient un gizmo, construit dans une sandbox sans réseau, modéré, publié dans un feed vertical où d'autres le jouent, le commentent et le remixent. Il y a une app Flutter, un studio web, un site public, une console d'administration, une console de modération, huit services sur Google Cloud et une infrastructure entièrement décrite en code. L'ensemble a été développé en quelques jours avec des agents de code, et tourne en ligne en prototype privé.
+
+Cet article suit les décisions qui ont compté : les contraintes posées avant le code, le traitement du code généré comme hostile, la forge IA, le déploiement sur Google Cloud, puis le produit en usage. La reconstruction confirme l'essentiel de l'analyse, et montre où se trouve vraiment le travail : pas dans l'IA.
+
+## La boucle à reconstruire
+
+<PoptoyLoop />
+
+Un créateur tape une idée, dans l'app ou dans le studio web. La **forge**, un agent écrit avec l'Agent Development Kit (ADK) de Google, planifie le gizmo puis en écrit le code : un composant React, rien de plus. Le **builder** l'assemble avec une boîte à outils figée et le teste dans un navigateur headless, sans réseau. La **modération** décide de sa diffusion. Le gizmo publié rejoint le **feed**. Un autre créateur peut le **remixer** : la forge repart alors de ses sources.
+
+<ThemeImage
+  src="/images/2026/poptoy/gizmos-grid.webp"
+  alt="Six gizmos du feed de démo, écrits par la forge à partir d'une phrase chacun."
+  width={2328}
+  height={2818}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+## Les contraintes avant le code
+
+Quatre contraintes ont été posées avant la première ligne de code, et presque toute l'architecture en découle.
+
+- **Du code que personne n'a relu s'exécute sur le téléphone d'inconnus.** C'est le cœur du problème, bien plus que la génération elle-même.
+- **Les frontières de confiance se tracent d'avance** : ce qui peut détenir un secret, ce qui touche du code généré, ce qui exécute ce code.
+- **Chaque dépense est connue avant d'être faite.** Des agents et des modèles facturés à l'appel peuvent s'emballer ; le système doit savoir à tout moment ce qu'il dépense, et refuser au-delà d'un plafond.
+- **Le résultat se mesure.** Trois critères ont été fixés d'emblée : au moins 85 % de gizmos fonctionnels sur un banc d'évaluation, une génération en moins de 90 secondes en médiane, moins de 0,30 $ par gizmo sans images.
+
+Deux principes viennent de Pocket : **un gizmo est du contenu hostile**, et **la plateforme contraint, le modèle remplit les trous**. Les autres sont des choix d'ingénierie classiques, appliqués sans exception : des artefacts immuables adressés par leur contenu, des zones de confiance séparées, une interface remplaçable devant chaque service payant, et tout ce qui se règle (prompts, modèles, quotas, seuils) traité comme une donnée qu'on modifie sans redéployer.
+
+La stack suit. Le backend est en Python et FastAPI : c'est en Python qu'ADK est le plus complet, et un agent passe son temps à attendre un modèle, la vitesse du langage n'y change rien. Les interfaces web sont en React et TypeScript, l'app en Flutter, l'infrastructure en OpenTofu. Un point de contexte a pesé : Google venait de renommer Vertex AI en _Gemini Enterprise Agent Platform_, et une partie de la documentation en ligne décrivait des API qui n'existaient plus sous ce nom. La règle a été de suivre le code des paquets installés, à version figée. ADK 2 diverge d'ailleurs de sa propre documentation par endroits.
+
+### Le risque d'abord
+
+Le développement a suivi l'ordre des risques, pas celui des écrans. Les premiers gizmos ont été écrits par un agent de code, **avant que la forge existe** : quatre gizmos de référence ont validé le template, le runtime, le pont, le builder, le serveur et le lecteur web. La forge n'est venue qu'ensuite, en ligne de commande, avec un jalon : si moins de 70 % des gizmos générés fonctionnaient, on retravaillait les prompts et le template avant de construire la moindre interface. Les écrans, l'app et le cloud ont suivi. Quand la forge est arrivée, elle n'avait plus qu'à écrire un fichier.
+
+Chaque décision structurante a été consignée avec son contexte, les options écartées et ses conséquences. Quand on revient sur une décision, la trace dit ce qu'on avait écarté et pourquoi ; quand un agent reprend le travail, il lit la décision au lieu de la deviner.
+
+### Écrire avec des agents de code
+
+Le code de poptoy a été écrit par des agents de code : le backend, les interfaces, l'app, l'infrastructure et les tests. Mon travail a porté sur le reste : le cadrage, l'architecture, les arbitrages, la validation des résultats, et la responsabilité de ce qui en sort.
+
+<PoptoyAgentContract />
+
+Une consigne se lit ; un contrôle s'impose. Une commande facturable demande une confirmation, une commande destructrice est refusée, et, dans le dépôt, gitleaks cherche des secrets avant chaque commit. Le lint, le typage strict et les tests jugent chaque changement. Et des parcours dans un vrai navigateur, pilotés par Playwright, trouvent ce que les tests ne voient pas. Avec des agents, **le goulot se déplace de l'écriture vers la décision et la vérification**.
+
+## Un gizmo est du contenu hostile
+
+Un gizmo est écrit par un modèle, à la demande d'inconnus, et s'exécute chez d'autres inconnus. Il faut supposer qu'il cherchera à sortir : parce qu'un créateur l'a demandé, parce que le modèle a mal compris, ou parce qu'un prompt a été conçu pour ça. La réponse tient en une règle : **un gizmo ne contient aucun secret ni jeton, et sa seule sortie passe par un pont contrôlé par l'hôte**. Le reste de l'architecture l'applique, couche par couche.
+
+<PoptoyArchitectureMap />
+
+### Deux domaines, une origine par gizmo
+
+La frontière la plus importante du système est un nom de domaine. `poptoy.app` porte tout ce qui peut détenir un secret : le site, le studio, l'API, les consoles. `poptoyusercontent.app` porte tout ce qui touche du code généré, avec un sous-domaine par gizmo et une origine pour les médias. C'est le modèle de Pocket, et celui de Google avec `googleusercontent.com`. Chaque gizmo a donc sa propre origine : deux gizmos ne lisent pas les données l'un de l'autre.
+
+Les huit services existent pour la même raison. Le serveur des gizmos ne voit pas la base de données : il lit un petit pointeur par gizmo et des blobs adressés par leur empreinte. Le builder vit dans un projet Google Cloud à part, sans réseau ni rôle. Aucune route d'administration ou de modération n'existe sur l'API publique : chaque console a son service et son domaine, derrière IAP. Un monolithe aurait été plus simple à déployer, et chacune de ces frontières aurait disparu.
+
+Reste la Public Suffix List, qui ferait de chaque sous-domaine un site à part entière. Elle n'est pas nécessaire à l'isolement, puisque chaque gizmo a déjà son origine ; elle protège surtout des cookies posés sur le domaine parent pour gêner les autres. Ses règles écartent les petits projets et exigent un domaine enregistré pour au moins deux ans encore. L'inscription est donc reportée à une ouverture publique, et en attendant, aucun cookie ni jeton ne vit sur ce domaine.
+
+### Le modèle ne choisit rien
+
+Le modèle n'écrit pas « un jeu » : il écrit les fichiers `src/*.tsx` d'un template qu'il ne peut pas modifier. Le template importe le runtime de la plateforme avant le code généré, et fixe la liste blanche des imports : React, Three.js et le SDK de poptoy. Tout autre import est refusé, avec la liste dans le message d'erreur pour que le modèle se corrige seul. Le contrôle qui fait foi porte sur le métafichier d'esbuild, qui dit exactement quels fichiers sont entrés dans le bundle : un import détourné par une réexportation n'y échappe pas.
+
+Le builder n'installe rien. Son image contient esbuild et Tailwind, vérifiés par empreinte, le template déjà installé, et Chromium : ni Node ni npm au moment du build. Une attaque par la chaîne d'approvisionnement devrait viser l'image, construite et relue une fois, pas chaque build. Chaque build tourne dans une sandbox jetable, sans réseau, à racine en lecture seule, sans privilège.
+
+Le test headless sert le gizmo comme en production : dans une iframe d'une autre origine, avec les en-têtes exacts du serveur de production, devant une page hôte qui répond au pont. Aucune requête ne quitte le navigateur. Le harnais attend le démarrage du gizmo, le fait jouer quelques secondes, et le fait échouer s'il ne démarre pas, si l'écran reste vide, s'il produit une erreur, s'il viole la politique de sécurité du contenu ou s'il tente une requête. Des gizmos d'évasion passent dans ce test à chaque construction des gizmos de référence : ils doivent échouer, et ils échouent.
+
+<ThemeImage
+  src="/images/2026/poptoy/evasion-report.webp"
+  alt="Les cas d'évasion du banc : une requête réseau, une navigation de l'iframe, une connexion WebRTC. Chacun fait échouer le build."
+  width={2364}
+  height={1358}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+### Un réseau fermé, et ce qui reste ouvert
+
+Le serveur des gizmos ferme davantage que Pocket. Pocket autorise les connexions vers lui-même et vers son CDN ; poptoy n'en autorise aucune :
+
+```http title="En-têtes d'un gizmo (extrait)"
+content-security-policy:
+  default-src 'none';
+  script-src 'sha256-…';
+  img-src data: blob: https://media.poptoyusercontent.app;
+  connect-src 'none';
+  frame-ancestors https://poptoy.app …
+permissions-policy: camera=(), microphone=(), …
+```
+
+Le seul script autorisé est celui du gizmo, désigné par son empreinte. Les médias ne viennent que de leur origine. La caméra, le micro ou les capteurs ne s'ouvrent que si le build a observé leur usage. Et le serveur refuse de servir un gizmo hors d'une iframe : ouvert dans un onglet, un lien de gizmo ne montre rien. L'app Flutter, dont la WebView charge le gizmo comme un document, s'appuie sur une propriété des navigateurs : ils ne savent pas poser d'en-tête sur une navigation. L'app ajoute le sien ; un onglet ne le peut pas, et reste refusé.
+
+<PoptoyDefenseLayers />
+
+Trois sorties restent ouvertes dans tous les navigateurs actuels, Pocket compris : la **navigation**, qui peut emporter des données dans une URL ; **WebRTC**, auquel Chromium n'applique pas la politique de sécurité ; et le **préchargement DNS**. Le builder détecte les deux premières et fait échouer le build, l'app retire WebRTC de sa WebView, le serveur désactive le préchargement. On les détecte, on ne les ferme pas. C'est la raison d'être de la règle de départ : un gizmo ne détient jamais rien qui vaille d'être volé, sauf ce que le joueur lui donne.
+
+### Un pont, des versions qui ne se réécrivent jamais
+
+Le pont est le seul canal entre un gizmo et le monde : un petit protocole versionné, avec des événements et deux requêtes pour l'IA en cours de partie. Pocket sert deux variantes du HTML d'un gizmo, l'une pour le web, l'autre pour l'app. poptoy n'en sert qu'une : le runtime choisit son transport au démarrage. **Un même artefact sert tous les hôtes**, ce qui le garde adressable par son contenu. Les deux côtés traitent l'autre comme non fiable : un message mal formé est rejeté en entier, jamais corrigé à moitié.
+
+Tout ce que produit la plateforme est immuable : les sources d'une version, son artefact, son rapport de build, chaque média. Revenir en arrière crée une nouvelle version, et l'on peut toujours dire quel prompt a produit ce que l'on voit. Le remix part des sources, jamais du bundle. Le code d'un gizmo ne connaît que des identifiants de médias, qu'un manifeste lie à des fichiers : supprimer une photo la retire de tous les gizmos qui la citent, remixes compris, sans rebuild.
+
+C'est un parcours dans un vrai navigateur qui a trouvé le bug le plus vicieux de cette partie. L'origine des médias répondait « pas modifié » avant de vérifier que le fichier existait encore : **une photo supprimée réapparaissait**. Aucun test unitaire ne l'avait vu.
+
+## La forge : retirer des décisions au modèle
+
+La forge reçoit une phrase et rend les sources d'un gizmo. Son cahier des charges : un jeu qui marche, en une à deux minutes, pour quelques centimes, sans que le modèle ait le moindre pouvoir au-delà de l'écriture de fichiers. Sa leçon principale : **la fiabilité d'un pipeline d'IA vient surtout de ce qu'on retire au modèle**.
+
+### Un graphe, pas un agent libre
+
+Le schéma courant est un agent unique, avec des outils dont `build_and_test`, qui boucle jusqu'à ce qu'il estime avoir fini. Il laisse au modèle la décision de tester : il peut l'oublier, tester en boucle, ou s'arrêter sur un échec en annonçant que tout va bien. Et chaque tour renvoie l'historique complet, si bien que le coût grandit sans plafond naturel.
+
+La forge est un **workflow en graphe** d'ADK 2 : plan, écriture, build, correction. Le build n'est pas un outil offert au modèle, c'est le nœud qui suit l'écriture : il a toujours lieu. Après lui, c'est encore le graphe qui choisit la suite : terminer, corriger tant qu'il reste des essais, abandonner sinon. Le coût d'une génération est borné par construction : trois builds au plus.
+
+<PoptoyForgeGraph />
+
+<ThemeImage
+  src="/images/2026/poptoy/console-generation-flow.webp"
+  alt="Dans la console, le graphe rejoue une génération : ici un premier build en échec, une correction, puis la publication, avec la durée et le coût de chaque étape."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+Chaque agent reçoit **un message préparé**, et ne lit jamais la conversation des autres : la demande pour le plan ; la demande et le plan pour l'écriture ; le plan, les sources et les erreurs du build pour la correction. Le contexte de chaque appel est connu d'avance, et son coût aussi. Le budget initial supposait 150 000 jetons de contexte cumulé par gizmo ; avec des messages préparés, l'estimation est tombée à environ 40 000, et la mesure a suivi : **0,06 € par gizmo en moyenne** sur les premières générations, contre 0,08 € estimés.
+
+L'écriture n'a que quatre outils, qui manipulent un espace de fichiers virtuel, et chaque écriture passe par les règles du builder : un chemin interdit ou un fichier trop gros est refusé tout de suite, avec le message que le builder aurait donné. Le modèle corrige ses erreurs de forme sans attendre un build.
+
+### Les prompts et les modèles sont des données
+
+Le modèle, les prompts et les réglages de chaque étape forment un **profil de génération versionné**. Une version naît dans le repo, passe en revue comme du code, puis est copiée en base avec l'empreinte de son contenu ; une version publiée ne change plus. L'activation est une donnée lue au début de chaque job : **changer de modèle, c'est activer une version, pas déployer**. La console d'admin permet aussi d'écrire un prompt : l'enregistrer crée une nouvelle version candidate, avec son auteur et son écart, qu'un export ramène dans le repo pour la revue.
+
+<ThemeImage
+  src="/images/2026/poptoy/console-forge.webp"
+  alt="La forge dans la console : le graphe, et pour chaque étape son modèle, ses réglages et son prompt."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+<ThemeImage
+  src="/images/2026/poptoy/console-prompt-diff.webp"
+  alt="Un prompt modifié dans la console devient une nouvelle version candidate, jamais une modification en place."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+On ne met pas au point un pipeline d'IA en payant chaque essai. Le modèle passe par une interface remplaçable, avec un fournisseur réel, un enregistreur et un **rejeu de cassettes**. En rejeu, tout le reste tourne pour de vrai : le graphe, les outils, le registre des coûts, le builder dans sa sandbox. C'est ce qui a permis de développer et de tester l'essentiel du projet pour **0,66 €** de modèles. Le banc d'évaluation (dix demandes variées) a donné 10 gizmos fonctionnels sur 10 à sa première passe facturée. Ce score dit qu'un profil marche, pas qu'il est meilleur qu'un autre : le banc est trop facile pour départager deux versions, et un banc plus dur reste à écrire.
+
+### Une contrainte écrite n'est qu'un souhait
+
+La durée est restée le point faible : une médiane de 95 secondes sur le banc, au-dessus de la cible. Environ 85 % du temps d'une génération est l'écriture du code, et sa durée suit le nombre de jetons produits. Le levier le plus direct est donc d'écrire moins de code. Une version du profil a confié la portée au plan : un budget d'environ 250 lignes, 400 au plus, et la consigne de ramener une demande démesurée à une version jouet complète.
+
+<PoptoyScopeChart />
+
+Le plan a fait son travail : il estime entre 220 et 280 lignes, et a réduit les demandes trop larges à juste titre (les continents plutôt que les 195 pays, une liste de mots en mémoire plutôt qu'un dictionnaire). L'écriture, elle, a produit **le double** en moyenne, et sept gizmos sur dix dépassent le plafond. Les gizmos restent complets et jouables, mais la contrainte n'est pas tenue. Pour la tenir, il faudrait la porter par le graphe, avec un nœud qui compte les lignes et demande de resserrer. Le prototype s'est arrêté avant.
+
+<ThemeImage
+  src="/images/2026/poptoy/console-generation-scope.webp"
+  alt="La portée dans la console : ce que le plan a estimé, ce que l'écriture a produit, et ce que le plan a coupé."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+### Plusieurs modèles, un seul registre
+
+La liste des modèles pris en charge est **la grille tarifaire** : un modèle qu'on ne sait pas chiffrer ne peut pas être activé. Gemini Flash, sur Agent Platform, est appelé avec l'identité du service, sans clé. Claude Haiku passe par le Model Garden de Google, et la bascule devait tenir en une version de profil. L'abstraction a fui : le schéma de sortie du plan n'était pas transmis, la réflexion ne se règle pas de la même façon, et le SDK refuse un long appel sans streaming. Surtout, le projet n'a reçu aucun quota pour Claude, et deux demandes ont été refusées.
+
+OpenRouter est alors devenu une troisième famille, appelée par LiteLLM. La bibliothèque est figée à une version publiée depuis plus d'une semaine, parce qu'elle avait déjà connu des versions piégées sur PyPI. La règle a servi depuis : une nouvelle version piégée a été publiée puis retirée en deux heures, et poptoy, figé sur une version antérieure, ne l'a jamais installée. Une dépense OpenRouter échappe en revanche à la coupure de la facturation Google Cloud : seuls les plafonds de l'application et la limite de crédit de la clé la bornent.
+
+Au jeton, Haiku coûte environ sept fois moins que Gemini Flash. Le banc n'a pas tourné sur Haiku : le feed de démo a été rempli avec Gemini, dont le rendu me paraissait meilleur sur les gizmos essayés. C'est un jugement à l'œil, pas une mesure.
+
+Chaque appel facturé passe devant un **registre de coûts** : avant l'appel, trois plafonds (par jour, par génération, au total) ; après, l'usage réel multiplié par une grille versionnée et datée, écrit au registre. Au-delà de sa date de validité, la grille est réputée périmée et la forge refuse de démarrer. Le plafond a prouvé son utilité : lors d'un remplissage du feed de démo, il a arrêté un lot de quarante générations au seizième gizmo, et le relever est resté une décision explicite.
+
+<ThemeImage
+  src="/images/2026/poptoy/console-costs.webp"
+  alt="Le registre de coûts dans la console : chaque appel chiffré, chaque plafond visible."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+### Modérer des programmes
+
+Un gizmo peut aussi être hostile au sens du contenu : haineux, sexuel, trompeur, ou un faux écran de connexion qui demande un mot de passe. La modération sépare ceux qui observent de celui qui décide. Des **passes** produisent des signaux : des règles sur le prompt, gratuites et immédiates ; un classifieur, coupé dans le prototype en attendant un accord de dépense ; une revue du gizmo produit, qui analyse ses sources et ce que le navigateur a tenté pendant le build. Un **moteur de décision** combine les signaux selon une politique versionnée, activée sans déployer.
+
+<PoptoyModerationPasses />
+
+La première politique était prudente : sans classifieur, chaque publication attendait un modérateur. Un prototype qu'on ne peut pas montrer sans modérateur de garde n'est pas montrable, et une plateforme où chaque publication attend un humain ne passe pas à l'échelle. La politique actuelle **publie par défaut** ce que les passes ne relèvent pas, applique seule un signal sûr, et réserve les humains au doute et aux signalements. Un signal ambigu ouvre un cas, et en attendant, le gizmo est seulement exclu du feed : il reste jouable par lien, mais n'est pas diffusé. Les abus sur mineurs ne profitent jamais du doute.
+
+La console des modérateurs a été refaite pour ce rôle. Elle ne présente plus une file de publications à approuver : elle montre d'abord ce que la machine a vu et décidé seule, et ce que les joueurs signalent.
+
+<ThemeImage
+  src="/images/2026/poptoy/moderation-overview.webp"
+  alt="La vue d'ensemble : ce que la machine a vu, ce qu'elle a décidé seule, ce que les joueurs signalent. Le bandeau rappelle que le classifieur est coupé."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+Un cas à trancher s'ouvre sur une fiche. Le gizmo y joue dans un cadre isolé, sur l'origine des gizmos et jamais dans celle de la console. À côté, les signaux qui ont ouvert le cas, avec leur confiance, et les décisions possibles : une décision exige un code motif, que le créateur reçoit avec elle. Les modérateurs externes n'y voient que des données pseudonymisées, sans export, et chaque consultation est journalisée.
+
+<ThemeImage
+  src="/images/2026/poptoy/moderation-case.webp"
+  alt="Un cas à trancher : l'aperçu isolé, les signaux et leur confiance, et la décision avec un code motif obligatoire."
+  width={2880}
+  height={2000}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+La politique elle-même s'affiche en lecture : ses seuils, l'action par sévérité, les exceptions par catégorie. Elle naît dans le repo, passe en revue comme du code, et s'active sans déployer, comme un profil de génération.
+
+<ThemeImage
+  src="/images/2026/poptoy/moderation-policy.webp"
+  alt="La politique active, en lecture : des seuils et des actions versionnés, qu'un modérateur consulte sans pouvoir les modifier."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+La limite est claire : sans classifieur, « rien de relevé » veut dire que des règles et une analyse de code n'ont rien vu. Pour un prototype sur invitation, c'est acceptable ; avant toute ouverture publique, le classifieur doit tourner.
+
+## Google Cloud : un prototype qui dort au repos
+
+Tout ce qui suit est réglé pour un prototype privé, montré en démo et à quelques invités, pas pour une production : les plafonds sont volontairement bas, 2 € par jour et 15 € par mois pour les appels de modèles. Ces montants ne sont pas une référence ; ce qui se transpose, c'est la stratégie de maîtrise des dépenses. Google Cloud ne propose pas de plafond de dépense général : un budget envoie des alertes, avec des heures de retard sur la consommation. Et des briques classiques coûtent même sans utilisateur : un load balancer global environ 18 $ par mois, une politique Cloud Armor 5 $, la plus petite instance Cloud SQL environ 8 $. Plus de 30 $ par mois au repos. Les garde-fous se cumulent donc, et ce qui compte est le moment où ils agissent.
+
+<PoptoyGuardRails />
+
+Les modèles Gemini récents sont servis sur une capacité partagée, sans quota par projet qu'on pourrait abaisser : aucun réglage de Google ne remplace les plafonds de l'application.
+
+La **coupure** suit le schéma documenté par Google : un budget publie sur Pub/Sub, une fonction détache la facturation du projet. L'exemple de Google lui donne les droits d'administration sur tout le compte de facturation ; la mienne n'a que deux rôles, sur les deux seuls projets qu'elle peut couper, et n'agit que si le coût réel atteint le plafond. Elle a d'abord tourné en simulation, ce qui a trouvé un droit de lecture manquant, et un piège : un faux message de test refusé reste en file, et serait rejoué au passage en mode réel. Tous les messages ont été acquittés avant la bascule. Google a rendu disponibles, peu avant la mise en ligne, des plafonds qui mettent en pause Cloud Run ; ils ne couvrent ni la base ni les modèles, qui sont ici ce qui coûte, mais ils sont à réexaminer avant de reconduire une coupure aussi brutale.
+
+<ThemeImage
+  src="/images/2026/poptoy/killswitch-log.webp"
+  alt="La coupure en simulation : ce qu'elle ferait, et la preuve qu'elle en a le droit."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+### Recadrer la cible
+
+L'architecture de départ visait une production : un load balancer global pour porter les domaines et le wildcard des gizmos, Cloud Armor, une base toujours allumée. Au moment de la mise en ligne, j'ai recadré : poptoy reste **un prototype privé**, montré en démo et à quelques invités, avec des services qui s'arrêtent au repos quitte à attendre au démarrage. Le mappage de domaine de Cloud Run aurait évité le load balancer, mais il ne prend pas de wildcard, donc pas d'origine par gizmo. Une base sans serveur hors de Google aurait ajouté un fournisseur et une latence entre clouds. La solution retenue : Cloudflare devant Cloud Run, IAP branché directement sur les consoles, et Cloud SQL à IP privée, arrêtée par défaut.
+
+<PoptoyTargetVsPrototype />
+
+<PoptoyTopology />
+
+Cloud Run choisit le service d'après l'en-tête `Host`, et l'offre gratuite de Cloudflare ne sait pas le réécrire : un **Worker** reçoit tout ce qui arrive sur les deux domaines et relaie chaque nom d'hôte vers son service, gratuitement à ce volume. Mais le Worker n'est pas une frontière : les URL `run.app` des services restent joignables directement. La frontière est une **clé d'edge**, un secret partagé que le Worker pose sur chaque requête après avoir jeté tout ce que le client aurait pu falsifier, et que chaque service vérifie. Sans elle, une URL `run.app` répond 403 : c'est vérifié en ligne.
+
+Le Worker ne met en cache que ce que l'origine déclare. Le HTML des gizmos n'est jamais gardé : il se revalide à chaque chargement, pour qu'un gizmo retiré par la modération disparaisse aussitôt.
+
+### Tout dort, et la base s'arrête seule
+
+Les huit services tournent avec zéro instance au repos. La forge n'interroge pas sa file en permanence : la file reste dans Postgres, et l'API réveille la forge par une tâche Cloud Tasks, qu'une tâche planifiée double toutes les demi-heures pour ramasser un réveil perdu. La base est la seule pièce qui coûte vraiment. Elle n'a qu'une IP privée, car une IPv4 publique se paie même instance arrêtée. Les services s'y connectent avec leur identité, sans mot de passe. Elle est arrêtée par défaut, démarrée pour une démo, et arrêtée chaque nuit à 2 h par une tâche planifiée qui appelle directement l'API de Cloud SQL, avec un rôle limité à deux permissions.
+
+<ThemeImage
+  src="/images/2026/poptoy/cloud-run-services.webp"
+  alt="Les services et la fonction de coupure, à zéro instance au repos. Le builder vit dans un autre projet."
+  width={2880}
+  height={1800}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+Le prix de ce recadrage est le confort. Une démo commence par démarrer la base, ce qui prend plusieurs minutes, et chaque service attend quelques secondes à son premier appel. Pour un prototype, c'est le bon prix ; pour une production, ce serait une autre décision.
+
+### Le builder, l'identité, l'infrastructure
+
+En ligne, le builder vit dans son propre projet, sous un compte de service sans aucun rôle, et seule la forge peut l'appeler. Chaque build s'exécute dans une **sandbox Cloud Run**, une préversion qui isole un processus dans l'instance, sans réseau ni accès aux métadonnées : vérifié en ligne. Le premier build y a échoué sans un mot dans les journaux. La cause : dès qu'un processus orphelin se termine, toute la sandbox est tuée, et Chromium laisse des orphelins à chaque fermeture. Le point d'entrée du build se déclare désormais repreneur des orphelins, les ramasse, et le build passe en une douzaine de secondes. C'est le genre de comportement qu'aucune documentation ne décrit.
+
+Aucun service ne détient de clé de compte de service : une règle d'organisation interdit d'en créer. Chaque service a l'identité attachée à sa révision, les droits sont posés sur la ressource plutôt que sur le projet, et les secrets vivent dans Secret Manager. Les joueurs se connectent par Identity Platform, l'équipe passe par IAP. Toute l'infrastructure est décrite en OpenTofu, et son plan se teste **sans identifiant et sans appel à Google**, avec des fournisseurs simulés : elle a été écrite et vérifiée ainsi avant d'être appliquée.
+
+Presque tous les accrocs de la mise en ligne venaient d'un écart entre le poste de développement et le cloud : un droit IAM, un réseau, une horloge. Une décision de modération était enregistrée en base, puis la mise à jour du pointeur du gizmo échouait faute de droit : une décision « retirer » aurait fermé le cas en laissant le gizmo jouable. Une base qui redémarre se déclare prête avant d'accepter les connexions. Les tests locaux étaient verts à chaque fois.
+
+### Ce que ça coûte
+
+| Poste                                                                  | Montant                    | Nature                 |
+| ---------------------------------------------------------------------- | -------------------------- | ---------------------- |
+| Modèles, pendant tout le développement (banc d'évaluation)             | 0,66 €                     | mesuré par le registre |
+| Une génération de gizmo, sans images                                   | ≈ 0,06 €                   | mesuré par le registre |
+| Deux lots de dix gizmos de démo                                        | 0,65 € et 0,61 €           | mesuré par le registre |
+| Tout arrêté : stockage de la base, images, secrets, buckets            | ≈ 2,3 $ par mois           | estimé                 |
+| Base allumée                                                           | quelques centimes de l'heure | estimé               |
+| Cloud Run, Cloud Tasks, Cloud Scheduler, Identity Platform, Cloudflare | 0, dans les paliers gratuits | estimé               |
+
+Les dépenses de modèles sont mesurées au centime. Les coûts d'infrastructure restent des estimations tant que la facture réelle de Google Cloud n'est pas relevée.
+
+## Le produit en usage
+
+L'app est écrite en **Flutter**, contre les mêmes API que le studio web, avec un client généré depuis le contrat OpenAPI du backend. Dans l'app, il n'y a pas de page hôte : le gizmo **est** le document de la WebView. Un script injecté au tout début du document installe le transport du pont, et retire WebRTC. La navigation est verrouillée : seul le premier chargement passe.
+
+<ThemeImage
+  src="/images/2026/poptoy/app-feed.webp"
+  alt="Le feed : la zone du gizmo lui appartient, on fait défiler depuis la bande en dessous."
+  width={2400}
+  height={1500}
+  loading="lazy"
+  style={{ width: "100%", height: "auto" }}
+/>
+
+Comme chez Pocket, le gizmo reçoit tous les gestes qui commencent sur lui, glissements verticaux compris : un jeu de dessin ou de plateforme en a besoin. On fait défiler depuis la bande sous le gizmo, et les cartes voisines sont préchargées en pause.
+
+Le téléphone a montré ce que les tests ne pouvaient pas montrer. La carte suivante, préchargée, restait blanche : **la WebView d'Android n'a pas de synthèse vocale**, et le runtime l'appelait à chaque mise en pause. Les tests tournaient sur le Chromium de bureau, qui en a une. Le runtime a été corrigé, mais les gizmos déjà publiés embarquent l'ancien, et leurs artefacts ne changent jamais : c'est le script injecté par l'app qui les répare, en posant une synthèse vocale muette. L'immuabilité a un prix, et une parade.
+
+Un gizmo peut aussi appeler un modèle pendant qu'on y joue : un oracle, un conteur, une photo transformée. Il ne tient jamais de clé : l'hôte relaie sa requête vers une passerelle à part, avec un ticket de partie limité à ce gizmo, des quotas, un cache et les mêmes plafonds. Toute la tuyauterie est réelle ; le modèle ne l'est pas encore, car la passerelle tourne en ligne avec un fournisseur factice.
+
+<PoptoyWhatRuns />
+
+Au milieu, ce qui est écrit et testé mais dort : la photo jointe à une création, les sons et l'IA en cours de partie, que le profil de génération actif ne connaît pas encore, et le classifieur de modération, coupé en attendant un accord de dépense.
+
+## Ce que la reconstruction dit de Pocket
+
+L'expérience devait vérifier l'analyse. Elle en confirme l'essentiel, et en nuance deux points.
+
+- **Le cadre contraint est bien la clé.** Rien de ce qui précède ne tiendrait si le modèle choisissait ses dépendances. Le template, la liste blanche, le runtime installé en premier et le graphe de la forge rendent le code généré constructible, testable et servable.
+- **Une seule variante du gizmo suffit.** Un runtime qui choisit son transport au démarrage sert le web et l'app avec le même artefact. Je ne sais pas pourquoi Meta en sert deux : peut-être un héritage, ou une contrainte de son app native que je n'ai pas.
+- **On peut fermer davantage le réseau.** Aucune connexion n'est permise depuis un gizmo poptoy. Le prix est faible : un gizmo embarque ses données ou les reçoit de l'hôte.
+
+Et une chose que l'analyse ne pouvait pas montrer : **l'essentiel du travail n'est pas dans l'IA**. La forge, le cœur supposé du produit, compte environ 4 300 lignes sur 62 000. Le reste, c'est un builder, un serveur de contenu hostile, un pont, une app, des consoles, une modération, des quotas et une infrastructure. Un clone de Pocket est d'abord une plateforme d'hébergement de code non fiable, à laquelle un modèle fournit le code.
+
+## Ce que j'en retiens
+
+**Écrire les contraintes avant de comparer les options.** Le plafond de dépense, posé avant la première ligne de code, a façonné l'architecture autant que la sécurité : des doubles locaux, un rejeu des modèles, un prototype à l'arrêt au repos.
+
+**Traiter le risque d'abord.** Des gizmos écrits par un agent de code ont validé le template, le builder, le pont et le serveur avant le premier appel de la forge à un modèle.
+
+**Préférer une contrainte à une consigne.** Une liste blanche vérifiée sur le bundle vaut mieux qu'une phrase de prompt ; un build imposé par le graphe vaut mieux qu'un outil laissé au modèle. Le plan a tenu la portée, l'écriture a écrit le double : seule la mesure l'a montré.
+
+**Vérifier sur la vraie cible.** La WebView d'Android n'est pas Chromium, une sandbox Cloud Run n'est pas un conteneur Docker, et en local il n'y a pas d'IAM. Les tests verts mentaient poliment à chaque fois.
+
+**Avec des agents, le travail devient la décision et la vérification.** Les tests, les parcours dans un vrai navigateur et la trace des décisions ne sont pas des à-côtés : c'est là qu'on découvre ce qui a été mal compris.
+
+Le projet est parti d'une question sur Pocket : est-ce le TikTok du vibe coding ? Je ne sais toujours pas si les gens reviendraient jouer. Je sais maintenant ce que coûte la machine qui le permet : pour un prototype privé, quelques euros par mois au repos, une coupure de sûreté, et une liste précise de ce qu'il faudrait ajouter pour une production.
+
+<Callout type="tip" title="Sources">
+  **L'analyse de départ** : [Pocket, le TikTok du vibe coding ?](/fr/2026/10/pocket-meta-tiktok-du-vibe-coding/), sur ce blog.
+
+**Le projet** : les décisions d'architecture, les notes de conception et le journal du projet ne sont pas publiés ; les faits de cet article en viennent.
+
+**Chiffres** : dépenses de modèles lues dans le registre de coûts de la forge ; lignes comptées sur le code Python, TypeScript, Dart et OpenTofu, hors code généré ; coûts d'infrastructure estimés à partir des pages de prix de Google Cloud et de Cloudflare, en dollars.
+
+</Callout>
+27:Ta663,
 <ThemeImage
   src="/images/2026/pocket/cover.webp"
   alt="Meta Pocket: Make Gizmos en action"
@@ -413,7 +790,7 @@ Je retiens surtout ce que l'exercice montre de la fabrication. Derrière la magi
 
   **Captures** : quatre gizmos publics chargés dans Chrome les 11 et 13 octobre 2026, sans compte.
 </Callout>
-27:T323c,
+28:T323c,
 <ThemeImage
   src="/images/2026/2brain/2brain-devlog-cover.webp"
   alt="Le graphe de 2brain, avec ses sources et leurs connexions."
@@ -593,7 +970,7 @@ Avec 2brain, je travaille toute la chaîne : capturer une source, la rendre inte
 Convex me permet de garder des cycles de développement courts, en faisant évoluer ensemble les données, les workflows et l’interface. La suite consiste à élargir mes évaluations de recherche et à mieux qualifier les propositions du « rêve » avant d’en automatiser davantage la consolidation.
 
 **2brain reste un outil interne de recherche, qui ne sera pas publié tel quel pour le moment.** Je continuerai à partager ici les choix techniques et les enseignements de cette expérimentation : construire un second cerveau qui m’aide à passer de l’information accumulée à une connaissance que je peux vérifier et utiliser.
-28:T90a5,
+29:T90a5,
 <ZoomableThemeImage
   lightSrc="/images/2026/morpher91/cover-studio.webp"
   darkSrc="/images/2026/morpher91/cover-studio.webp"
@@ -1284,7 +1661,7 @@ manipule.
 </Callout>
 
 {/* À FINALISER — compléter les liens avec l'app et un renvoi vers l'article Lorenz Clash. */}
-29:T6906,
+2a:T6906,
 <ZoomableThemeImage
   lightSrc="/images/2026/paper-shaders/paper-shaders-showcase-grid.jpg"
   darkSrc="/images/2026/paper-shaders/paper-shaders-showcase-grid.jpg"
@@ -1624,7 +2001,7 @@ Le portage d'un shader n'est pas seulement une traduction de syntaxe. C'est une 
 Les différences entre GLSL, MSL, le GLSL runtime de Flutter et AGSL ne sont pas insurmontables. Elles deviennent surtout visibles quand on exige de la parité, pas seulement une approximation jolie.
 
 C'est là que le projet est intéressant : une petite bibliothèque graphique devient un laboratoire très concret sur la portabilité du rendu. Les maths restent modestes, mais elles sont partout : dans les coordonnées, les rotations, le bruit, la quantification et les dérivées. Et c'est précisément parce qu'elles sont simples qu'elles doivent être parfaitement alignées.
-2a:T10c4e,
+2b:T10c4e,
 <ZoomableThemeImage
   lightSrc="/images/2026/lorenz-clash/cover.webp"
   darkSrc="/images/2026/lorenz-clash/cover.webp"
@@ -2378,7 +2755,7 @@ Si vous avez lu jusqu'ici, lancez-le pendant la prochaine canicule — et laisse
     </div>
   </div>
 </Callout>
-2b:T1086,
+2c:T1086,
 <ThemeImage
   lightSrc="/images/2026/dartvex/dartvex-cover.webp"
   darkSrc="/images/2026/dartvex/dartvex-cover.webp"
@@ -2435,7 +2812,7 @@ Quand le projet utilise Better Auth, [dartvex_auth_better](https://pub.dev/packa
 <PubDevLink href="https://pub.dev/publishers/andrefrelicot.dev/packages" label="Packages Dartvex sur pub.dev" />
 
 - Demande Convex : [Official Flutter/Dart SDK](https://ship.convex.dev/requests/js7dcrtm07s6ysfk7t1m1w5tfs849t11)
-2c:T225b,
+2d:T225b,
 <ThemeImage
   lightSrc="/images/2026/workproof/workproof-cover.webp"
   darkSrc="/images/2026/workproof/workproof-cover.webp"
@@ -2605,7 +2982,7 @@ WorkProof est disponible sur l'App Store et Google Play.
 
 <AppStoreLink href="https://apps.apple.com/app/work-proof/id6755934931" />
 <PlayStoreLink href="https://play.google.com/store/apps/details?id=app.workproof.osibits" />
-2d:T22e5,
+2e:T22e5,
 <ThemeImage
   lightSrc="/images/2026/logpill/logpill-cover.webp"
   darkSrc="/images/2026/logpill/logpill-cover.webp"
@@ -2805,7 +3182,7 @@ LogPill est disponible sur l'App Store et Google Play.
 
 <AppStoreLink href="https://apps.apple.com/us/app/logpill/id6758589564" />
 <PlayStoreLink href="https://play.google.com/store/apps/details?id=app.logpill.osibits" />
-2e:T38d8,
+2f:T38d8,
 <ThemeImage
   lightSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp"
   darkSrc="/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp"
@@ -3032,7 +3409,7 @@ C'est exactement l'approche d'AppExpress : on ne vend pas un framework. On const
 ---
 
 *Vous hésitez entre ces technologies pour votre projet ? [Prenez rendez-vous](https://cal.com/appexpress) pour en discuter. On vous aide à faire le bon choix, sans engagement.*
-2f:Ta432,
+30:Ta432,
 <ThemeImage
   lightSrc="/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp"
   darkSrc="/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp"
@@ -3677,7 +4054,7 @@ La troisième erreur, souvent invisible : négliger l'interface. Un RAG techniqu
 **Un mot sur les tendances** : gardez un œil sur les architectures à stockage objet comme Turbopuffer, le GraphRAG pour les cas nécessitant exhaustivité et traçabilité des relations, et le Self-RAG qui promet de fiabiliser les architectures agentiques. Le RAG n'est pas en voie de disparition. Il évolue vers une infrastructure de connaissance centrale pour l'IA en entreprise.
 
 **Besoin d'aide pour choisir ?** Chez AppExpress, nous implémentons des systèmes RAG pour les PME, du POC en une semaine au pipeline de production avec évaluation continue. Si vous hésitez entre les options ou si vous voulez valider votre architecture avant de vous engager, [parlons-en](https://appexpress.fr).
-30:T2b46,
+31:T2b46,
 <ThemeImage
   lightSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp"
   darkSrc="/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp"
@@ -3865,7 +4242,7 @@ Ces trois couches ne se concurrencent pas. Elles se complètent. Et c'est leur c
 ---
 
 *Chez AppExpress, nous concevons et accompagnons vos applications métier avec trois dimensions intégrées dès le départ : interface web, application mobile native et intelligence artificielle. Du conseil initial au suivi en production, un seul interlocuteur. [Prenons rendez-vous](https://appexpress.fr) pour en discuter.*
-31:T8a8,
+32:T8a8,
 <ThemeImage
   lightSrc="/images/2026/appexpress.webp"
   darkSrc="/images/2026/appexpress.webp"
@@ -3921,7 +4298,7 @@ Mobile, web, SaaS ou IA générative : l'objectif reste toujours le même, **liv
   L'application mobile est développée en Flutter, offrant une expérience native sur iOS et Android à partir d'une seule base de code.
 
 - **D'autres projets orientés IA générative**, pour explorer et démontrer des usages concrets : **recherche intelligente, génération de contenu, assistants et automatisations.**
-32:T1877,
+33:T1877,
 <ThemeImage
   lightSrc="/images/2025/llmvoice.webp"
   darkSrc="/images/2025/llmvoice.webp"
@@ -4065,7 +4442,7 @@ Taille de l'application : environ 50 Mo. Les modèles MLX se téléchargent à l
 ---
 ## 🛟 Support
 Besoin d'aide ou envie de partager un retour ? Écris à [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-33:T16aa,
+34:T16aa,
 <ThemeImage
   lightSrc="/images/2025/ble-uscope.webp"
   darkSrc="/images/2025/ble-uscope.webp"
@@ -4167,7 +4544,7 @@ Disponible sur l'App Store et Google Play.
 ## Support
 
 Besoin d'aide ou envie de partager un retour ? Écris à [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-34:Tccd,
+35:Tccd,
 <ThemeImage
   lightSrc="/images/2025/decibelpeak.webp"
   darkSrc="/images/2025/decibelpeak.webp"
@@ -4236,7 +4613,7 @@ Disponible sur l'App Store et Google Play.
 ## Support
 
 Besoin d'aide ou envie de partager un retour ? Écris à [support@andrefrelicot.dev](mailto:support@andrefrelicot.dev).
-35:T524,
+36:T524,
 <ThemeImage
   lightSrc="/images/2025/hello-world.webp"
   darkSrc="/images/2025/hello-world.webp"
@@ -4273,7 +4650,7 @@ La création de **mini-jeux vidéo** m’intéresse également, qu’il s’agis
 ---
 
 **Restez à l’écoute !**
-36:Ta0f,
+37:Ta0f,
 <ThreeCube />
 
 
@@ -4319,13 +4696,13 @@ SIRET : 939 948 865 00018<br />
 TVA/VAT : FR56 939948865
 
 <OsibitsLogo />
-13:["$","div",null,{"lang":"fr","className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"fr","navLinks":[{"href":"/fr","label":"Devlogs"},{"href":"/fr?tag=apps","label":"Apps"},{"href":"/fr/2025/09/a-propos","label":"À propos"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"Builder • Freelance Software Engineer"}]]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$15",null,{"fallback":null,"children":["$","$L25",null,{"locale":"fr","copy":{"placeholder":"Rechercher un contenu par titre ou corps...","allLabel":"Tous","empty":"Aucun contenu correspondant pour le moment.","showTags":"Afficher les étiquettes & la recherche","hideTags":"Masquer les étiquettes & la recherche","loadMore":"Charger plus de résultats"},"initialDocs":[{"slug":"pocket-meta-tiktok-du-vibe-coding","title":"Meta Pocket: Make Gizmos, le TikTok du vibe coding ?","description":"Avec Pocket: Make Gizmos, Meta a lancé une app où l'on scrolle des mini-applications générées par IA. Analyse produit, business et stratégie, puis autopsie technique de quatre gizmos ouverts dans un navigateur.","tags":["ai","vibe-coding","meta","pocket-make-gizmos","product","strategy","business","social-media","llm","codegen","reverse-engineering","web","react","threejs","webview","architecture"],"content":"$26","image":"/images/2026/pocket/cover.webp","date":"2026-10-13"},{"slug":"2brain-second-cerveau-agentique-rag-convex","title":"2brain : mon second cerveau agentique & RAG basé sur Convex","description":"Un second cerveau dans le cloud, accessible en web, CLI et MCP : retour d’expérience sur le RAG, les workers et la consolidation assistée des connaissances.","tags":["apps","ai","rag","agents","convex","knowledge-graph","mcp","typescript","workers","second-brain","vector-db","embeddings","llm","ocr","hybrid-search","chrome-extension","cli","realtime","workflows"],"content":"$27","image":"/images/2026/2brain/2brain-devlog-cover.webp","date":"2026-09-22"},{"slug":"morpher91-effet-special-1991-recode-webgpu","title":"Morpher91 : l'effet spécial de 1991, recodé en WebGPU dans votre navigateur","description":"Morpher91, un studio pédagogique de morphing 2D : crossfade, mesh, Thin-Plate Spline et Beier–Neely, rendus en WebGPU, avec vidéo, calques, masques GPU et export MP4 — le tout sans serveur.","tags":["apps","source_code","webgpu","wgsl","shaders","morphing","image-processing","graphics","typescript","webcodecs","computer-graphics-history"],"content":"$28","image":"/images/2026/morpher91/cover-studio.webp","date":"2026-09-08"},{"slug":"porter-paper-shaders-swift-metal-flutter","title":"Porter Paper Shaders vers Swift/Metal, Flutter et Android/AGSL","description":"Retour sur le portage de 29 shaders WebGL vers Swift/Metal, Flutter et Android natif : contrat commun, différences de langages shader, golden renders, presets et petites mathématiques utiles.","tags":["apps","source_code","shaders","glsl","msl","agsl","metal","swift","flutter","dart","android","kotlin","jetpack-compose","graphics","pubdev","swiftpm","generative-art"],"content":"$29","image":"/images/2026/paper-shaders/paper-shaders-showcase-grid.jpg","date":"2026-07-06"},{"slug":"lorenz-clash-experience-webgpu-dont-vous-faites-partie","title":"Lorenz Clash : construire une expérience WebGPU dont vous faites partie","description":"Comment une vague de chaleur est devenue une expérience caméra WebGPU : mathématiques de Lorenz, rendu shader, effets pilotés par la musique, export vidéo local et PWA fullscreen.","tags":["apps","source_code","webgpu","wgsl","shaders","lorenz-attractor","chaos-theory","generative-art","pwa","graphics","typescript","audio","webcodecs"],"content":"$2a","image":"/images/2026/lorenz-clash/cover.webp","date":"2026-06-26"},{"slug":"dartvex-packages-dart-flutter-convex","title":"Dartvex : des packages Dart et Flutter pour Convex","description":"Dartvex est un écosystème de packages Dart et Flutter pour Convex : client temps réel, widgets Flutter, génération typée, offline et Better Auth.","tags":["apps","source_code","dartvex","convex","dart","flutter","realtime","packages","pubdev","mobile","offline","codegen"],"content":"$2b","image":"/images/2026/dartvex/dartvex-cover.webp","date":"2026-06-19"},{"slug":"workproof-suivi-temps-local-first-appexpress","title":"WorkProof : suivi du temps local-first avec AppExpress","description":"Retour de dev sur WorkProof, une app iOS/Android et web de suivi du temps, projets, tâches et preuves de travail construite avec Ionic, Capacitor, Next.js, Supabase et une approche local-first.","tags":["apps","appexpress","workproof","b2c","b2b","saas","mobile","local-first","ionic","capacitor","react","nextjs","supabase"],"content":"$2c","image":"/images/2026/workproof/workproof-cover.webp","date":"2026-06-14"},{"slug":"logpill-app-b2c-showcase-appexpress","title":"LogPill : une app B2C construite avec AppExpress","description":"Retour de dev sur LogPill, une application de suivi de traitement iOS/Android qui sert de showcase AppExpress : Expo, React Native, Next.js, Supabase et logique offline-first.","tags":["apps","appexpress","logpill","b2c","mobile","react-native","expo","nextjs","supabase"],"content":"$2d","image":"/images/2026/logpill/logpill-cover.webp","date":"2026-06-12"},{"slug":"quelle-technologie-mobile-choisir","title":"Application mobile : quelle technologie choisir en 2026 ?","description":"Capacitor, React Native, Flutter ou natif ? Guide complet pour décideurs qui veulent comprendre les vrais compromis derrière chaque choix technologique.","tags":["appexpress","mobile","flutter","react-native","capacitor","native","strategy","ai"],"content":"$2e","image":"/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp","date":"2026-03-28"},{"slug":"quel-systeme-rag-choisir","title":"Quel système RAG choisir pour votre application métier ?","description":"Guide complet pour choisir votre stack RAG en 2026 : bases vectorielles, frameworks d'orchestration et recommandations par profil d'entreprise.","tags":["appexpress","rag","ai","vector-database","llm","architecture"],"content":"$2f","image":"/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp","date":"2026-03-23"},{"slug":"applications-metier-interrogeables-par-ia","title":"Rendre vos applications métier interrogeables par l'IA","description":"Interface web, application mobile, intelligence artificielle : comment ces trois couches transforment une application métier en véritable outil de pilotage pour votre entreprise.","tags":["appexpress","business-app","ai","mobile","automation","b2b","crm"],"content":"$30","image":"/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp","date":"2026-03-10"},{"slug":"appexpress-pre-lancement","title":"AppExpress – Pré-lancement de l'offre","description":"Vos applications, clé en main, à la carte.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$31","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice","description":"Démo technique iOS pour évaluer les API de reconnaissance vocale d'iOS 26 (SpeechAnalyzer / SpeechTranscriber) et l'exécution locale de LLM open-weight quantifiés en 4 bits via MLX, avec désormais un premier modèle à raisonnement (Qwen3).","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","reasoning","qwen3","source_code"],"content":"$32","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Scanner et analyseur Bluetooth Low Energy avancé pour iOS, iPadOS, Android et macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$33","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak est un sonomètre mobile pour iOS et Android qui mesure le niveau sonore en temps réel, avec visualisations audio, historique, pic dB et calibration locale.","tags":["apps","source_code","ios","android","audio"],"content":"$34","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"Hello World !","description":"Bienvenue sur mon Devlog !  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$35","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"a-propos","title":"À propos","description":"André Frélicot - Builder • Freelance Software Engineer","tags":["about"],"content":"$36","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"pocket-meta-tiktok-du-vibe-coding":"/fr/2026/10/pocket-meta-tiktok-du-vibe-coding","2brain-second-cerveau-agentique-rag-convex":"/fr/2026/09/2brain-second-cerveau-agentique-rag-convex","morpher91-effet-special-1991-recode-webgpu":"/fr/2026/09/morpher91-effet-special-1991-recode-webgpu","porter-paper-shaders-swift-metal-flutter":"/fr/2026/07/porter-paper-shaders-swift-metal-flutter","lorenz-clash-experience-webgpu-dont-vous-faites-partie":"/fr/2026/06/lorenz-clash-experience-webgpu-dont-vous-faites-partie","dartvex-packages-dart-flutter-convex":"/fr/2026/06/dartvex-packages-dart-flutter-convex","workproof-suivi-temps-local-first-appexpress":"/fr/2026/06/workproof-suivi-temps-local-first-appexpress","logpill-app-b2c-showcase-appexpress":"/fr/2026/06/logpill-app-b2c-showcase-appexpress","quelle-technologie-mobile-choisir":"/fr/2026/03/quelle-technologie-mobile-choisir","quel-systeme-rag-choisir":"/fr/2026/03/quel-systeme-rag-choisir","applications-metier-interrogeables-par-ia":"/fr/2026/03/applications-metier-interrogeables-par-ia","appexpress-pre-lancement":"/fr/2026/01/appexpress-pre-lancement","llmvoice":"/fr/2025/10/llmvoice","ble-uscope":"/fr/2025/10/ble-uscope","decibelpeak":"/fr/2025/09/decibelpeak","hello-world":"/fr/2025/09/hello-world","a-propos":"/fr/2025/09/a-propos"}}]}]}],"$L37"]}]
-37:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}],["$","$L6","YouTube",{"href":"https://www.youtube.com/@AndreFrelicotDev","target":"_blank","rel":"noopener noreferrer","aria-label":"YouTube","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":"$L38"}]}],"$L39","$L3a","$L3b"]}]]}]}]
-38:["$","path",null,{"d":"M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"}]
-3c:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z39:["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"fillRule":"nonzero","d":"$3c"}]}]}]
-3a:["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}]
-3d:T7c4,M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.3876-2.1228C21.2982 1.33 20.628.9208 19.8378.6165 19.074.321 18.2017.1197 16.9244.0645 15.6471.0093 15.236-.005 11.977.0014 8.718.0076 8.31.0215 7.0301.0839m.1402 21.6932c-1.17-.0509-1.8053-.2453-2.2287-.408-.5606-.216-.96-.4771-1.3819-.895-.422-.4178-.6811-.8186-.9-1.378-.1644-.4234-.3624-1.058-.4171-2.228-.0595-1.2645-.072-1.6442-.079-4.848-.007-3.2037.0053-3.583.0607-4.848.05-1.169.2456-1.805.408-2.2282.216-.5613.4762-.96.895-1.3816.4188-.4217.8184-.6814 1.3783-.9003.423-.1651 1.0575-.3614 2.227-.4171 1.2655-.06 1.6447-.072 4.848-.079 3.2033-.007 3.5835.005 4.8495.0608 1.169.0508 1.8053.2445 2.228.408.5608.216.96.4754 1.3816.895.4217.4194.6816.8176.9005 1.3787.1653.4217.3617 1.056.4169 2.2263.0602 1.2655.0739 1.645.0796 4.848.0058 3.203-.0055 3.5834-.061 4.848-.051 1.17-.245 1.8055-.408 2.2294-.216.5604-.4763.96-.8954 1.3814-.419.4215-.8181.6811-1.3783.9-.4224.1649-1.0577.3617-2.2262.4174-1.2656.0595-1.6448.072-4.8493.079-3.2045.007-3.5825-.006-4.848-.0608M16.953 5.5864A1.44 1.44 0 1 0 18.39 4.144a1.44 1.44 0 0 0-1.437 1.4424M5.8385 12.012c.0067 3.4032 2.7706 6.1557 6.173 6.1493 3.4026-.0065 6.157-2.7701 6.1506-6.1733-.0065-3.4032-2.771-6.1565-6.174-6.1498-3.403.0067-6.156 2.771-6.1496 6.1738M8 12.0077a4 4 0 1 1 4.008 3.9921A3.9996 3.9996 0 0 1 8 12.00773b:["$","$L6","Instagram",{"href":"https://www.instagram.com/andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Instagram","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"$3d"}]}]}]
+13:["$","div",null,{"lang":"fr","className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-14","children":[["$","$L5",null,{"locale":"fr","navLinks":[{"href":"/fr","label":"Devlogs"},{"href":"/fr?tag=apps","label":"Apps"},{"href":"/fr/2025/09/a-propos","label":"À propos"}],"title":["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"André Frélicot"}],["$","span",null,{"className":"mt-1 text-xs font-semibold uppercase tracking-[0.28em] text-foreground/55 sm:text-sm sm:tracking-[0.32em]","children":"Builder • Freelance Software Engineer"}]]}],"languagePath":"$undefined","languagePaths":"$undefined"}],["$","main",null,{"className":"mt-8 pb-10","children":["$","$15",null,{"fallback":null,"children":["$","$L25",null,{"locale":"fr","copy":{"placeholder":"Rechercher un contenu par titre ou corps...","allLabel":"Tous","empty":"Aucun contenu correspondant pour le moment.","showTags":"Afficher les étiquettes & la recherche","hideTags":"Masquer les étiquettes & la recherche","loadMore":"Charger plus de résultats"},"initialDocs":[{"slug":"poptoy-j-ai-construit-meta-pocket-sur-google-cloud","title":"J'ai construit Meta Pocket sur Google Cloud","description":"Après l'analyse de Meta Pocket, la mise à l'épreuve : poptoy, une reconstruction indépendante du concept, conçue avec des agents de code et mise en ligne sur Google Cloud. Ce qu'il a fallu construire, les décisions qui comptent, et ce que l'expérience a vérifié.","tags":["ai","poptoy","pocket-make-gizmos","google-cloud","architecture","coding-agents","agents","adk","gemini","llm","codegen","security","sandbox","cloud-run","cloudflare","finops","flutter","python","fastapi","react","opentofu","terraform"],"content":"$26","image":"/images/2026/poptoy/cover.webp","date":"2026-11-03"},{"slug":"pocket-meta-tiktok-du-vibe-coding","title":"Meta Pocket: Make Gizmos, le TikTok du vibe coding ?","description":"Avec Pocket: Make Gizmos, Meta a lancé une app où l'on scrolle des mini-applications générées par IA. Analyse produit, business et stratégie, puis autopsie technique de quatre gizmos ouverts dans un navigateur.","tags":["ai","vibe-coding","meta","pocket-make-gizmos","product","strategy","business","social-media","llm","codegen","reverse-engineering","web","react","threejs","webview","architecture"],"content":"$27","image":"/images/2026/pocket/cover.webp","date":"2026-10-13"},{"slug":"2brain-second-cerveau-agentique-rag-convex","title":"2brain : mon second cerveau agentique & RAG basé sur Convex","description":"Un second cerveau dans le cloud, accessible en web, CLI et MCP : retour d’expérience sur le RAG, les workers et la consolidation assistée des connaissances.","tags":["apps","ai","rag","agents","convex","knowledge-graph","mcp","typescript","workers","second-brain","vector-db","embeddings","llm","ocr","hybrid-search","chrome-extension","cli","realtime","workflows"],"content":"$28","image":"/images/2026/2brain/2brain-devlog-cover.webp","date":"2026-09-22"},{"slug":"morpher91-effet-special-1991-recode-webgpu","title":"Morpher91 : l'effet spécial de 1991, recodé en WebGPU dans votre navigateur","description":"Morpher91, un studio pédagogique de morphing 2D : crossfade, mesh, Thin-Plate Spline et Beier–Neely, rendus en WebGPU, avec vidéo, calques, masques GPU et export MP4 — le tout sans serveur.","tags":["apps","source_code","webgpu","wgsl","shaders","morphing","image-processing","graphics","typescript","webcodecs","computer-graphics-history"],"content":"$29","image":"/images/2026/morpher91/cover-studio.webp","date":"2026-09-08"},{"slug":"porter-paper-shaders-swift-metal-flutter","title":"Porter Paper Shaders vers Swift/Metal, Flutter et Android/AGSL","description":"Retour sur le portage de 29 shaders WebGL vers Swift/Metal, Flutter et Android natif : contrat commun, différences de langages shader, golden renders, presets et petites mathématiques utiles.","tags":["apps","source_code","shaders","glsl","msl","agsl","metal","swift","flutter","dart","android","kotlin","jetpack-compose","graphics","pubdev","swiftpm","generative-art"],"content":"$2a","image":"/images/2026/paper-shaders/paper-shaders-showcase-grid.jpg","date":"2026-07-06"},{"slug":"lorenz-clash-experience-webgpu-dont-vous-faites-partie","title":"Lorenz Clash : construire une expérience WebGPU dont vous faites partie","description":"Comment une vague de chaleur est devenue une expérience caméra WebGPU : mathématiques de Lorenz, rendu shader, effets pilotés par la musique, export vidéo local et PWA fullscreen.","tags":["apps","source_code","webgpu","wgsl","shaders","lorenz-attractor","chaos-theory","generative-art","pwa","graphics","typescript","audio","webcodecs"],"content":"$2b","image":"/images/2026/lorenz-clash/cover.webp","date":"2026-06-26"},{"slug":"dartvex-packages-dart-flutter-convex","title":"Dartvex : des packages Dart et Flutter pour Convex","description":"Dartvex est un écosystème de packages Dart et Flutter pour Convex : client temps réel, widgets Flutter, génération typée, offline et Better Auth.","tags":["apps","source_code","dartvex","convex","dart","flutter","realtime","packages","pubdev","mobile","offline","codegen"],"content":"$2c","image":"/images/2026/dartvex/dartvex-cover.webp","date":"2026-06-19"},{"slug":"workproof-suivi-temps-local-first-appexpress","title":"WorkProof : suivi du temps local-first avec AppExpress","description":"Retour de dev sur WorkProof, une app iOS/Android et web de suivi du temps, projets, tâches et preuves de travail construite avec Ionic, Capacitor, Next.js, Supabase et une approche local-first.","tags":["apps","appexpress","workproof","b2c","b2b","saas","mobile","local-first","ionic","capacitor","react","nextjs","supabase"],"content":"$2d","image":"/images/2026/workproof/workproof-cover.webp","date":"2026-06-14"},{"slug":"logpill-app-b2c-showcase-appexpress","title":"LogPill : une app B2C construite avec AppExpress","description":"Retour de dev sur LogPill, une application de suivi de traitement iOS/Android qui sert de showcase AppExpress : Expo, React Native, Next.js, Supabase et logique offline-first.","tags":["apps","appexpress","logpill","b2c","mobile","react-native","expo","nextjs","supabase"],"content":"$2e","image":"/images/2026/logpill/logpill-cover.webp","date":"2026-06-12"},{"slug":"quelle-technologie-mobile-choisir","title":"Application mobile : quelle technologie choisir en 2026 ?","description":"Capacitor, React Native, Flutter ou natif ? Guide complet pour décideurs qui veulent comprendre les vrais compromis derrière chaque choix technologique.","tags":["appexpress","mobile","flutter","react-native","capacitor","native","strategy","ai"],"content":"$2f","image":"/images/2026/appexpress/quelle-technologie-mobile-choisir/cover.webp","date":"2026-03-28"},{"slug":"quel-systeme-rag-choisir","title":"Quel système RAG choisir pour votre application métier ?","description":"Guide complet pour choisir votre stack RAG en 2026 : bases vectorielles, frameworks d'orchestration et recommandations par profil d'entreprise.","tags":["appexpress","rag","ai","vector-database","llm","architecture"],"content":"$30","image":"/images/2026/appexpress/quel-systeme-rag-choisir/cover.webp","date":"2026-03-23"},{"slug":"applications-metier-interrogeables-par-ia","title":"Rendre vos applications métier interrogeables par l'IA","description":"Interface web, application mobile, intelligence artificielle : comment ces trois couches transforment une application métier en véritable outil de pilotage pour votre entreprise.","tags":["appexpress","business-app","ai","mobile","automation","b2b","crm"],"content":"$31","image":"/images/2026/appexpress/applications-metier-interrogeables-par-ia/cover.webp","date":"2026-03-10"},{"slug":"appexpress-pre-lancement","title":"AppExpress – Pré-lancement de l'offre","description":"Vos applications, clé en main, à la carte.","tags":["appexpress","mobile","web","saas","development","offer","business","b2b","ios","android","vercel","convex","flutter"],"content":"$32","image":"/images/2026/appexpress.webp","date":"2026-01-13"},{"slug":"llmvoice","title":"LLMVoice","description":"Démo technique iOS pour évaluer les API de reconnaissance vocale d'iOS 26 (SpeechAnalyzer / SpeechTranscriber) et l'exécution locale de LLM open-weight quantifiés en 4 bits via MLX, avec désormais un premier modèle à raisonnement (Qwen3).","tags":["apps","llm","mlx","apple_intelligence","ios26","speechanalyzer","speechtranscriber","audio","voice","local","on_device","reasoning","qwen3","source_code"],"content":"$33","image":"/images/2025/llmvoice.webp","date":"2025-10-14"},{"slug":"ble-uscope","title":"BLE UScope 1.0","description":"Scanner et analyseur Bluetooth Low Energy avancé pour iOS, iPadOS, Android et macOS Catalyst.","tags":["apps","bluetooth","ble","ios","android","macos","ipados"],"content":"$34","image":"/images/2025/ble-uscope.webp","date":"2025-10-06"},{"slug":"decibelpeak","title":"DecibelPeak","description":"DecibelPeak est un sonomètre mobile pour iOS et Android qui mesure le niveau sonore en temps réel, avec visualisations audio, historique, pic dB et calibration locale.","tags":["apps","source_code","ios","android","audio"],"content":"$35","image":"/images/2025/decibelpeak.webp","date":"2025-09-23"},{"slug":"hello-world","title":"Hello World !","description":"Bienvenue sur mon Devlog !  cyber • infosec • cloud • IoT • GPU • graphics • XR • mobile • music & audio","tags":["devlog"],"content":"$36","image":"/images/2025/hello-world.webp","date":"2025-09-22"},{"slug":"a-propos","title":"À propos","description":"André Frélicot - Builder • Freelance Software Engineer","tags":["about"],"content":"$37","image":"/images/2025/about.webp","date":"2025-09-21"}],"pathsBySlug":{"poptoy-j-ai-construit-meta-pocket-sur-google-cloud":"/fr/2026/11/poptoy-j-ai-construit-meta-pocket-sur-google-cloud","pocket-meta-tiktok-du-vibe-coding":"/fr/2026/10/pocket-meta-tiktok-du-vibe-coding","2brain-second-cerveau-agentique-rag-convex":"/fr/2026/09/2brain-second-cerveau-agentique-rag-convex","morpher91-effet-special-1991-recode-webgpu":"/fr/2026/09/morpher91-effet-special-1991-recode-webgpu","porter-paper-shaders-swift-metal-flutter":"/fr/2026/07/porter-paper-shaders-swift-metal-flutter","lorenz-clash-experience-webgpu-dont-vous-faites-partie":"/fr/2026/06/lorenz-clash-experience-webgpu-dont-vous-faites-partie","dartvex-packages-dart-flutter-convex":"/fr/2026/06/dartvex-packages-dart-flutter-convex","workproof-suivi-temps-local-first-appexpress":"/fr/2026/06/workproof-suivi-temps-local-first-appexpress","logpill-app-b2c-showcase-appexpress":"/fr/2026/06/logpill-app-b2c-showcase-appexpress","quelle-technologie-mobile-choisir":"/fr/2026/03/quelle-technologie-mobile-choisir","quel-systeme-rag-choisir":"/fr/2026/03/quel-systeme-rag-choisir","applications-metier-interrogeables-par-ia":"/fr/2026/03/applications-metier-interrogeables-par-ia","appexpress-pre-lancement":"/fr/2026/01/appexpress-pre-lancement","llmvoice":"/fr/2025/10/llmvoice","ble-uscope":"/fr/2025/10/ble-uscope","decibelpeak":"/fr/2025/09/decibelpeak","hello-world":"/fr/2025/09/hello-world","a-propos":"/fr/2025/09/a-propos"}}]}]}],"$L38"]}]
+38:["$","footer",null,{"className":"bg-background/80 py-8 text-sm text-foreground/80 mt-6","children":["$","div",null,{"className":"flex w-full flex-col gap-4 border-t footer-border pt-6 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide opacity-70","children":["© ",2026," André Frélicot"]}],["$","nav",null,{"className":"flex items-center gap-2 self-end sm:ml-auto","children":[["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/in/andrefrelicot/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 640 640","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"}]}]}],["$","$L6","X",{"href":"https://x.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}],["$","$L6","GitHub",{"href":"https://github.com/AndreFrelicot","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]}]}],["$","$L6","YouTube",{"href":"https://www.youtube.com/@AndreFrelicotDev","target":"_blank","rel":"noopener noreferrer","aria-label":"YouTube","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":"$L39"}]}],"$L3a","$L3b","$L3c"]}]]}]}]
+39:["$","path",null,{"d":"M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"}]
+3d:T5e5,M342.382 237.037a175.843 175.843 0 00-6.707-3.045c-3.947-72.737-43.692-114.379-110.428-114.805-38.505-.256-72.972 15.445-94.454 48.041l36.702 25.178c15.265-23.159 39.221-28.097 56.864-28.097.203 0 .408 0 .61.003 21.973.139 38.555 6.528 49.287 18.987 7.81 9.071 13.034 21.606 15.62 37.425-19.482-3.312-40.552-4.329-63.077-3.039-63.449 3.656-104.24 40.661-101.5 92.081 1.39 26.083 14.384 48.522 36.586 63.18 18.773 12.391 42.95 18.451 68.078 17.08 33.183-1.819 59.214-14.48 77.376-37.631 13.793-17.579 22.516-40.362 26.368-69.068 15.814 9.543 27.535 22.103 34.007 37.2 11.007 25.665 11.648 67.84-22.764 102.222-30.15 30.121-66.392 43.151-121.164 43.554-60.757-.45-106.707-19.934-136.582-57.914-27.976-35.563-42.434-86.93-42.973-152.675.539-65.745 14.997-117.113 42.973-152.675 29.875-37.979 75.824-57.464 136.581-57.914 61.197.455 107.948 20.033 138.967 58.195 15.21 18.713 26.677 42.248 34.236 69.688l43.011-11.476c-9.163-33.775-23.581-62.881-43.203-87.017C357.031 25.59 298.872.519 223.935 0h-.3C148.851.518 91.343 25.683 52.709 74.794 18.331 118.498.598 179.308.002 255.534l-.002.18.002.18c.596 76.226 18.329 137.037 52.707 180.741 38.634 49.11 96.142 74.277 170.926 74.794h.3c66.487-.462 113.352-17.868 151.96-56.442 50.511-50.463 48.991-113.717 32.342-152.548-11.944-27.847-34.716-50.464-65.855-65.402zm-114.795 107.93c-27.809 1.566-56.7-10.917-58.124-37.652-1.056-19.823 14.108-41.942 59.83-44.577 5.237-.302 10.375-.45 15.422-.45 16.609 0 32.146 1.613 46.272 4.702-5.268 65.798-36.173 76.483-63.4 77.977z3a:["$","$L6","Threads",{"href":"https://www.threads.com/@andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Threads","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 439.999 511.429","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"fillRule":"nonzero","d":"$3d"}]}]}]
+3b:["$","$L6","Bluesky",{"href":"https://bsky.app/profile/andrefrelicot.bsky.social","target":"_blank","rel":"noopener noreferrer","aria-label":"Bluesky","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12 10.8c-1.087 -2.114 -4.046 -6.053 -6.798 -7.995C2.566 0.944 1.561 1.266 0.902 1.565 0.139 1.908 0 3.08 0 3.768c0 0.69 0.378 5.65 0.624 6.479 0.815 2.736 3.713 3.66 6.383 3.364 0.136 -0.02 0.275 -0.039 0.415 -0.056 -0.138 0.022 -0.276 0.04 -0.415 0.056 -3.912 0.58 -7.387 2.005 -2.83 7.078 5.013 5.19 6.87 -1.113 7.823 -4.308 0.953 3.195 2.05 9.271 7.733 4.308 4.267 -4.308 1.172 -6.498 -2.74 -7.078a8.741 8.741 0 0 1 -0.415 -0.056c0.14 0.017 0.279 0.036 0.415 0.056 2.67 0.297 5.568 -0.628 6.383 -3.364 0.246 -0.828 0.624 -5.79 0.624 -6.478 0 -0.69 -0.139 -1.861 -0.902 -2.206 -0.659 -0.298 -1.664 -0.62 -4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"}]}]}]
+3e:T7c4,M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.3876-2.1228C21.2982 1.33 20.628.9208 19.8378.6165 19.074.321 18.2017.1197 16.9244.0645 15.6471.0093 15.236-.005 11.977.0014 8.718.0076 8.31.0215 7.0301.0839m.1402 21.6932c-1.17-.0509-1.8053-.2453-2.2287-.408-.5606-.216-.96-.4771-1.3819-.895-.422-.4178-.6811-.8186-.9-1.378-.1644-.4234-.3624-1.058-.4171-2.228-.0595-1.2645-.072-1.6442-.079-4.848-.007-3.2037.0053-3.583.0607-4.848.05-1.169.2456-1.805.408-2.2282.216-.5613.4762-.96.895-1.3816.4188-.4217.8184-.6814 1.3783-.9003.423-.1651 1.0575-.3614 2.227-.4171 1.2655-.06 1.6447-.072 4.848-.079 3.2033-.007 3.5835.005 4.8495.0608 1.169.0508 1.8053.2445 2.228.408.5608.216.96.4754 1.3816.895.4217.4194.6816.8176.9005 1.3787.1653.4217.3617 1.056.4169 2.2263.0602 1.2655.0739 1.645.0796 4.848.0058 3.203-.0055 3.5834-.061 4.848-.051 1.17-.245 1.8055-.408 2.2294-.216.5604-.4763.96-.8954 1.3814-.419.4215-.8181.6811-1.3783.9-.4224.1649-1.0577.3617-2.2262.4174-1.2656.0595-1.6448.072-4.8493.079-3.2045.007-3.5825-.006-4.848-.0608M16.953 5.5864A1.44 1.44 0 1 0 18.39 4.144a1.44 1.44 0 0 0-1.437 1.4424M5.8385 12.012c.0067 3.4032 2.7706 6.1557 6.173 6.1493 3.4026-.0065 6.157-2.7701 6.1506-6.1733-.0065-3.4032-2.771-6.1565-6.174-6.1498-3.403.0067-6.156 2.771-6.1496 6.1738M8 12.0077a4 4 0 1 1 4.008 3.9921A3.9996 3.9996 0 0 1 8 12.00773c:["$","$L6","Instagram",{"href":"https://www.instagram.com/andrefrelicot.dev","target":"_blank","rel":"noopener noreferrer","aria-label":"Instagram","className":"inline-flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 text-foreground transition hover:border-foreground/40 hover:text-foreground","children":["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"$3e"}]}]}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-3e:I[1563,["/_next/static/chunks/2v53fheez08gf.js","/_next/static/chunks/30v7ty5alg1y1.js"],"IconMark"]
+3f:I[1563,["/_next/static/chunks/2v53fheez08gf.js","/_next/static/chunks/30v7ty5alg1y1.js"],"IconMark"]
 16:null
-1b:[["$","title","0",{"children":"André Frélicot - Builder • Freelance Software Engineer"}],["$","meta","1",{"name":"description","content":"Une sélection de mes écrits et projets."}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","href":"https://andrefrelicot.dev/feed.xml"}],["$","link","3",{"rel":"icon","href":"/favicon.ico"}],["$","link","4",{"rel":"icon","href":"/favicon-256.png","sizes":"256x256","type":"image/png"}],["$","link","5",{"rel":"apple-touch-icon","href":"/favicon-256.png","sizes":"256x256","type":"image/png"}],["$","$L3e","6",{}]]
+1b:[["$","title","0",{"children":"André Frélicot - Builder • Freelance Software Engineer"}],["$","meta","1",{"name":"description","content":"Une sélection de mes écrits et projets."}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","href":"https://andrefrelicot.dev/feed.xml"}],["$","link","3",{"rel":"icon","href":"/favicon.ico"}],["$","link","4",{"rel":"icon","href":"/favicon-256.png","sizes":"256x256","type":"image/png"}],["$","link","5",{"rel":"apple-touch-icon","href":"/favicon-256.png","sizes":"256x256","type":"image/png"}],["$","$L3f","6",{}]]
